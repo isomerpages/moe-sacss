@@ -31,9 +31,9 @@ The Crown above the crest symbolises the supremacy of God and for all to be full
 
 <p style="text-align: center;"> As a Canossian school, SACSS nurtures each girl in her own way by forming hearts, enlightening minds and empowering spirits to live in <b>The Way</b>, <b>The Truth</b> and <b>The Life</b> </p>
 
+<p style="text-align: center;"> We express our mission and vision in three powerful words to describe the experience we promote for the girls in our school: </p>
 
 
-We express our mission and vision in three powerful words to describe the experience we promote for the girls in our school:
 
 **_Belong_**
 
