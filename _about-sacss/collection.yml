@@ -2,4 +2,5 @@ collections:
   about-sacss:
     output: true
     order:
+      - Canossian Education/SCHOOL CREST, VISION, MISSION, VALUES.md
       - Canossian Education/.keep
