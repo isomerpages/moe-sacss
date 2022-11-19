@@ -2,6 +2,7 @@ collections:
   about-sacss:
     output: true
     order:
+      - The Principal Speaks.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
