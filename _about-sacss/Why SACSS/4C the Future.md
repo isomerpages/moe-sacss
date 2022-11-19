@@ -11,7 +11,7 @@ third_nav_title: Why SACSS
 
 
 
-### **We believe**
+<p style="text-align: center;"> <b>We believe</b></p>
 
 …in the potential of our girls and their power to make a positive impact on the lives of those around them. We appreciate commonalities, yet we celebrate differences. We inspire, inform and enable our girls to make the most of their talents and opportunities. We help our girls understand the world we live in, and give them the dispositions and skillset to grow throughout their lives in order to create a better future for themselves and others.
 
@@ -22,4 +22,4 @@ Our girls are:
 *   _Committed_ to staying true to themselves, their values, convictions and goals, continuing on the path even in the face of adversity.
 *   _Cheerful_ to be comfortable with themselves and possess the resilience to bring happiness and positivity to self and others.
 
-<p style="text-align: center;"> <b>We 4C the future <br> We are Canossians of Influence  </b></p> 
+<p style="text-align: center;"> <b>We 4C the future <br> We are Canossians of Influence  </b></p>
