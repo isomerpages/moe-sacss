@@ -19,7 +19,7 @@ third_nav_title: School Management
 
 **Email Address:** [sacss@moe.edu.sg](mailto:sacss@moe.edu.sg)
 
-**Web-site Address:** [https://stanthonyscanossiansec.moe.edu.sg](https://stanthonyscanossiansec.moe.edu.sg/)
+**Web-site Address:** <a href="https://stanthonyscanossiansec.moe.edu.sg/" target="_blank">https://stanthonyscanossiansec.moe.edu.sg/</a>
 
 **Charity Status:** St Anthony’s Canossian Secondary School is an Exempt Charity School.
 
