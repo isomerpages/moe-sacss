@@ -2,9 +2,6 @@ collections:
   about-sacss:
     output: true
     order:
-      - School Management/.keep
-      - School Management/School Management.md
-      - School Management/Financial Information.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
@@ -15,3 +12,6 @@ collections:
       - Why SACSS/Spirituality.md
       - The Principal Speaks.md
       - School Leaders.md
+      - School Management/.keep
+      - School Management/School Management.md
+      - School Management/Financial Information.md
