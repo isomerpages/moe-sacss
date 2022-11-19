@@ -44,4 +44,4 @@ The Crown above the crest symbolises the supremacy of God and for all to be full
 
 <p style="text-align: center;"> <b><i>Become</i></b> </p>
 
-Exploring what a girl can become is the essence of the SACSS experience. We pursue school excellence for our girls to realise their aspirations and make positive impacts in society. They graduate prepared to succeed in life and at work. Upon graduation, they become part of a powerful sisterhood of alumnae who stay connected and support one another.
+<p style="text-align: center;"> Exploring what a girl can become is the essence of the SACSS experience. We pursue school excellence for our girls to realise their aspirations and make positive impacts in society. They graduate prepared to succeed in life and at work. Upon graduation, they become part of a powerful sisterhood of alumnae who stay connected and support one another.</b> </p>
