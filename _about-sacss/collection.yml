@@ -2,5 +2,6 @@ collections:
   about-sacss:
     output: true
     order:
+      - Why SACSS/.keep
       - Canossian Education/SCHOOL CREST, VISION, MISSION, VALUES.md
       - Canossian Education/.keep
