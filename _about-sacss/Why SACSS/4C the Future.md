@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Why SACSS
 ---
 # 4C THE FUTURE
-<p style="text-align: center;"> <b>4C the Future: Competence, Compassion, Commitment & Cheerfulness</b></p>
+### <p style="text-align: center;"> <b>4C the Future: Competence, Compassion, Commitment & Cheerfulness</b></p>
 
 <p style="text-align: center;"> Here at SACSS, we want our girls to have more than a successful career. With the rapid changes, increased psychosocial stressors and high adaptive demands required of individuals, we want our girls to be persons who are holistically integrated - fully alive; with formed hearts, enlightened minds and empowered spirits. Here, their interests, talents, goals and spirituality are knitted together into a cohesive thread to reflect joy in life and faith. </p>
-
 
 <p style="text-align: center;"> <b>We believe</b></p>
 
