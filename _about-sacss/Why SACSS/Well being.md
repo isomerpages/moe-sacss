@@ -12,3 +12,9 @@ third_nav_title: Why SACSS
 |   |   |
 |---|---|
 | <img src="/images/About%20us/IMG_6993-1-scaled-e1630260551333.jpg" style="width:50%">  | ![](/images/About%20us/IMG_7168-1536x1024.jpg)  |
+
+![](/images/About%20us/Phyllis-2.jpeg)
+
+#### **Phyllis Soo**
+
+Phyllis graduated from SACSS in 2016 and went on to pursue a Diploma in Business at Temasek Polytechnic. At SACSS, she was a Student Leader and part of the Executive Committee. The leadership roles she was groomed for at SACSS prepared her for some of her proudest moments. She was on the Temasek Polytechnic Directors’ list for 3 consecutive years from 2017 to 2020. Phyllisalso achieved 3 well-deserved awards in 2020, namely, the Lee Hsien Loong Award for All Round Excellence, the CapitaLand All Rounder Award and Student Leader of the Year. She attributes her success to her time at SACSS and the lessons on servant leadership and the ability to confront obstacles and challenges with confidence. Through their role-modelling, teachers at SACSS taught her to find herself, be independent and self-aware. “I came from a humble family and we did not have much. But SACSS taught me about strong character development and resilience and I learnt that education and good character shapes you.”
