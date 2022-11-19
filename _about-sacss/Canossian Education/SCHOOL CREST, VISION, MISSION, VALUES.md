@@ -25,8 +25,7 @@ The Crown above the crest symbolises the supremacy of God and for all to be full
 
 # School Vision
 
-
-<p style="text-align: center;">We aspire to develop our SACians to become women, who are **Canossians of Influence**, ready to **lead** with **compassion** and **competence**; **serve** with **cheerfulness** and **commitment**</p>
+<p style="text-align: center;"> We aspire to develop our SACians to become women, who are <b>Canossians of Influence</b>, ready to <b>lead</b> with <b>compassion</b> and <b>competence</b>; <b>serve</b> with <b>cheerfulness</b> and <b>commitment</b> </p>
 
 # School Mission
 
