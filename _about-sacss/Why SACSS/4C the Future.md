@@ -20,4 +20,4 @@ third_nav_title: Why SACSS
 *   <p style="text-align: center;"><i>Committed</i> to staying true to themselves, their values, convictions and goals, continuing on the path even in the face of adversity.</p>
 *   <p style="text-align: center;"> <i>Cheerful</i> to be comfortable with themselves and possess the resilience to bring happiness and positivity to self and others.</p>
 
-<center> <b>We 4C the future <br> We are Canossians of Influence  </b></center>
+### <center> <b>We 4C the future <br> We are Canossians of Influence  </b></center>
