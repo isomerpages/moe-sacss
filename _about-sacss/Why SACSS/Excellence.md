@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Why SACSS
 ---
 # EXCELLENCE
-### <p style="text-align: center;">Your growth matters.</p>
+
+### <center>Your growth matters.</center>
 
 <p style="text-align: justify;">With the help of our teachers, counsellors and a rich curriculum, you’ll learn to knit together your interests, talents, identities, and goals into a cohesive thread that will help you soar after graduation.</p>
 
