@@ -1,4 +1,5 @@
 collections:
   about-sacss:
     output: true
-    order: []
+    order:
+      - Canossian Education/.keep
