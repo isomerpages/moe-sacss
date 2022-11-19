@@ -23,6 +23,6 @@ Hope cannot be decreased when shared; it only amplifies.
 
 To our prospective students and interested parents, joining us at SACSS will be the beginning of an exciting and fulfilling journey where your daughter can expect to be challenged and supported in equal measure. Be a part of a community that celebrates, nurtures, and respects individuality; a community where girls are free to explore, try new things, and overcome fear of failure. We look forward to welcoming you to St Anthony’s Canossian Secondary School.
 
-**Artwork on 2022 theme, 'Anchored in Hope, United in Love' by Imanya Azzahra (Sec 4.8)**
+<center><b>Artwork on 2022 theme, 'Anchored in Hope, United in Love' by Imanya Azzahra (Sec 4.8)</b></center>
 
 ![](/images/About%20us/with-signature-1-1086x1536.jpg)
