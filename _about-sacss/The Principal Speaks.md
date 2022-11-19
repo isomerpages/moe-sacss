@@ -4,7 +4,7 @@ permalink: /about-sacss/principal-speaks/
 description: ""
 ---
 # THE PRINCIPAL SPEAKS
-<center>**"Be joyful in hope, patient in affliction, and faithful in prayer." Romans 12:12**</center>
+<center><b>"Be joyful in hope, patient in affliction, and faithful in prayer." Romans 12:12</b></center>
 
 2021 was a year of surmounting continued COVID-19 challenges and realising amazing accomplishments. It is truly in times of disruptions and uncertainties that our ability to stay focused on our vision and rooted in our Canossian identity are of utmost importance. To promote inclusiveness and interest-based learning, SACSS pioneered the Full Subject Based Banding (FSBB) mixed-stream Form Classes, kick-started our Talent Take-Off Programme for the Secondary 1 students and reignited our Global Learning Pass Programme to afford our students a twinning programme with our partner Bruneian school, as well as a science research programme with the National Taiwan University. We also persevered through the series of Safe Management Measures (SMM) restrictions and hybrid learning schedules to receive wonderful achievements at the Singapore Youth Festival and witness our best N-Level and O-Level results in the last 3 years. Even our student leaders rode the waves of challenges to bring about new innovations – such as introducing the event, _SAC Got Talent_, creating podcasts on mental wellness, as well as developing team-bonding activities during E-CCAs.
 
