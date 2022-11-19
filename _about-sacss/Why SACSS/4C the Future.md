@@ -22,5 +22,4 @@ Our girls are:
 *   _Committed_ to staying true to themselves, their values, convictions and goals, continuing on the path even in the face of adversity.
 *   _Cheerful_ to be comfortable with themselves and possess the resilience to bring happiness and positivity to self and others.
 
-#### **We 4C the future**  
-**We are Canossians of Influence**
+<p style="text-align: center;"> <b>We 4C the future <br> We are Canossians of Influence  </b></p> 
