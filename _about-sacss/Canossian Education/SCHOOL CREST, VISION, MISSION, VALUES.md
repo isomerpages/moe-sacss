@@ -33,11 +33,11 @@ The Crown above the crest symbolises the supremacy of God and for all to be full
 
 <p style="text-align: center;"> We express our mission and vision in three powerful words to describe the experience we promote for the girls in our school: </p>
 
+<p style="text-align: center;"> <b><i>Belong</i></b> </p>
 
 
-**_Belong_**
 
-SACSS is a diverse, inclusive school that respects the uniqueness of each individual. We are welcoming, supportive and encourage our girls to be themselves. We build a community of students who experience a sense of belonging to the school and care for the community.
+<p style="text-align: center;"> SACSS is a diverse, inclusive school that respects the uniqueness of each individual. We are welcoming, supportive and encourage our girls to be themselves. We build a community of students who experience a sense of belonging to the school and care for the community.</p>
 
 **_Believe_**
 
