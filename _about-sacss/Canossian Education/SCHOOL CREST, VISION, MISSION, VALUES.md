@@ -4,8 +4,7 @@ permalink: /about-sacss/Canossian-Education/school-crest-vision-mission-values/
 description: ""
 third_nav_title: Canossian Education
 ---
-School Crest
-------------
+# School Crest
 
 Our school crest is used in all Canossian Schools.
 
@@ -24,14 +23,12 @@ The Crown above the crest symbolises the supremacy of God and for all to be full
 ![](/images/About%20us/SACSS-Org-Chart-White_17Jan-1166x1536.jpg)
 
 
+# School Vision
 
-School Vision
--------------
 
-We aspire to develop our SACians to become women, who are **Canossians of Influence**, ready to **lead** with **compassion** and **competence**; **serve** with **cheerfulness** and **commitment**
+<p style="text-align: center;">We aspire to develop our SACians to become women, who are **Canossians of Influence**, ready to **lead** with **compassion** and **competence**; **serve** with **cheerfulness** and **commitment**</p>
 
-School Mission
---------------
+# School Mission
 
 As a Canossian school, SACSS nurtures each girl in her own way by forming hearts, enlightening minds and empowering spirits to live in **The Way**, **The Truth** and **The Life**
 
