@@ -4,9 +4,8 @@ permalink: /about-sacss/school-leaders/
 description: ""
 ---
 # SCHOOL LEADERS
-|   |  
-|---|
-|  ![](/images/About%20us/1_MS-FIONA-KOH.jpg) |  
+<img src="/images/About%20us/1_MS-FIONA-KOH.jpg"
+     style="width:50%"> 
 
 |   |   |
 |---|---|
