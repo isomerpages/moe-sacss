@@ -17,9 +17,11 @@ The star is a symbol of lofty ideas stirring a person to great and noble deeds a
 
 The Crown above the crest symbolises the supremacy of God and for all to be fully alive in the Glory of God so that we may live “the way, the truth and the life”.
 
-![school crest](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/09/School-Logo_Colour-706x1024.jpg "school crest")
+![](/images/About%20us/School-Logo_Colour-1059x1536.jpg)
 
-![SACSS Org Chart White_17Jan](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2022/01/SACSS-Org-Chart-White_17Jan-777x1024.jpg "SACSS Org Chart White_17Jan")
+![](/images/About%20us/SACSS-Org-Chart-White_17Jan-1166x1536.jpg)
+
+
 
 School Vision
 -------------
