@@ -29,12 +29,12 @@ third_nav_title: School Management
 
 ### Objectives of School:
 
-**Vision  
-**Canossians of Influence  
+**Vision**  
+Canossians of Influence  
 _Ready to Lead with Compassion and Competence; Serve with Cheerfulness and Commitment_
 
-**Mission  
-**Nurturing each one in her own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life
+**Mission**  
+Nurturing each one in her own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life
 
 **No. of Beneficiaries:**  All pupils 
 
@@ -69,8 +69,8 @@ There was no fundraising activities carried out in the year.
 
 **Patrons:** NA
 
-**Trustees/Board Members:  
-**Dr Gerard Ee Hock Kim (Chairman)  
+**Trustees/Board Members:**  
+Dr Gerard Ee Hock Kim (Chairman)  
 Sr Elizabeth Tham (Supervisor)  
 Ms Wong Yoke Lin, Martina (Treasurer)  
 Dr Wong Foong Lin, Angela (Member)  
@@ -84,8 +84,8 @@ Mr Yap Qi Rong, Timothy Charles (Member)
 Mr Wilson Wong (Member)  
 Mr Fan Yue Soon, Charles (Member) 
 
-**Key Employees:  
-**Ms Koh Tyng Yuann, Fiona (Principal)  
+**Key Employees:**  
+Ms Koh Tyng Yuann, Fiona (Principal)  
 Mdm Ng Meow Leng, Nancy (Vice-Principal)  
 Ms Wang Siew Ping (Vice-Principal)
 
