@@ -35,14 +35,13 @@ The Crown above the crest symbolises the supremacy of God and for all to be full
 
 <p style="text-align: center;"> <b><i>Belong</i></b> </p>
 
-
-
 <p style="text-align: center;"> SACSS is a diverse, inclusive school that respects the uniqueness of each individual. We are welcoming, supportive and encourage our girls to be themselves. We build a community of students who experience a sense of belonging to the school and care for the community.</p>
 
-**_Believe_**
+<p style="text-align: center;"> <b><i>Believe</i></b> </p>
 
-SACSS believes in in the potential of all our girls. We empower our girls to believe in their abilities to grow and achieve. Specifically, through our various programmes and activities, we develop leadership and collaboration skills, communication and digital literacy, critical and inventive thinking, social and emotional well-being skills, and civic and cultural literacy. At SACSS, we also teach girls to conduct themselves with integrity, to believe in one another and to exercise the values of **charity, humility, forgiveness and faith**.
+<p style="text-align: center;"> SACSS believes in in the potential of all our girls. We empower our girls to believe in their abilities to grow and achieve. Specifically, through our various programmes and activities, we develop leadership and collaboration skills, communication and digital literacy, critical and inventive thinking, social and emotional well-being skills, and civic and cultural literacy. At SACSS, we also teach girls to conduct themselves with integrity, to believe in one another and to exercise the values of <b>charity, humility, forgiveness and faith.</b> </p>
 
-**_Become_**
+
+<p style="text-align: center;"> <b><i>Become</i></b> </p>
 
 Exploring what a girl can become is the essence of the SACSS experience. We pursue school excellence for our girls to realise their aspirations and make positive impacts in society. They graduate prepared to succeed in life and at work. Upon graduation, they become part of a powerful sisterhood of alumnae who stay connected and support one another.
