@@ -19,6 +19,6 @@ third_nav_title: Why SACSS
 *   <p style="text-align: center;"> <i>Competent</i> to be solutions-oriented and community focused, resourceful and collaborative to adapt to any unexpected scenarios and lead through challenges.</p>
 *    <p style="text-align: center;"> <i>Compassionate</i> to be sensitive to the suffering of others and inspire courageous deeds and solutions that serve and help those in need.</p>
 *   <p style="text-align: center;"><i>Committed</i> to staying true to themselves, their values, convictions and goals, continuing on the path even in the face of adversity.</p>
-*   _Cheerful_ to be comfortable with themselves and possess the resilience to bring happiness and positivity to self and others.
+*   <p style="text-align: center;"> <i>Cheerful</i> to be comfortable with themselves and possess the resilience to bring happiness and positivity to self and others.</p>
 
 <p style="text-align: center;"> <b>We 4C the future <br> We are Canossians of Influence  </b></p>
