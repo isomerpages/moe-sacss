@@ -2,8 +2,8 @@ title: St. Anthony’s Canossian Secondary School
 url: https://stanthonyscanossiansec.moe.edu.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#f8e71c"
-  secondary-color: "#094b8d"
+  primary-color: "#094b8d"
+  secondary-color: "#f8e71c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
