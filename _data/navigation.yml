@@ -1,8 +1,4 @@
 logo: /images/logo-768x256.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: ABOUT SACSS
+    collection: about-sacss
