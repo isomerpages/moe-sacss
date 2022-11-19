@@ -9,6 +9,10 @@ School Crest
 
 Our school crest is used in all Canossian Schools.
 
+<img src="/images/About%20us/School-Logo_Colour-1059x1536.jpg"
+     style="width:50%;float:right">
+
+
 The shield nurtures and respects the uniqueness of each child and our responsibility as educators to protect and nurture human dignity
 
 On a dark-blue background there shines a four-pointed star with rays cast on to a book symbolising the Star of wisdom radiating on Knowledge. It is though knowledge that the mind is enlightened by wisdom.
@@ -16,8 +20,6 @@ On a dark-blue background there shines a four-pointed star with rays cast on to 
 The star is a symbol of lofty ideas stirring a person to great and noble deeds and represents four basic social virtues of Truth, Justice, Love and Freedom.
 
 The Crown above the crest symbolises the supremacy of God and for all to be fully alive in the Glory of God so that we may live “the way, the truth and the life”.
-
-![](/images/About%20us/School-Logo_Colour-1059x1536.jpg)
 
 ![](/images/About%20us/SACSS-Org-Chart-White_17Jan-1166x1536.jpg)
 
