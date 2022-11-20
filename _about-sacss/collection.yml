@@ -2,6 +2,7 @@ collections:
   about-sacss:
     output: true
     order:
+      - School History/Heritage Gallery.md
       - School History/.keep
       - School History/School History.md
       - School History/Autonomous Niche.md
