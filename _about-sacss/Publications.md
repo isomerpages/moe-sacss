@@ -9,3 +9,7 @@ Over the years, we have retained our signature publication, The Magdalenian, as 
 To keep our stakeholders updated on school events and activities, and as a form of outreach, we have regularly issued our SACSS Newsletters. When CORRI Connections was launched in 2014, we would never have imagined the changes we would see over the 8 years. Given the numerous changes that have been taking place, we, as a school, have to be clearer than ever about our identity and our vision ahead. In 2020, CORRI Connections was retitled and redesigned as Voci Canossiane\*, a digital newsletter. In our quest to deepen our Canossian roots and capture the voices of the new generation of Canossians at SACSS, we hope to draw strength from a proud heritage, inspire love and instill faith and determination through Voci Canossiane.
 
 _\*We would like to acknowledge and thank Sr Cecily Pavri, who was Principal of SACSS for 16 years and is also an alumna of the school, for providing a befitting title to this newsletter in Italian that signifies the Canossian Voices of our students, staff and stakeholders._
+
+|   |   |   |
+|---|---|---|
+|   |   |   |
