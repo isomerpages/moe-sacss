@@ -54,10 +54,6 @@ When the war ended, the Sisters resumed their mission with renewed zest. Enrolme
 
 In 1970, the administration of the Primary and Secondary Girls’ Schools were separated. The following year, Pre-university classes were added offering the A-levels. By 1972, the noise levels of the adjacent Victoria Street and Middle Road made it unconducive for teaching and learning. Air conditioners were added to all the classrooms of the secondary school.
 
-![G2A - Pre Secondary Block Construction](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/G2A-Pre-Secondary-Block-Construction-1024x605.jpg "G2A - Pre Secondary Block Construction")
-
-![G2A - Post Secondary Block construction](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/G2A-Post-Secondary-Block-construction-1024x646.jpg "G2A - Post Secondary Block construction")
-
 #### <b><u>The 1980s: Going Above and Beyond</u></b>
 
 When the “Normal” Stream classes were introduced to secondary schools, the Sisters reflected on their calling to serve the disadvantaged and put up a request to offer Normal Stream.  Provisions were also made for hearing-impaired students to join mainstream classes from 1989 to date.
