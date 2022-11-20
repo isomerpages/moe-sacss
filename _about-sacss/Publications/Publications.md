@@ -4,6 +4,7 @@ permalink: /about-sacss/publications/
 description: ""
 third_nav_title: Publications
 ---
+# Voci Canossiane pdf >5MB
 # PUBLICATIONS
 Over the years, we have retained our signature publication, The Magdalenian, as the yearbook that helps to bring the alumni and other stakeholders together through the documenting of events. Additionally, we have had several special publications to commemorate significant events in the history of Singapore, such as the Bicentennial, and the milestones in the history of the school, such as the 135th and later 140th Anniversary celebrations. Among some of the more recent publications, we have Metaphorically, Spirited Endeavours, Carita, Amore Senza Fine. The archives of all our earlier issues of The Magdalenian ( from 1958 to 2013) are now digitised and saved in our Heritage Gallery, Nostalgie Canossiane.
 
