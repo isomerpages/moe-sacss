@@ -11,5 +11,5 @@ To keep our stakeholders updated on school events and activities, and as a form 
 _\*We would like to acknowledge and thank Sr Cecily Pavri, who was Principal of SACSS for 16 years and is also an alumna of the school, for providing a befitting title to this newsletter in Italian that signifies the Canossian Voices of our students, staff and stakeholders._
 
 |   |   |   |
-|---|---|---|
-| ![](/images/About%20us/CORRI-Connections-1536x1024.jpg) |  ![](/images/About%20us/Special-Publications-1536x1024.jpg) | ![](/images/About%20us/Voci-Issue-1_Final-High-res-page-001-1-1536x1024.jpg) |
+|:---:|:---:|:---:|
+| ![](/images/About%20us/CORRI-Connections-1536x1024.jpg) [Corri Connections](https://stanthonyscanossiansec.moe.edu.sg/publications/corri-connections/ "Corri Connections") |  ![](/images/About%20us/Special-Publications-1536x1024.jpg) | ![](/images/About%20us/Voci-Issue-1_Final-High-res-page-001-1-1536x1024.jpg) [Voci Canossiane](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2021/08/Voci-Issue-1_Final-High-res.pdf "Voci Canossiane") |
