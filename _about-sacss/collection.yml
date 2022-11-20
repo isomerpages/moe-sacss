@@ -2,7 +2,6 @@ collections:
   about-sacss:
     output: true
     order:
-      - School Song.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
@@ -20,3 +19,4 @@ collections:
       - School History/School History.md
       - School History/Autonomous Niche.md
       - School History/Heritage Gallery.md
+      - School Song.md
