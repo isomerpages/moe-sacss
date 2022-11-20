@@ -12,4 +12,4 @@ _\*We would like to acknowledge and thank Sr Cecily Pavri, who was Principal of 
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/About%20us/CORRI-Connections-1536x1024.jpg) [Corri Connections](https://stanthonyscanossiansec.moe.edu.sg/publications/corri-connections/ "Corri Connections") |  ![](/images/About%20us/Special-Publications-1536x1024.jpg) | ![](/images/About%20us/Voci-Issue-1_Final-High-res-page-001-1-1536x1024.jpg) [Voci Canossiane](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2021/08/Voci-Issue-1_Final-High-res.pdf "Voci Canossiane") |
+| ![](/images/About%20us/CORRI-Connections-1536x1024.jpg) [Corri Connections](https://stanthonyscanossiansec.moe.edu.sg/publications/corri-connections/ "Corri Connections") |  ![](/images/About%20us/Special-Publications-1536x1024.jpg) Special Publications | ![](/images/About%20us/Voci-Issue-1_Final-High-res-page-001-1-1536x1024.jpg) [Voci Canossiane](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2021/08/Voci-Issue-1_Final-High-res.pdf "Voci Canossiane") |
