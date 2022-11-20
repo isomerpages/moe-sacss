@@ -14,6 +14,8 @@ In November 1893, at the suggestion of the Inspector of Schools, the girls were 
 
 #### <b><u>1894: The Canossian Presence</u></b>
 
+![](/images/About%20us/G2A-Boarding-School-_-Orphanage.jpg)
+
 As there was a need to provide religious education for the girls, Fr. J.J Baptista, a co-adjucator of the Church sought help from Bishop Medeiros in Macau. The Canossian Sisters from Hong Kong and Macau were then invited to come to Singapore to take over the school for the girls.
 
 On 11 December 1894, four Canossian Daughters of Charity - Mother Teresa Rossi, Mother Justina Sequeira, Mother Mathilde Rodriguez and Mother Marietta Porroni - arrived from Macau. They were accompanied by Rev. Mother Maria Stella and Rev. Mother Teresa Lucian, Superiors of Hong Kong and Macau respectively. In addition to running the school, the pioneer missionaries also set up an orphanage cum boarding house with five orphans and eight boarders respectively.
@@ -22,9 +24,10 @@ The School situated at 111 Middle Road was renamed St. Anthony's Convent School 
 
 In 1896, the School welcomed its first appointed Sister Principal, Sr. Anna Bennet, from Hong Kong. By 1899, the school enrolment had doubled and a new wing was added, through contributions from the Portuguese Mission, subsidies from the private sector and the Government.  The Sisters continued to provide education mainly to the disadvantaged.
 
-![G2A---Boarding-School-_-Orphanage](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/G2A-Boarding-School-_-Orphanage.jpg "G2A---Boarding-School-_-Orphanage")
 
 #### <b><u>1929: A New School Building</u></b>
+
+![](/images/About%20us/G2A-Chapel-and-Nun-Quarters-scaled.jpg)
 
 In August 1928, the old school was demolished and a $49,000 new building with twelve classrooms stood in its place the following year. During this construction period, the girls occupied St. Anthony's Boys' School. A new Chapel and new quarters for the nuns adjoining the school were completed in 1933.
 
@@ -32,9 +35,12 @@ In August 1928, the old school was demolished and a $49,000 new building with tw
 
 In 1934, the first Junior Cambridge class started, followed by the Senior Cambridge class in 1935. This fulfilled the goal of the Sisters in providing the girls a complete course of education that opened up opportunities for employment and higher education.
 
-![G2A - Chapel and Nun Quarters](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/G2A-Chapel-and-Nun-Quarters-scaled.jpg "G2A - Chapel and Nun Quarters")
 
 #### <b><u>1940s: Surviving the War</u></b>
+
+![](/images/About%20us/G2A-Pre-Secondary-Block-Construction-1536x907.jpg)
+
+![](/images/About%20us/G2A-Post-Secondary-Block-construction-1536x968.jpg)
 
 During World War II, classes were disrupted and the school became a refuge for the Red Cross and those who lost their homes and their loved ones. Classes resumed but lessons were taught in Japanese.
 
