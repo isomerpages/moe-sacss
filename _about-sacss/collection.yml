@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Publications/.keep
-      - Publications.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
