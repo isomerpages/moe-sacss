@@ -4,7 +4,6 @@ permalink: /about-sacss/publications/
 description: ""
 third_nav_title: Publications
 ---
-
 # PUBLICATIONS
 Over the years, we have retained our signature publication, The Magdalenian, as the yearbook that helps to bring the alumni and other stakeholders together through the documenting of events. Additionally, we have had several special publications to commemorate significant events in the history of Singapore, such as the Bicentennial, and the milestones in the history of the school, such as the 135th and later 140th Anniversary celebrations. Among some of the more recent publications, we have Metaphorically, Spirited Endeavours, Carita, Amore Senza Fine. The archives of all our earlier issues of The Magdalenian ( from 1958 to 2013) are now digitised and saved in our Heritage Gallery, Nostalgie Canossiane.
 
@@ -14,4 +13,4 @@ _\*We would like to acknowledge and thank Sr Cecily Pavri, who was Principal of 
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/About%20us/CORRI-Connections-1536x1024.jpg) [Corri Connections](https://stanthonyscanossiansec.moe.edu.sg/publications/corri-connections/) |  ![](/images/About%20us/Special-Publications-1536x1024.jpg) Special Publications | ![](/images/About%20us/Voci-Issue-1_Final-High-res-page-001-1-1536x1024.jpg) [Voci Canossiane](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2021/08/Voci-Issue-1_Final-High-res.pdf "Voci Canossiane") |
+| ![](/images/About%20us/CORRI-Connections-1536x1024.jpg) [Corri Connections](/about-sacss/Publications/corri-connections/) |  ![](/images/About%20us/Special-Publications-1536x1024.jpg) Special Publications | ![](/images/About%20us/Voci-Issue-1_Final-High-res-page-001-1-1536x1024.jpg) [Voci Canossiane](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2021/08/Voci-Issue-1_Final-High-res.pdf "Voci Canossiane") |
