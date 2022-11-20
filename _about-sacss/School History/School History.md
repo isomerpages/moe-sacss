@@ -84,7 +84,7 @@ In 2014, the baton of school leadership in the secondary school was handed over 
 
 With the passing of the leadership baton from Sister Principals to lay school leaders and teachers, the Canossian Charter was written and launched in 2017 by the Canossian Charism Formation Team to capture the core values and principles of Canossian Education. It aspires to extend the spirit and legacy of St. Magdalene of Canossa into the decision-making and every day of school life for the Canossian schools.
 
-	#### <b><u>2020 and Beyond</u></b>
+#### <b><u>2020 and Beyond</u></b>
 
 In 2020, the secondary school embarked on a re-envisioning exercise to redefine the vision, mission and values of the school in order to unite the various Canossian schools towards the common purpose. Other than the sisters and our affiliated primary schools, input was also sought from our students and teachers.
 
