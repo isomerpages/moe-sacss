@@ -5,7 +5,8 @@ description: ""
 third_nav_title: School History
 ---
 # HERITAGE GALLERY
-#### **Launch of Heritage Gallery, St Magdalene’s Feast Day and Awards Ceremony**
+
+#### <b><u>Launch of Heritage Gallery, St Magdalene’s Feast Day and Awards Ceremony</u></b>
 
 In conjunction with St Magdalene’s Feast Day, on 5 March 2021, the St Anthony’s Canossian Schools re-opened the newly refurbished Heritage Gallery, Nostalgie Canossiane. Provincial Leader, Sr Christina Yeo, and Superintendent of East 4 Cluster, Mr Justin Pierre, declared the gallery open. Father Eugene Lee blessed the gallery.
 
