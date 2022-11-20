@@ -2,6 +2,7 @@ collections:
   about-sacss:
     output: true
     order:
+      - Publications/Corri Connections.md
       - Publications/Publications.md
       - Publications/.keep
       - Canossian Education/.keep
