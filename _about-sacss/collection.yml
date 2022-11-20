@@ -2,9 +2,9 @@ collections:
   about-sacss:
     output: true
     order:
-      - Publications/Corri Connections.md
-      - Publications/Publications.md
       - Publications/.keep
+      - Publications/Publications.md
+      - Publications/Corri Connections.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
