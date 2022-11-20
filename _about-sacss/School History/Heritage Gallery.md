@@ -4,6 +4,7 @@ permalink: /about-sacss/School-History/heritage-gallery/
 description: ""
 third_nav_title: School History
 ---
+# upload video to youtube
 # HERITAGE GALLERY
 
 #### <b><u>Launch of Heritage Gallery, St Magdalene’s Feast Day and Awards Ceremony</u></b>
@@ -19,6 +20,3 @@ We hope that through the documentation and archiving of our traditions and achie
 |   |   |
 |---|---|
 | ![HG-1](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/HG-1.jpg "HG-1")  | ![HG-10](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/HG-10.jpg "HG-10")  |
-
-
-
