@@ -2,9 +2,9 @@ collections:
   about-sacss:
     output: true
     order:
-      - School History/Autonomous Niche.md
-      - School History/School History.md
       - School History/.keep
+      - School History/School History.md
+      - School History/Autonomous Niche.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
