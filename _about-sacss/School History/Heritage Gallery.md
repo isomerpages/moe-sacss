@@ -16,6 +16,9 @@ The concept of this gallery is built upon the words of the school song which ser
 
 We hope that through the documentation and archiving of our traditions and achievements, more visitors and stakeholders will be reminded of the charism of the Canossian education as espoused by our Foundress, St Magdalene of Canossa.
 
-![HG-1](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/HG-1.jpg "HG-1")
+|   |   |
+|---|---|
+| ![HG-1](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/HG-1.jpg "HG-1")  | ![HG-10](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/HG-10.jpg "HG-10")  |
 
-![HG-10](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/HG-10.jpg "HG-10")
+
+
