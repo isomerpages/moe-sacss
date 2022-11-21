@@ -13,8 +13,8 @@ Students are given the opportunity to take part in competitions to enrich their 
 
 |   |   |   |
 |---|---|---|
-|   |   |   |
-|   |   |   |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/1_MDM-ANG-CHEOW-TEE.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/2_MS-LAM-LI-FEND.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/3_MDM-GOO-LAY-HOON.jpg)  |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/4_MR-ANWARUL-HAQ.jpg) |![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/5_MR-MOHD-NIZAM.jpg)   | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/6_MR-SECK-HON-MENG.jpg)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
