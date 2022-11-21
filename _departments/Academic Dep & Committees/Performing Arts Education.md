@@ -16,6 +16,6 @@ To nurture students’ interest, students are constantly exposed to different pe
 |   |   |   |
 |---|---|---|
 | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/1_MDM-GOO-LAY-HOON-1.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/2_MS-KANG-CHEE-HUI.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/8_MS-QUAH-MEI-FANG-AMANDA.jpg)  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/9_MDM-TEH-JANE-KHIM.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/3_MR-HAN-YIGUANG-JOEL.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/4_MDM-LEE-XIU-ZHEN-CHARLENE.jpg)  |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/5_MS-SHIRLYN-LOH-HUI-RONG.jpg)  |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/7_MDM-TAN-EN-EN-CHRISTABEL.jpg) | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/8_MR-ERNEST-TAN.jpg)  |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/10_DR-LI-KAI-HAN-JEREMIAH.jpg)  |   |   |
