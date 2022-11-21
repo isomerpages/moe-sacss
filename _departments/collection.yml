@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Young Scholars' Academic, Research & Initiatives.md
       - Student Dev Dep & Committees/.keep
       - Student Dev Dep & Committees/Character & Citizenship Education.md
       - Student Dev Dep & Committees/Year Heads and Form Teachers.md
