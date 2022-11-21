@@ -13,8 +13,8 @@ The learning of Science goes beyond the confines of the classroom. We believe in
 
 |   |   |   |
 |---|---|---|
-|   |   |   |
-|   |   |   |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/1_DR-YAP-ANN-TECK.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/2_MR-SIDDIQ-SULEIMAN-1.jpg)   |   |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/4_MRS-BOO-TUANG-HOCK-ESTHER.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/6_MR-HENG-WEI-JIE-1.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/3_MS-ANG-HWEE-CHIEH.jpg)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
