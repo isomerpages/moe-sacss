@@ -2,7 +2,6 @@ collections:
   about-sacss:
     output: true
     order:
-      - Videos.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
@@ -26,3 +25,4 @@ collections:
       - Publications/Corri Connections.md
       - Publications/Special Publication.md
       - Publications/Voci Canossiane.md
+      - Videos.md
