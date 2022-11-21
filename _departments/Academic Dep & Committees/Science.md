@@ -13,11 +13,11 @@ The learning of Science goes beyond the confines of the classroom. We believe in
 
 |   |   |   |
 |---|---|---|
-| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/1_DR-YAP-ANN-TECK.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/2_MR-SIDDIQ-SULEIMAN-1.jpg)   |   |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/1_DR-YAP-ANN-TECK.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/2_MR-SIDDIQ-SULEIMAN-1.jpg)   |![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/18_MDM-KOH-SEOK-HWEE.jpg)   |
 | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/4_MRS-BOO-TUANG-HOCK-ESTHER.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/6_MR-HENG-WEI-JIE-1.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/3_MS-ANG-HWEE-CHIEH.jpg)  |
-|   |   |![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/7_MDM-ISNARTI-BTE-MOHD-NOORDIN.jpg)  |
-|   |   |   |
-|   |   |   |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/5_MR-HAMZAH-BIN-MOHD.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/23_MR-PHUA-CHENG-LIANG-NICKY.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/7_MDM-ISNARTI-BTE-MOHD-NOORDIN.jpg)  |
+|  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/9_MDM-MARIA-LOIDA-RAJU.jpg) |![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/8_MR-LIU-WEILIE.jpg)   | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/10_MDM-NUR-LIZA-JOHAN.jpg)  |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/11_NURUL-ALIAH-BTE-MOHD-ALI.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/12_MR-QUEK-JOO-SIAH.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Science/13_MS-SITI-RAUDHAH-BTE-SUKRI.jpg)   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
