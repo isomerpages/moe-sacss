@@ -17,3 +17,7 @@ Character Strengths are the positive parts of one’s personality that impact ho
 *   Develop their leadership capacity;
 *   Increase their relational effectiveness; and
 *   Enable a strength-based outlook towards their future academic and career
+
+|   |   |
+|---|---|
+| ![](/images/Canossian%20Life/Leadership/9-Sec-2-scaled.jpg)  | ![](/images/Canossian%20Life/Leadership/DSCF5616-scaled.jpg) |
