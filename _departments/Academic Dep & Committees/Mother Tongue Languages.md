@@ -16,3 +16,11 @@ Languages open up windows and doors of opportunities and possibilities for us in
 At SACSS, we understand that every MTL learner is different in their starting point and learning needs. We will build upon each student’s prior knowledge and language ability, and hone the oral communication and writing skills. Students will be well-supported in their learning with well-designed, and customised learning packages and tools prepared by a committed team of teachers. We also leverage on technology to enhance the learning and have created a series of in-house learning innovative applications to aid learning. Through varied approaches in teaching and learning, we want to show every student how meaningful Mother Tongue Language learning can occur, regardless of one’s starting point.
 
 At SACSS, we believe in creating meaningful and authentic learning experiences for students. Students will benefit from the department’s partnerships with external institutions and the wider community. Students will have the opportunity to learn from professionals in the various linguistic fields (such as DJs coming in to teach you voice projection and share highlights of their work). In addition, students will also have the opportunity to appreciate their cultural roots through the various programmes, learning journeys, school exchange programmes and professional performances curated.
+
+|   |   |   |
+|---|---|---|
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/1_MDM-TAY-HUI-CHENG.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/2_MDM-GU-YUAN-YUAN.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/13_MDM-WU-LIN.jpg)   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
