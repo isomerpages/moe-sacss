@@ -2,4 +2,5 @@ collections:
   canossian-life:
     output: true
     order:
+      - Leadership/.keep
       - Canossian Life.md
