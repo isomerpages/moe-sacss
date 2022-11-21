@@ -30,3 +30,8 @@ The Creative Arts Programme aims to provide platforms to stretch students who ha
 **Mathematics** 
 
 Students are given the opportunity to take part in competitions to enrich their learning of mathematics. Secondary 2 students can sign up for Mathematical Olympiad training workshops and then take part in the Singapore Mathematical Olympiad (Junior).
+
+|   |   |
+|---|---|
+| ![](/images/Departments/YOUNG%20SCHOLARS%20ACAD%20RES%20&%20INIT/IMG_8298-scaled.jpg)  | ![](/images/Departments/YOUNG%20SCHOLARS%20ACAD%20RES%20&%20INIT/Humanities-2.jpg)  |
+
