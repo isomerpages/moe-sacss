@@ -34,3 +34,7 @@ Students are given the opportunity to take part in competitions to enrich their 
 |   |   |
 |---|---|
 | <img src="/images/Departments/YOUNG%20SCHOLARS%20ACAD%20RES%20&%20INIT/IMG_8298-scaled.jpg" style="width:40%"> | ![](/images/Departments/YOUNG%20SCHOLARS%20ACAD%20RES%20&%20INIT/Humanities-2.jpg)  |
+
+|   |   |   |
+|---|---|---|
+|![](/images/Departments/YOUNG%20SCHOLARS%20ACAD%20RES%20&%20INIT/Docent-1.jpeg)   | ![](/images/Departments/YOUNG%20SCHOLARS%20ACAD%20RES%20&%20INIT/Humanities-1.jpg)  |![](/images/Departments/YOUNG%20SCHOLARS%20ACAD%20RES%20&%20INIT/Docent-3-1536x1152.jpeg)   |
