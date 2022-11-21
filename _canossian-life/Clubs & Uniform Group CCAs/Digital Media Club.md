@@ -12,4 +12,4 @@ DMC members have participated in numerous nation-wide competitions over the year
 
 |   |   |   |
 |---|---|---|
-|   |   |   |
+|  ![](/images/Canossian%20Life/CLUBS%20&%20UNIFORM%20GROUP%20CCAS/DIGITAL%20MEDIA%20CLUB/IMG-20181113-WA0006.jpg) |![](/images/Canossian%20Life/CLUBS%20&%20UNIFORM%20GROUP%20CCAS/DIGITAL%20MEDIA%20CLUB/IMG-20190405-WA0016.jpg)   |  ![](/images/Canossian%20Life/CLUBS%20&%20UNIFORM%20GROUP%20CCAS/DIGITAL%20MEDIA%20CLUB/IMG-20190405-WA0024.jpg) |
