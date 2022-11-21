@@ -15,9 +15,9 @@ To nurture students in EL/Lit beyond the classroom, students can look forward to
 |   |   |   |
 |---|---|---|
 | ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/1_Mr-Seah-Hui-Shan-Andrew.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/2_MDM-DE-COTTA-JANNINE.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/3_MRS-MENON-SHARMA-MONICA.jpg)  |
-|  ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/4_MDM-NATALIE-BOK-YAN-PENG-1.jpg)  |   |   |
-|   |   |   |
-|   |   |   |
+|  ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/4_MDM-NATALIE-BOK-YAN-PENG-1.jpg)  |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/5_MDM-CECELIA-CHIA-SEOK-CHOO.jpg) | ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/7_MS-FOO-KHIM-YOUN-JUSTINA.jpg)  |
+|![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/8_MR-GHUI-YEW-MING-AMOS.jpg)   |![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/9_MR-HAN-YIGUANG-JOEL.jpg)   |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/Mdm-Premani-Minashi-Logaraj-EL-Dept-Teacher.jpg) |
+|  ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/11_MS-JEAN-PUSPALM.jpg) |![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/12_MS-KAMALA-KAUSIKAN.jpg)   | ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/13_MR-MOHD-SAID.jpg)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
