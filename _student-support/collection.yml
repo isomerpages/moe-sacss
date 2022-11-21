@@ -2,4 +2,5 @@ collections:
   student-support:
     output: true
     order:
+      - Academic/Self Study Programme.md
       - Academic/.keep
