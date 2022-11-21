@@ -7,7 +7,7 @@ third_nav_title: Leadership
 # STRENGTH-BASED LEADERSHIP CONSULTATION
 #### **We Start with Your Strengths**
 
-We believe our girls have leadership qualities. Each girl is unique and she brings her own style and strengths in her leadership journey. It is then important that our girls are aware of their own strengths and harness their strengths to bring about change. Here at SACSS, we tap on [VIA Character Strengths](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2021/08/YouthIconsClassifications-2021.pdf) to help our girls discover and use their strengths to empower themselves and others, improve their leadership skills, and make positive contributions. Students will learn about their top five strengths and receive a customised report to guide them in using their strengths most effectively.
+We believe our girls have leadership qualities. Each girl is unique and she brings her own style and strengths in her leadership journey. It is then important that our girls are aware of their own strengths and harness their strengths to bring about change. Here at SACSS, we tap on [VIA Character Strengths](/files/Canossian%20Life/YouthIconsClassifications-2021.pdf) to help our girls discover and use their strengths to empower themselves and others, improve their leadership skills, and make positive contributions. Students will learn about their top five strengths and receive a customised report to guide them in using their strengths most effectively.
 
 #### **Individual Strengths Consultation**
 
