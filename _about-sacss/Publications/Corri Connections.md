@@ -31,7 +31,7 @@ third_nav_title: Publications
 
 |  2019 |   |   |   |
 |:---:|:---:|:---:|:---:|
-| <img src="/images/About%20us/CORRI%20CONNECTIONS/SAC19-CORRI-1-web-page-001-scaled.jpg" style="width:70%"> <a href="/files/About%20us/SAC19-CORRI-1-web.pdf" target = "_blank">Issue 1</a>   |  ![](/images/About%20us/CORRI%20CONNECTIONS/SAC19-CORRI-2-Pub-web-page-001-724x1024.jpg) <a href="/files/About%20us/SAC19-CORRI-2-Pub-web.pdf" target = "_blank">Issue 2</a>  | <img src="/images/About%20us/CORRI%20CONNECTIONS/SAC19-CORRI-2-Grad-web-page-001-1.jpg" style="width:50%"><a href="/files/About%20us/SAC19-CORRI-2-Grad-web.pdf" target = "_blank">Graduating Classes</a>   | <img src="/images/About%20us/CORRI%20CONNECTIONS/SAC19_PubBro-web-MM-page-001.jpg" style="width:60%">  <a href="/files/About%20us/SAC19_PubBro-web-MM.pdf" target = "_blank">Brochure</a> |
+| <img src="/images/About%20us/CORRI%20CONNECTIONS/SAC19-CORRI-1-web-page-001-scaled.jpg" style="width:60%"> <a href="/files/About%20us/SAC19-CORRI-1-web.pdf" target = "_blank">Issue 1</a>   |  ![](/images/About%20us/CORRI%20CONNECTIONS/SAC19-CORRI-2-Pub-web-page-001-724x1024.jpg) <a href="/files/About%20us/SAC19-CORRI-2-Pub-web.pdf" target = "_blank">Issue 2</a>  | <img src="/images/About%20us/CORRI%20CONNECTIONS/SAC19-CORRI-2-Grad-web-page-001-1.jpg" style="width:50%"><a href="/files/About%20us/SAC19-CORRI-2-Grad-web.pdf" target = "_blank">Graduating Classes</a>   | <img src="/images/About%20us/CORRI%20CONNECTIONS/SAC19_PubBro-web-MM-page-001.jpg" style="width:60%">  <a href="/files/About%20us/SAC19_PubBro-web-MM.pdf" target = "_blank">Brochure</a> |
 
 |  2020 |   |  
 |:---:|:---:|
