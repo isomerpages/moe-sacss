@@ -35,7 +35,7 @@ To discuss any of the following, please book appointment slots that are during y
 |   <a href="https://www.ite.edu.sg/courses/full-time-courses" target="_blank">ITE Prospectus </a>                                   | Education & Career Guidance Resources<br>Information on ITE courses, including Traineeship |
 |    <a href="https://go.gov.sg/coursefinder" target="_blank">CourseFinder </a>                                         | List of all ITE & Polytechnic Courses                                                      |
 | <a href="https://go.gov.sg/applyeae" target="_blank">ITE Early Admissions Exercise (for N/O-level students)</a>  | Applicable to all graduating students                                                      |
-| Poly Early Admissions Exercise (for O-level students)  | Applicable to ‘O’-level students                                                           |
+| <a href="https://go.gov.sg/polyeae" target="_blank">Poly Early Admissions Exercise (for O-level students)</a>  | Applicable to ‘O’-level students                                                           |
 | Poly EAE FAQ                                           | FAQ for Poly EAE (Important: read if you are considering EAE)                              |
 | Direct School Admission – Junior Colleges              | Applicable to ‘O’-level students                                                           |
 | Polytechnic Foundation Programme (PFP)                 | Applicable to 4NA students                                                                 |
