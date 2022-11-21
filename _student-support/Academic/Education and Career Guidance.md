@@ -41,7 +41,7 @@ To discuss any of the following, please book appointment slots that are during y
 | <a href="https://go.gov.sg/pfp" target="_blank">Polytechnic Foundation Programme (PFP)</a>                  | Applicable to 4NA students                                                                 |
 |  <a href="https://go.gov.sg/applynafafp" target="_blank">NAFA Foundation Programme (NFP) </a>                      | Applicable to 4NA students                                                                 |
 | <a href="https://go.gov.sg/dpp" target="_blank">Direct Entry Scheme to Polytechnic Programme (DPP) </a>     | Applicable to 4NA students                                                                 |
-| ITE Traineeship Scheme                                 | A formalised ‘Earn-as-you-Learn’ training arrangement                                      |
+|   <a href="https://www.ite.edu.sg/admissions/traineeship" target="_blank">ITE Traineeship Scheme  </a>                              | A formalised ‘Earn-as-you-Learn’ training arrangement                                      |
 | Joint Polytechnic Admissions Exercise (JPAE)           | Admission to the five polytechnics for Nitec & Higher Nitec students                       |
 | IBDP Curriculum                                        | International Baccalaureate® (IB) Diploma Programme (DP) curriculum                        |
 | MyCareersFuture                                        | A portal with career-related content                                                       |
