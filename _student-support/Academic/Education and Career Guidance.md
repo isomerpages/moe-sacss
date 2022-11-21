@@ -53,10 +53,10 @@ To discuss any of the following, please book appointment slots that are during y
 |  <a href="https://go.gov.sg/schoolbag">Schoolbag Website</a>                                     | An online publication by MOE for education news, school features and tips.                 |
 | <a href="https://go.gov.sg/next-step-forward">The Next Step Forward (e-book)</a>                         | Stories of students and the pathways they have chosen                                      |
 |   <a href="https://go.gov.sg/whats-next">What’s Next (After PSLE, ‘N’/’O’/’A’-level)</a>          | Applicable to all graduating students                                                      |
-| Post-Secondary Education Options                       | Applicable to all graduating students                                                      |
-| Post-Secondary Education Institutions                  | Overview of Post-Secondary Education Institutions (PSEIs)                                  |
-| Where to After Secondary School?                       | Overview of the Post-Secondary Education Landscape                                         |
-| Scholarships                                           | Learn about the different merit-based awards and scholarships                              |
-| MOE Financial Assistance Scheme                        | Applicable to all students                                                                 |
+|  <a href="https://go.gov.sg/postsecondary">Post-Secondary Education Options</a>                      | Applicable to all graduating students                                                      |
+|   <a href="https://go.gov.sg/overview-pseis">Post-Secondary Education Institutions</a>                | Overview of Post-Secondary Education Institutions (PSEIs)                                  |
+|   <a href="https://youtu.be/ndDVlzT-z0g">Where to After Secondary School?</a>                     | Overview of the Post-Secondary Education Landscape                                         |
+|   <a href="https://go.gov.sg/admissions-scholarships">Scholarships</a>                                          | Learn about the different merit-based awards and scholarships                              |
+|   <a href="https://www.moe.gov.sg/FAS">MOE Financial Assistance Scheme</a>                      | Applicable to all students                                                                 |
 | Committee for Private Education                        | Resources for students considering private education                                       |
 | Resources for Private Education Students               | Resources for students considering private education                                       |
