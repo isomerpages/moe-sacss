@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Academic Dep & Committees/Mathematics.md
-      - Academic Dep & Committees/English Language & Literature.md
       - Academic Dep & Committees/.keep
+      - Academic Dep & Committees/English Language & Literature.md
+      - Academic Dep & Committees/Mathematics.md
       - Student Dev Dep & Committees/.keep
       - Student Dev Dep & Committees/Character & Citizenship Education.md
       - Student Dev Dep & Committees/Year Heads and Form Teachers.md
