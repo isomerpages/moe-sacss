@@ -26,4 +26,4 @@ Simultaneously throughout the years in SACSS, our girls are provided with advice
 
 |   |   |
 |---|---|
-| ![](/images/Canossian%20Life/Career%20Preperation/fig6.jpg)  | ![](/images/Canossian%20Life/Career%20Preperation/IMG_0457-scaled-e1632252812473.jpg)  |
+| ![](/images/Canossian%20Life/Career%20Preperation/fig6.jpg)  | <img src="images/Canossian%20Life/Career%20Preperation/IMG_0457-scaled-e1632252812473.jpg" style="width:40%">  |
