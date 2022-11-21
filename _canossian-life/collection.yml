@@ -1,4 +1,5 @@
 collections:
   canossian-life:
     output: true
-    order: []
+    order:
+      - Canossian Life.md
