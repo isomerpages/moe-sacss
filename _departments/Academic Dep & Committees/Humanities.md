@@ -13,6 +13,6 @@ To deepen students’ appreciation of the discipline, the Department also organi
 |   |   |   |
 |---|---|---|
 |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/MS-EILEEN-EE.jpg) | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/Sharon-Yu_Humanities_SH-History.jpg)  |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/5_MDM-FATIN-AFIQAH-1.jpg) |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/Rasheada-Begam_Humanities.jpg)   | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/13_MDM-WENDY-ARLEENA-BTE-SUKMA.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/4_MS-QUEK-WEE-KENG-NICOLE.jpg)   |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/8_MDM-HARN-SIOW-PING.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/9_MDM-NORFARHANA-MOHAMED-ISMAIL.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/10_-MS-NUR-DINI.jpg) |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/13_MDM-WENDY-ARLEENA-BTE-SUKMA.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/MS-TAN-AI-LIAN-AILEEN.jpg)  |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Humanities/14_MR-MOHAMMED-RAMLEE.jpg) |
