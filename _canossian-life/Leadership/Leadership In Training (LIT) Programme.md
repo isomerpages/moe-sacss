@@ -10,5 +10,4 @@ The Secondary 2 LiT programme allows students the opportunity to nominate themse
 
 |   |   |
 |---|---|
-| ![](/images/Canossian%20Life/Leadership/IMG_0300-1024x683.jpg)  | ![](/images/Canossian%20Life/Leadership/IMG_9966-scaled.jpg)  |
-
+| ![](/images/Canossian%20Life/Leadership/IMG_0300-1024x683.jpg)  |<img src="/images/Canossian%20Life/Leadership/IMG_9966-scaled.jpg" style="width:45%">   |
