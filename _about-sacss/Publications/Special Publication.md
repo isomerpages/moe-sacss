@@ -4,7 +4,7 @@ permalink: /about-sacss/Publications/special-publication/
 description: ""
 third_nav_title: Publications
 ---
-# Amore Senza Fine,Carita, In Tandem, Spirited Endeavours
+# Amore Senza Fine,Carita, In Tandem, Spirited Endeavours pdf>5MB
 # SPECIAL PUBLICATIONS
 
 |   |   |   |
