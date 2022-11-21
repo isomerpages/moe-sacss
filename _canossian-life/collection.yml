@@ -2,9 +2,6 @@ collections:
   canossian-life:
     output: true
     order:
-      - Performing Arts Niche/.keep
-      - Performing Arts Niche/Arts Alive.md
-      - Performing Arts Niche/Drama Elective Programme.md
       - Canossian Life.md
       - Leadership/.keep
       - Leadership/Leadership & Community Engagement Camps (Sec 1 to 3).md
@@ -15,3 +12,6 @@ collections:
       - Career Preperation/.keep
       - Career Preperation/Talent Takeoff Programme.md
       - Career Preperation/Career & Education Advising.md
+      - Performing Arts Niche/.keep
+      - Performing Arts Niche/Arts Alive.md
+      - Performing Arts Niche/Drama Elective Programme.md
