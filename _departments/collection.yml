@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Executive, Administration and Operations.md
       - Student Dev Dep & Committees/.keep
       - Student Dev Dep & Committees/Character & Citizenship Education.md
       - Student Dev Dep & Committees/Year Heads and Form Teachers.md
@@ -21,3 +20,4 @@ collections:
       - Academic Dep & Committees/Information and Communication Technology.md
       - Academic Dep & Committees/Digital Literacy Committee.md
       - Academic Dep & Committees/Pedagogy Assessment Committee.md
+      - Executive, Administration and Operations.md
