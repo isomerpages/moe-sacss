@@ -47,7 +47,7 @@ To discuss any of the following, please book appointment slots that are during y
 | <a href="https://go.gov.sg/careersfuture" target="_blank">MyCareersFuture</a>                                       | A portal with career-related content                                                       |
 | <a href="https://go.gov.sg/industrylandscape-sec" target="_blank">Singapore Industry Landscape</a>                           | ECG Portal to explore the world of work                                                    |
 | <a href="https://www.mti.gov.sg/ITMs/Overview">Industry Transformation Maps (ITMs)</a>                    | Roadmaps for the various industries in Singapore                                           |
-| Skills Framework                                       | Information on career sectors, pathways, roles, skills, training, etc.                     |
+|  <a href="https://www.skillsfuture.sg/skills-framework#whicharethesectors">Skills Framework</a>                                      | Information on career sectors, pathways, roles, skills, training, etc.                     |
 | ECG Parent Guide                                       | Journeying with our Children, Achieving their Aspirations                                  |
 | Schoolbag Website                                      | An online publication by MOE for education news, school features and tips.                 |
 | The Next Step Forward (e-book)                         | Stories of students and the pathways they have chosen                                      |
