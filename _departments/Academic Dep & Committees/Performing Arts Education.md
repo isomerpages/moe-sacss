@@ -12,3 +12,10 @@ Here at SACSS, we have developed a well-established Performing Arts Education (P
 For Music, students learn basic music theory and keyboard skills using a differentiated approach where students are taught based on their entry level at Secondary One. At Secondary Two, students learn to play the Guitar and Cajon. For Drama, we focus on the introduction of drama form and conventions, with a secondary emphasis on developing 21 CC & SEL competencies. Through the balanced use of drama-based exercises, students are exposed to various aspects of dramatic presentations while they learn to communicate with skill and confidence by working cooperatively and creatively in groups. They learn to act, direct and devise original work. Both subjects are assessed formatively through coursework to help students chart their development and growth.
 
 To nurture students’ interest, students are constantly exposed to different performing art forms through live performances and opportunities to perform at school and public platforms. The Niche Class Programme was created in 2006 to equip students who are interested to pursue Drama or Music at higher levels with a strong foundation in both theory and practice. To stretch their talents, students get to participate in Masterclasses by professionals, take part in competitions and experience exchange programmes with other schools.
+
+|   |   |   |
+|---|---|---|
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/1_MDM-GOO-LAY-HOON-1.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/2_MS-KANG-CHEE-HUI.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/8_MS-QUAH-MEI-FANG-AMANDA.jpg)  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
