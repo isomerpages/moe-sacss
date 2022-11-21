@@ -4,7 +4,7 @@ permalink: /performing-arts-ccas/angklung/
 description: ""
 ---
 # ANGKLUNG
-<img src="/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/ANGKLUNG/AB7-Angklung-CIP-at-NTUC-Eldercare-2018.jpg" style ="width:50%; float:left " >
+<img src="/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/ANGKLUNG/AB7-Angklung-CIP-at-NTUC-Eldercare-2018.jpg" style ="width:40%; float:left " >
 
 Angklung is a traditional Indonesian musical instrument consisting of two to four bamboo tubes suspended in a bamboo frame. Each Angklung produces a unique note or chord, so several members must collaborate in order to play a melody. By shaking and tapping the instruments, each member of the Band combines the different notes harmoniously and produce enchanting pieces of music, every time they perform.
 
