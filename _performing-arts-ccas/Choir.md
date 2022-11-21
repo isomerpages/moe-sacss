@@ -4,7 +4,8 @@ permalink: /performing-arts-ccas/choir/
 description: ""
 ---
 # CHOIR
-<img src="/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CHOIR/Choir_2021-SYF-preparation.jpeg"  style="width:50%; float:left"> 
+
+![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CHOIR/Choir_2021-SYF-preparation.jpeg)
 		 
 The SACSS Choir has a long history dating back to 1969. Some of our most notable awards include the Gold award in the 15th International Festival of Advent and Christmas Music in Prague in 2005, and 2 Gold awards in Olomouc in 2007 where we emerged First Runner-up amongst 127 choirs. We were also Champions at the International Choral Competition in Krakow, Poland (2010) and achieved High Silver awards in both the Children and Sacred Songs categories in Vienna, Austria in 2012.
 
