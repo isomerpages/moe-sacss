@@ -59,4 +59,4 @@ To discuss any of the following, please book appointment slots that are during y
 |   <a href="https://go.gov.sg/admissions-scholarships">Scholarships</a>                                          | Learn about the different merit-based awards and scholarships                              |
 |   <a href="https://www.moe.gov.sg/FAS">MOE Financial Assistance Scheme</a>                      | Applicable to all students                                                                 |
 |    <a href="https://go.gov.sg/pei">Committee for Private Education</a>                      | Resources for students considering private education                                       |
-| Resources for Private Education Students               | Resources for students considering private education                                       |
+| <a href="https://go.gov.sg/pei">Resources for Private Education Students</a>               | Resources for students considering private education                                       |
