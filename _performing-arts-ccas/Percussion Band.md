@@ -11,4 +11,4 @@ SACSS is one of the few schools in Singapore which offers Percussion Band as a C
 
 |   |   |
 |---|---|
-| ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/PERCUSSION%20BAND/PB1_Night-fest-e1630054488629.jpg)  |![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/PERCUSSION%20BAND/SYF-stage-2-scaled.jpg)   |
+| ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/PERCUSSION%20BAND/PB1_Night-fest-e1630054488629.jpg)      |<img src="/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/PERCUSSION%20BAND/SYF-stage-2-scaled.jpg" style="width:40%">   |
