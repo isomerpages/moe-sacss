@@ -15,5 +15,5 @@ third_nav_title: Publications
 |![](/images/About%20us/CORRI%20CONNECTIONS/SAC15-CORRI1-web_pages-to-jpg-0001.jpg)  [Issue 1](/files/About%20us/SAC15-CORRI1-web.pdf) | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC15-CORRI_2-web_page-0001.jpg) [Issue 2](/files/About%20us/SAC15-CORRI_2-web.pdf)| 
 
 |   |   |   |
-|---|---|---|
+|:---:|:---:|:---:|
 |   |   |   |
