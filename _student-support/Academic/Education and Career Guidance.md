@@ -39,7 +39,7 @@ To discuss any of the following, please book appointment slots that are during y
 | <a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs" target="_blank">Poly EAE FAQ</a>                                           | FAQ for Poly EAE (Important: read if you are considering EAE)                              |
 | <a href="https://go.gov.sg/applyjcdsa" target="_blank">Direct School Admission – Junior Colleges</a>              | Applicable to ‘O’-level students                                                           |
 | <a href="https://go.gov.sg/pfp" target="_blank">Polytechnic Foundation Programme (PFP)</a>                  | Applicable to 4NA students                                                                 |
-| NAFA Foundation Programme (NFP)                        | Applicable to 4NA students                                                                 |
+|  <a href="https://go.gov.sg/pfp" target="_blank">NAFA Foundation Programme (NFP) </a>                      | Applicable to 4NA students                                                                 |
 | Direct Entry Scheme to Polytechnic Programme (DPP)     | Applicable to 4NA students                                                                 |
 | ITE Traineeship Scheme                                 | A formalised ‘Earn-as-you-Learn’ training arrangement                                      |
 | Joint Polytechnic Admissions Exercise (JPAE)           | Admission to the five polytechnics for Nitec & Higher Nitec students                       |
