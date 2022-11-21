@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Academic Dep & Committees/Physical Education.md
       - Academic Dep & Committees/.keep
       - Academic Dep & Committees/English Language & Literature.md
       - Academic Dep & Committees/Mathematics.md
