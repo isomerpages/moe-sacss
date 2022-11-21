@@ -8,4 +8,4 @@ Established as a military band in the early 1970s, we developed into a concert b
 
 |   |   |
 |---|---|
-| ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CONCERT%20BAND/CB_2020.jpg)  | ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CONCERT%20BAND/CB_NF_1.jpeg)  |
+| <img src="/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CONCERT%20BAND/CB_2020.jpg" style="width:50%">  | ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CONCERT%20BAND/CB_NF_1.jpeg)  |
