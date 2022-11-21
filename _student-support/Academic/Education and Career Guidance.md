@@ -37,7 +37,7 @@ To discuss any of the following, please book appointment slots that are during y
 | <a href="https://go.gov.sg/applyeae" target="_blank">ITE Early Admissions Exercise (for N/O-level students)</a>  | Applicable to all graduating students                                                      |
 | <a href="https://go.gov.sg/polyeae" target="_blank">Poly Early Admissions Exercise (for O-level students)</a>  | Applicable to ‘O’-level students                                                           |
 | <a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs" target="_blank">Poly EAE FAQ</a>                                           | FAQ for Poly EAE (Important: read if you are considering EAE)                              |
-| <a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs" target="_blank">Direct School Admission – Junior Colleges</a>              | Applicable to ‘O’-level students                                                           |
+| <a href="https://go.gov.sg/applyjcdsa" target="_blank">Direct School Admission – Junior Colleges</a>              | Applicable to ‘O’-level students                                                           |
 | Polytechnic Foundation Programme (PFP)                 | Applicable to 4NA students                                                                 |
 | NAFA Foundation Programme (NFP)                        | Applicable to 4NA students                                                                 |
 | Direct Entry Scheme to Polytechnic Programme (DPP)     | Applicable to 4NA students                                                                 |
