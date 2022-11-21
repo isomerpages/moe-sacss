@@ -2,5 +2,6 @@ collections:
   canossian-life:
     output: true
     order:
+      - Leadership/Leadership & Community Engagement Camps (Sec 1 to 3).md
       - Leadership/.keep
       - Canossian Life.md
