@@ -14,4 +14,4 @@ The SACSS Modern Dance Group has had numerous opportunities to showcase their ta
 
 |   |   |
 |---|---|
-|![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/MODERN%20DANCE/2-SYF-2019-Listening-to-our-heartbeat-and-footsteps-scaled.jpg)   | ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/MODERN%20DANCE/4-Joy-Dancing-Beijing-2018-In-Beijing-to-promote-Singapore-1.jpg)  |
+| <img src="/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/MODERN%20DANCE/2-SYF-2019-Listening-to-our-heartbeat-and-footsteps-scaled.jpg" style="width:55%">   | ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/MODERN%20DANCE/4-Joy-Dancing-Beijing-2018-In-Beijing-to-promote-Singapore-1.jpg)  |
