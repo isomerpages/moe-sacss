@@ -25,5 +25,5 @@ Within each category, Secondary 2 students further explore various possible care
 Simultaneously throughout the years in SACSS, our girls are provided with advice and guidance on various topics through their Values Education lessons, assembly programme and enrichment programmes. These include Cyber-Wellness, Stress Management and Personal Grooming.
 
 |   |   |
-|---|---|
+|:---:|:---:|
 | ![](/images/Canossian%20Life/Career%20Preperation/fig6.jpg)  | <img src="images/Canossian%20Life/Career%20Preperation/IMG_0457-scaled-e1632252812473.jpg" style="width:40%">  |
