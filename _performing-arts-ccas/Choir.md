@@ -14,5 +14,3 @@ Since 2009, our Choir’s dedication to the artform and diligent practice has al
 |   |   |
 |---|---|
 |![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CHOIR/Choir_SYF_2019.jpg)  | <img src="/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CHOIR/VIA_Carolling-at-CGH.gif" style="width:50%">  |
-		 
-![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CHOIR/VIA_Carolling-at-CGH.gif)
