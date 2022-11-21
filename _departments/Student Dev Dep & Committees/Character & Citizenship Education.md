@@ -21,4 +21,4 @@ With the aim of preparing every student to be Canossians of Influence, the CCE c
 
 |   |   |
 |---|---|
-|![](/images/Departments/Student%20Dev%20Dep%20&%20Committees/835B8323-1536x1024.jpg)   |![](/images/Departments/Student%20Dev%20Dep%20&%20Committees/IMG_0459-scaled-e1631611746770.jpg)   |
+|![](/images/Departments/Student%20Dev%20Dep%20&%20Committees/835B8323-1536x1024.jpg)   | <img src="/images/Departments/Student%20Dev%20Dep%20&%20Committees/IMG_0459-scaled-e1631611746770.jpg" style="width:50%">   |
