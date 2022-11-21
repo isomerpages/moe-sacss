@@ -2,7 +2,6 @@ collections:
   performing-arts-ccas:
     output: true
     order:
-      - Percussion Band.md
       - Angklung.md
       - Concert Band.md
       - Choir.md
@@ -10,3 +9,4 @@ collections:
       - Guitar Ensemble.md
       - Modern Dance.md
       - Indian Dance.md
+      - Percussion Band.md
