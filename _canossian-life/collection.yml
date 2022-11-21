@@ -2,6 +2,7 @@ collections:
   canossian-life:
     output: true
     order:
+      - Career Preperation/Career & Education Advising.md
       - Career Preperation/Talent Takeoff Programme.md
       - Career Preperation/.keep
       - Canossian Life.md
