@@ -1,4 +1,5 @@
 collections:
   student-support:
     output: true
-    order: []
+    order:
+      - Academic/.keep
