@@ -28,6 +28,10 @@ third_nav_title: Publications
 |:---:|:---:|:---:|
 |<img src="/images/About%20us/CORRI%20CONNECTIONS/SAC18-CORRI-Issue1-app-page-001-2-scaled.jpg" style="width:55%"> Issue 1  | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC18-CORRI_2-Pub-web-page-001-724x1024.jpg) <a href="/files/About%20us/SAC18-CORRI_2-Pub-web.pdf" target = "_blank">Issue 2</a>  |<img src="/images/About%20us/CORRI%20CONNECTIONS/SAC18-CORRI_2-Grad-web-page-001.jpg" style="width:50%"> <a href="/files/About%20us/SAC18-CORRI_2-Grad-web.pdf" target = "_blank">Graduating Classes</a>  |
 
-|  2016 |   |   |
+|  2019 |   |   |   |
+|:---:|:---:|:---:|:---:|
+| ![](/images/About%20us/CORRI%20CONNECTIONS/SAC19-CORRI-1-web-page-001-scaled.jpg)  |  ![](/images/About%20us/CORRI%20CONNECTIONS/SAC19-CORRI-2-Pub-web-page-001-724x1024.jpg) | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC19-CORRI-2-Grad-web-page-001-1.jpg)  |  ![](/images/About%20us/CORRI%20CONNECTIONS/SAC19_PubBro-web-MM-page-001.jpg)  |
+
+|  2018 |   |   |
 |:---:|:---:|:---:|
 |   |   |   |
