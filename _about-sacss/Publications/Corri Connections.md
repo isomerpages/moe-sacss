@@ -18,12 +18,9 @@ third_nav_title: Publications
 |:---:|:---:|:---:|
 | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC16-CORRI_1-web_pages-to-jpg-0001-724x1024.jpg) [Issue 1](/files/About%20us/SAC16-CORRI_1-web.pdf)  | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC16_CC2-web_page-0001-724x1024.jpg) [Issue 2](/files/About%20us/SAC16_CC2-web.pdf) | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC16_CC2-IN-web_page-0001.jpg) [Graduating Classes](/files/About%20us/SAC16_CC2-IN-web.pdf) |
 
-
-
-
-|  2016 |   |   |
+|  2017 |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
+| ![](/images/About%20us/CORRI%20CONNECTIONS/SAC17-CORRI-1-web-page-001-scaled.jpg)   | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC17-C2_Pub-web-page-001-724x1024.jpg)   | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC17-CORRI2_Gradweb-page-001-1.jpg)  |
 
 
 
