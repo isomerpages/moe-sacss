@@ -2,6 +2,7 @@ collections:
   performing-arts-ccas:
     output: true
     order:
+      - Drama Club.md
       - Angklung.md
       - Concert Band.md
       - Choir.md
