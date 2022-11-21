@@ -20,7 +20,7 @@ third_nav_title: Publications
 
 |  2017 |   |   |
 |:---:|:---:|:---:|
-| ![](/images/About%20us/CORRI%20CONNECTIONS/SAC17-CORRI-1-web-page-001-scaled.jpg)   | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC17-C2_Pub-web-page-001-724x1024.jpg)   | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC17-CORRI2_Gradweb-page-001-1.jpg)  |
+| <img src="/images/About%20us/CORRI%20CONNECTIONS/SAC17-CORRI-1-web-page-001-scaled.jpg" style="width:35%">   | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC17-C2_Pub-web-page-001-724x1024.jpg)   | <img src="/images/About%20us/CORRI%20CONNECTIONS/SAC17-CORRI2_Gradweb-page-001-1.jpg" style="width:50%">  |
 
 
 
