@@ -10,4 +10,4 @@ We want to develop young artists who believe that their voice matters and empowe
 
 |   |   |
 |---|---|
-| ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/DRAMA%20CLUB/Human-Values-Drama-Festival-2018-Pic-2.jpg)  |![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/DRAMA%20CLUB/SYF-2021-01-Stills-from-the-play-Goliath-1536x1024.jpg)  |
+| ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/DRAMA%20CLUB/Human-Values-Drama-Festival-2018-Pic-2.jpg)  | <img src="/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/DRAMA%20CLUB/SYF-2021-01-Stills-from-the-play-Goliath-1536x1024.jpg" style="width:50%">  |
