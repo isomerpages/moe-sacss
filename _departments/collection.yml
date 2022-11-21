@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Academic Dep & Committees/Information and Communication Technology.md
       - Academic Dep & Committees/.keep
       - Academic Dep & Committees/English Language & Literature.md
       - Academic Dep & Committees/Mathematics.md
@@ -12,6 +11,7 @@ collections:
       - Academic Dep & Committees/Life Arts.md
       - Academic Dep & Committees/Performing Arts Education.md
       - Academic Dep & Committees/Physical Education.md
+      - Academic Dep & Committees/Information and Communication Technology.md
       - Student Dev Dep & Committees/.keep
       - Student Dev Dep & Committees/Character & Citizenship Education.md
       - Student Dev Dep & Committees/Year Heads and Form Teachers.md
