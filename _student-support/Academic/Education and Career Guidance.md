@@ -19,3 +19,7 @@ To discuss any of the following, please book appointment slots that are during y
 *   Factors to consider in ECG planning
 *   Any other ECG related questions
 
+
+|   |   |
+|:---:|:---:|
+| <a href="http://go.gov.sg/ecgsac-appt/" target="_blank">Book an Appointment</a>  | <a href="http://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html" target="_blank">ECG Events</a>  |
