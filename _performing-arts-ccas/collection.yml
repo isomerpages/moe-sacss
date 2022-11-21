@@ -2,6 +2,6 @@ collections:
   performing-arts-ccas:
     output: true
     order:
-      - Choir.md
       - Angklung.md
       - Concert Band.md
+      - Choir.md
