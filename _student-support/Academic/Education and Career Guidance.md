@@ -4,7 +4,7 @@ permalink: /student-support/Academic/education-and-career-guidance/
 description: ""
 third_nav_title: Academic
 ---
-# O-level Joint Admissions Exercise (JAE),
+# O-level Joint Admissions Exercise (JAE),N-level Joint Intake Exercise (JIE)       
 
 # EDUCATION AND CAREER GUIDANCE
 
@@ -30,8 +30,8 @@ To discuss any of the following, please book appointment slots that are during y
 |----------------------------|-----------------------|
 | <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank">MySkillsFuture (Secondary School)</a>                      |  A one-stop ECG portal with information and tools for students                               |
 | <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank">O-level Joint Admissions Exercise (JAE)</a>                | O-levels Post-sec options, entry requirements, aggregate, etc                              |
-| N-level Joint Intake Exercise (JIE)                    | N-levels Post-sec options, entry requirements, aggregate, etc                              |
-| ITE Courses                                            | List of all ITE Courses                                                                    |
+| <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank">N-level Joint Intake Exercise (JIE)       </a>                | N-levels Post-sec options, entry requirements, aggregate, etc                              |
+|  <a href="https://www.ite.edu.sg/courses/full-time-courses" target="_blank">ITE Courses     </a>                                          | List of all ITE Courses                                                                    |
 | ITE Prospectus                                         | Education & Career Guidance Resources<br>Information on ITE courses, including Traineeship |
 | CourseFinder                                           | List of all ITE & Polytechnic Courses                                                      |
 | ITE Early Admissions Exercise (for N/O-level students) | Applicable to all graduating students                                                      |
