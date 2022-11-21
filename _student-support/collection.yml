@@ -2,6 +2,6 @@ collections:
   student-support:
     output: true
     order:
-      - Academic/Library Services.md
-      - Academic/Self Study Programme.md
       - Academic/.keep
+      - Academic/Self Study Programme.md
+      - Academic/Library Services.md
