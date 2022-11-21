@@ -19,5 +19,5 @@ Students are given the opportunity to take part in competitions to enrich their 
 | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/25_MS-TAN-DEK-CHIN-DAISY.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/12_MDM-KEE-MOOI-THIAM.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/13_MS-LEE-NYUK-LIAN-SANDY.jpg)  |
 | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/Carol.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/11_MDM-GOH-ZHI-LING-CALEEN.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/16_MS-JOYCE-FRANCES-LIU-SIMIN.jpg)  |
 | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/17_MDM-LOH-SHI-YUNN-NICOLE.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/18_MR-MOHD-FAISAL.jpg)   |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/19_MR-ANDREW-POH-KENG-JOO.jpg) |
-|   |   |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/7_MS-NG-BEE-HONG-ANNIE.jpg) |
-|   |   |   |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/20_MDM-TAN-HUI-HWA-GRACE.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/21_MR-TAN-YUH-PENG-KELVIN.jpg)  |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/7_MS-NG-BEE-HONG-ANNIE.jpg) |
+| ![](/images/Departments/Academic%20Dep%20&%20Comittee/MATHEMATICS/23_ME-LEE-KOK-LIANG.jpg)  |   |   |
