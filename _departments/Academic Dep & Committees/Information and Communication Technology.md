@@ -23,4 +23,4 @@ At SACSS, every student will be using the Chromebook as their Personal Learning 
 
 |   |   |   |
 |---|---|---|
-|   |   |   |
+|  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/1_MR-MOHD-NIZAM.jpg) |![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/2_MR-SIDDIQ-SULEIMAN.jpg)   |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/4_MR-MOHD-FADZIL.jpg) |
