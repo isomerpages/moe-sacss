@@ -34,4 +34,4 @@ third_nav_title: Publications
 
 |  2020 |   |  
 |:---:|:---:|
-| ![](/images/About%20us/CORRI%20CONNECTIONS/SAC20-CORRI1-web-page-001-scaled%20(1).jpg)  | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC20-CORRI2-web-page-001-scaled.jpg)  | 
+| ![](/images/About%20us/CORRI%20CONNECTIONS/SAC20-CORRI1-web-page-001-scaled%20(1).jpg) <a href="/files/About%20us/SAC20-CORRI1-web.pdf" target = "_blank">Issue 1</a> | ![](/images/About%20us/CORRI%20CONNECTIONS/SAC20-CORRI2-web-page-001-scaled.jpg) <a href="/files/About%20us/SAC20-CORRI2-web.pdf" target = "_blank">Issue 2</a> |
