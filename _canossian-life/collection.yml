@@ -2,6 +2,7 @@ collections:
   canossian-life:
     output: true
     order:
+      - Performing Arts Niche/Arts Alive.md
       - Performing Arts Niche/.keep
       - Canossian Life.md
       - Leadership/.keep
