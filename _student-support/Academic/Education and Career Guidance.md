@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic
 ---
 # O-level Joint Admissions Exercise (JAE),N-level Joint Intake Exercise (JIE),ITE Prospectus    
-# skills framework link broken
+# skills framework , MOE Financial Assistance Scheme link broken
 
 # EDUCATION AND CAREER GUIDANCE
 
@@ -58,5 +58,5 @@ To discuss any of the following, please book appointment slots that are during y
 |   <a href="https://youtu.be/ndDVlzT-z0g">Where to After Secondary School?</a>                     | Overview of the Post-Secondary Education Landscape                                         |
 |   <a href="https://go.gov.sg/admissions-scholarships">Scholarships</a>                                          | Learn about the different merit-based awards and scholarships                              |
 |   <a href="https://www.moe.gov.sg/FAS">MOE Financial Assistance Scheme</a>                      | Applicable to all students                                                                 |
-| Committee for Private Education                        | Resources for students considering private education                                       |
+|    <a href="https://go.gov.sg/pei">Committee for Private Education</a>                      | Resources for students considering private education                                       |
 | Resources for Private Education Students               | Resources for students considering private education                                       |
