@@ -2,7 +2,6 @@ collections:
   canossian-life:
     output: true
     order:
-      - Clubs & Uniform Group CCAs/National Civil Defence Cadet Corps.md
       - Clubs & Uniform Group CCAs/.keep
       - Clubs & Uniform Group CCAs/Clubs & Uniform Group CCAs.md
       - Clubs & Uniform Group CCAs/Chinese Cultural Society.md
@@ -12,6 +11,7 @@ collections:
       - Clubs & Uniform Group CCAs/Production Management.md
       - Clubs & Uniform Group CCAs/St Magdalene's Club.md
       - Clubs & Uniform Group CCAs/Girl Guides.md
+      - Clubs & Uniform Group CCAs/National Civil Defence Cadet Corps.md
       - Canossian Life.md
       - Leadership/.keep
       - Leadership/Leadership & Community Engagement Camps (Sec 1 to 3).md
