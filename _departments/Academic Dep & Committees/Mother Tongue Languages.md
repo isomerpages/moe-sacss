@@ -20,7 +20,7 @@ At SACSS, we believe in creating meaningful and authentic learning experiences f
 |   |   |   |
 |---|---|---|
 | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/1_MDM-TAY-HUI-CHENG.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/2_MDM-GU-YUAN-YUAN.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/13_MDM-WU-LIN.jpg)   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/4_MS-LI-WEI.jpg)   | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/3_MS-CHOW-QIANWEI-SHONA.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/4_MDM-JIANG-BEI.jpg)   |
+|  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/5_MDM-LEE-LAY-ENG.jpg) | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/7_MR-LIN-ZIJING.jpg)  |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/8_MDM-NORLIZA-BTE-MOHD-ALI.jpg) |
+|  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/9_MS-NURFAEZA-BTE-RAHMAT.jpg) | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/10_MDM-NURUL-HUDA-BTE-MUHD-YASSIN.jpg)  |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/11_MDM-SUZANA-BTE-MOHD-NOR.jpg) |
+|  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/12_MDM-XIE-YAN-JIN.jpg) |   |   |
