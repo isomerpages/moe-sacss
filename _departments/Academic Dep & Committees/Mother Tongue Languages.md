@@ -8,8 +8,8 @@ third_nav_title: Academic Dep & Committees
 
 ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/Artikel-akhbar-SACSS-1024x724.jpg)
 
-_“To learn another language is to have one more window from which to look at the world.”  
-_**_Chinese Proverb_**
+> _“To learn another language is to have one more window from which to look at the world.”_   
+**_Chinese Proverb_**
 
 Languages open up windows and doors of opportunities and possibilities for us in the world. At SACSS, we aspire to create a conducive environment for students to learn and appreciate their Mother Tongue Language (MTL); and inspire them to love the language more, nurturing each one to become a confident and effective communicator.
 
