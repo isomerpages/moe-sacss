@@ -4,7 +4,8 @@ permalink: /student-support/Academic/education-and-career-guidance/
 description: ""
 third_nav_title: Academic
 ---
-# O-level Joint Admissions Exercise (JAE),N-level Joint Intake Exercise (JIE),ITE Prospectus       
+# O-level Joint Admissions Exercise (JAE),N-level Joint Intake Exercise (JIE),ITE Prospectus    
+# skills framework link broken
 
 # EDUCATION AND CAREER GUIDANCE
 
@@ -48,8 +49,8 @@ To discuss any of the following, please book appointment slots that are during y
 | <a href="https://go.gov.sg/industrylandscape-sec" target="_blank">Singapore Industry Landscape</a>                           | ECG Portal to explore the world of work                                                    |
 | <a href="https://www.mti.gov.sg/ITMs/Overview">Industry Transformation Maps (ITMs)</a>                    | Roadmaps for the various industries in Singapore                                           |
 |  <a href="https://www.skillsfuture.sg/skills-framework#whicharethesectors">Skills Framework</a>                                      | Information on career sectors, pathways, roles, skills, training, etc.                     |
-| ECG Parent Guide                                       | Journeying with our Children, Achieving their Aspirations                                  |
-| Schoolbag Website                                      | An online publication by MOE for education news, school features and tips.                 |
+|        <a href="https://go.gov.sg/ecg-parent-guide">ECG Parent Guide</a>                                 | Journeying with our Children, Achieving their Aspirations                                  |
+|  <a href="https://go.gov.sg/schoolbag">Schoolbag Website</a>                                     | An online publication by MOE for education news, school features and tips.                 |
 | The Next Step Forward (e-book)                         | Stories of students and the pathways they have chosen                                      |
 | What’s Next (After PSLE, ‘N’/’O’/’A’-level)            | Applicable to all graduating students                                                      |
 | Post-Secondary Education Options                       | Applicable to all graduating students                                                      |
