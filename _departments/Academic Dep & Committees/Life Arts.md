@@ -20,6 +20,6 @@ Students have opportunities to pursue their varied interests in the Life Arts. T
 |---|---|---|
 |![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/1_MDM-GOO-LAY-HOON.jpg)   | ![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/2_MR-LIM-SOON-HENG-ROLAND.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/8_MS-QUAH-MEI-FANG-AMANDA-1.jpg)  |
 |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/4_MS-GOON-BI-YAN-MICHELLE.jpg) | ![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/MS-TAN-YI-TONG.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/3_MS-CHIU-YUN-TING.jpg)  |
-|   |   |   |
+|![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/9_NUR-BTE-TAIB.jpg)   | ![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/10_MS-LIM-SIM-MUI-DAVORA.jpg)  |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/8_MR-MUHD-NASIRUDDIN.jpg) |
 |   |   |   |
 |   |   |   |
