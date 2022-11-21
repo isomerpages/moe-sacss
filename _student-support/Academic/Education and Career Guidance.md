@@ -4,7 +4,7 @@ permalink: /student-support/Academic/education-and-career-guidance/
 description: ""
 third_nav_title: Academic
 ---
-# O-level Joint Admissions Exercise (JAE),N-level Joint Intake Exercise (JIE),ITE Prospectus    
+# O-level Joint Admissions Exercise (JAE),N-level Joint Intake Exercise (JIE),ITE Prospectus >5MB
 # skills framework , MOE Financial Assistance Scheme link broken
 
 # EDUCATION AND CAREER GUIDANCE
