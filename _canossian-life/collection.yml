@@ -2,6 +2,7 @@ collections:
   canossian-life:
     output: true
     order:
+      - Clubs & Uniform Group CCAs/Chinese Cultural Society.md
       - Clubs & Uniform Group CCAs/Clubs & Uniform Group CCAs.md
       - Clubs & Uniform Group CCAs/.keep
       - Canossian Life.md
