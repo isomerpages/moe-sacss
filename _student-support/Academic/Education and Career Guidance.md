@@ -26,8 +26,8 @@ To discuss any of the following, please book appointment slots that are during y
 
 | Resource                   | Remarks            |
 |----------------------------|-----------------------|
-| <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank">MySkillsFuture (Secondary School)</a>                      | A one-stop ECG portal with information and tools for students                              |
-| O-level Joint Admissions Exercise (JAE)                | O-levels Post-sec options, entry requirements, aggregate, etc                              |
+| <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank">MySkillsFuture (Secondary School)</a>                      |  A one-stop ECG portal with information and tools for students                               |
+| <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank">O-level Joint Admissions Exercise (JAE)</a>                | O-levels Post-sec options, entry requirements, aggregate, etc                              |
 | N-level Joint Intake Exercise (JIE)                    | N-levels Post-sec options, entry requirements, aggregate, etc                              |
 | ITE Courses                                            | List of all ITE Courses                                                                    |
 | ITE Prospectus                                         | Education & Career Guidance Resources<br>Information on ITE courses, including Traineeship |
