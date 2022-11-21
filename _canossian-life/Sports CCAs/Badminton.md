@@ -11,4 +11,4 @@ The CCA also hosts exciting events annually, like the Badminton Camp where the m
 
 |   |   |
 |---|---|
-| ![](/images/Canossian%20Life/Sports%20CCAs/BADMINTON/Badminton1-e1631631425590.jpg)  |![](/images/Canossian%20Life/Sports%20CCAs/BADMINTON/Badminton2.jpg)   |
+| ![](/images/Canossian%20Life/Sports%20CCAs/BADMINTON/Badminton1-e1631631425590.jpg)  | <img src="/images/Canossian%20Life/Sports%20CCAs/BADMINTON/Badminton2.jpg" style="width:50%">   |
