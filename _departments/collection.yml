@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Student Dev Dep & Committees/Year Heads and Form Teachers.md
       - Student Dev Dep & Committees/Character & Citizenship Education.md
       - Student Dev Dep & Committees/.keep
