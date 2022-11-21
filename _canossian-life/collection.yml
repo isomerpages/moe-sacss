@@ -2,6 +2,7 @@ collections:
   canossian-life:
     output: true
     order:
+      - Service/Opportunities To Serve.md
       - Service/.keep
       - Canossian Life.md
       - Leadership/.keep
