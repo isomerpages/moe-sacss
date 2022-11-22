@@ -2,7 +2,6 @@ collections:
   one-stop:
     output: true
     order:
-      - Important Weblinks.md
       - Application Forms.md
       - Booklists & Uniforms.md
       - Community Links/.keep
@@ -11,3 +10,4 @@ collections:
       - Community Links/School Facebook & Instagram.md
       - Schedules.md
       - Tech Support.md
+      - Important Weblinks.md
