@@ -6,7 +6,7 @@ description: ""
 Schedules
 ---------
 
-**Weighted Assessment and Examination Schedules**
+<b><u>Weighted Assessment and Examination Schedules</u></b>
 
 **Weighted Assessment (Term 3)**
 
