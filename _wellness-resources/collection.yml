@@ -2,8 +2,8 @@ collections:
   wellness-resources:
     output: true
     order:
-      - Coping with Changes.md
       - Coping with Anxiety.md
       - Eating Well.md
       - Sleeping Well.md
       - Managing Devices.md
+      - Coping with Changes.md
