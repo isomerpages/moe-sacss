@@ -15,6 +15,6 @@ description: ""
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/One%20stop/SLS.jpg) <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space</a> |  ![](/images/One%20stop/ICON-Email.jpg) |![](/images/One%20stop/School-Cockpit.jpg)   |
+| ![](/images/One%20stop/SLS.jpg) <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space</a> |  ![](/images/One%20stop/ICON-Email.jpg) <a href="https://icon.moe.edu.sg/" target="_blank">iCON</a> |![](/images/One%20stop/School-Cockpit.jpg) <a href="https://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit</a>   |
 | ![](/images/One%20stop/OPAL-20.jpg)  | ![](/images/One%20stop/Academy-Of-SG-Teachers-1.jpg)  | ![](/images/One%20stop/Picture1.jpg)  |
 |  ![](/images/One%20stop/RBS.jpg) |   |   |
