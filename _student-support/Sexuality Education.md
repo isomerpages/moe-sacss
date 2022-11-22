@@ -92,3 +92,20 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 |-----------------------------------|---------------------|-----------------------------------------|
 | Mass Talk by HPB appointed vendor | ·         Awareness of the different STIs and HIV/AIDS<br><br>·         Modes of transmission<br><br>·         Modes of protection, specifically on how the condom is used<br><br>·         Consequences and impact of STIs/HIV<br><br>  | Term 3 Week 3                           |
 | Classroom-based Lesson            | ·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br>                                                                                  | Term 3 Week 4                           |
+
+
+**Information for Parents**
+
+10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents via Parents’ Gateway, and is also downloadable [here](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2022/01/Annex-A.pdf). The completed form is to be submitted by the following dates stated below:
+
+*   Secondary 1: 19/08/2022
+*   Secondary 2: 12/08/2022
+*   Secondary 3: 22/04/2022
+*   Secondary 4 & 5: 25/03/2022
+
+12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents via Parents’ Gateway and is also downloadable [here](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2022/01/Annex-B.pdf). The form is to be submitted by 22/04/2022.
+
+14.  Parents can contact the school at 6449 0616 or email the school at [sacss@moe.edu.sg](mailto:sacss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+15.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
