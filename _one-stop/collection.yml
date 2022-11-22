@@ -2,6 +2,7 @@ collections:
   one-stop:
     output: true
     order:
+      - Community Links/School Facebook & Instagram.md
       - Community Links/.keep
       - Community Links/Alumni.md
       - Community Links/Canossian Co Educators.md
