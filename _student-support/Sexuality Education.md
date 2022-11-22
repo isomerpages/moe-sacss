@@ -87,3 +87,8 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At St. Anthony’s Canossian Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+| Topics/Lessons                    | Programme Learning Objectives                                                                           | Time Period<br><br>(e.g. Term 3 Week 9) |
+|-----------------------------------|---------------------|-----------------------------------------|
+| Mass Talk by HPB appointed vendor | ·         Awareness of the different STIs and HIV/AIDS<br><br>·         Modes of transmission<br>·         Modes of protection, specifically on how the condom is used<br>·         Consequences and impact of STIs/HIV<br>  | Term 3 Week 3                           |
+| Classroom-based Lesson            | ·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br>                                                                                  | Term 3 Week 4                           |
