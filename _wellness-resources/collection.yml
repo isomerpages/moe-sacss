@@ -2,10 +2,10 @@ collections:
   wellness-resources:
     output: true
     order:
-      - Peers, Acceptance and Inclusivity.md
       - Coping with Anxiety.md
       - Eating Well.md
       - Sleeping Well.md
       - Managing Devices.md
       - Coping with Changes.md
       - Self harm & Suicidal Thoughts.md
+      - Peers, Acceptance and Inclusivity.md
