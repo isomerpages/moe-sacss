@@ -24,4 +24,10 @@ sections:
       button: Read More
       image: /images/Home/School-Compound-custom_crop.jpg
       url: /school-corporate-video/
+  - infopic:
+      title: Parent Voices
+      description: Parent Voices
+      button: Read More
+      url: /parent-voices/
+      image: /images/Home/maxresdefault-custom_crop.jpg
 ---
