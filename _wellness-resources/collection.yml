@@ -1,4 +1,5 @@
 collections:
   wellness-resources:
     output: true
-    order: []
+    order:
+      - Coping with Anxiety.md
