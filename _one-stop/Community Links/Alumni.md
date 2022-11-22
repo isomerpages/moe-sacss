@@ -12,3 +12,7 @@ CAA enables every alumni to live an empowering life the Canossian way, by embrac
 Stay connected by joining the Canossian Alumni Association at [https://www.canossianalumni.com/](https://www.canossianalumni.com/)
 
 As an ex- student or even ex-staff, you can also continue to serve SACSS with your skills and talents by contacting us at **_[here](/contact-us-page/)._**
+
+|   |   |   |
+|---|---|---|
+| ![](/images/One%20stop/FD_3791-scaled.jpg)  | ![](/images/One%20stop/FD_3817-scaled.jpg)  |![](/images/One%20stop/FD_3851-scaled.jpg)   |
