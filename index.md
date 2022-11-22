@@ -30,4 +30,10 @@ sections:
       button: Read More
       url: /parent-voices/
       image: /images/Home/maxresdefault-custom_crop.jpg
+  - infopic:
+      title: SACSS Sports CCAs 2021
+      description: SACSS Sports CCAs 2021
+      button: Read More
+      url: /sacss-sports-ccas-2021/
+      image: /images/Home/sacss_sports_cca-scaled-custom_crop.jpg
 ---
