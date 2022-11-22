@@ -2,6 +2,7 @@ collections:
   wellness-resources:
     output: true
     order:
+      - Selfharm & Suicidal Thoughts.md
       - Coping with Anxiety.md
       - Eating Well.md
       - Sleeping Well.md
