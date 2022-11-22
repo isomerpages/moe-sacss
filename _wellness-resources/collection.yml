@@ -2,7 +2,6 @@ collections:
   wellness-resources:
     output: true
     order:
-      - Bullying.md
       - Coping with Anxiety.md
       - Eating Well.md
       - Sleeping Well.md
@@ -10,3 +9,4 @@ collections:
       - Coping with Changes.md
       - Self harm & Suicidal Thoughts.md
       - Peers, Acceptance and Inclusivity.md
+      - Bullying.md
