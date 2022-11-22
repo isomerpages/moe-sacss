@@ -36,4 +36,10 @@ sections:
       button: Read More
       url: /sacss-sports-ccas-2021/
       image: /images/Home/sacss_sports_cca-scaled-custom_crop.jpg
+  - infopic:
+      title: SACSS Open House 2022
+      description: Join SACSS in 2023! Register for a slot to visit our school here.
+      button: SACSS Open House 2022
+      url: https://sites.google.com/moe.edu.sg/sacss-open-house-2022/home
+      image: /images/Home/Hi_Res-Page-1-722x1024.jpg
 ---
