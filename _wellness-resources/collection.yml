@@ -2,5 +2,6 @@ collections:
   wellness-resources:
     output: true
     order:
+      - Sleeping Well.md
       - Coping with Anxiety.md
       - Eating Well.md
