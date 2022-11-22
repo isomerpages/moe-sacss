@@ -1,4 +1,5 @@
 collections:
   one-stop:
     output: true
-    order: []
+    order:
+      - Application Forms.md
