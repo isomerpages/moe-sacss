@@ -2,5 +2,6 @@ collections:
   one-stop:
     output: true
     order:
+      - Tech Support.md
       - Application Forms.md
       - Booklists & Uniforms.md
