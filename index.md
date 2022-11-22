@@ -42,12 +42,14 @@ sections:
       button: SACSS Open House 2022
       url: https://sites.google.com/moe.edu.sg/sacss-open-house-2022/home
       image: /images/Home/Hi_Res-Page-1-722x1024.jpg
+      subtitle: 17 Oct
   - infopic:
       title: "SACSS Sports Day 2022 "
       description: Find all the information for Sports Day here.
       button: "SACSS Sports Day 2022 "
       url: /files/2022-Sports-Day-Briefing.pdf
       image: /images/Home/Main-Banner-Image-1-1-1024x768.jpeg
+      subtitle: 29 Jul
   - infopic:
       title: SACSS DSA e-Open House Microsite
       description: Find out more about what SACSS has to offer. Visit our DSA e-Open
@@ -55,4 +57,5 @@ sections:
       button: SACSS DSA e-Open House
       url: https://sites.google.com/moe.edu.sg/sacss-dsa-eopenhouse/home
       image: /images/Home/SACSS-DSA-e-Open-HOuse-1024x819.png
+      subtitle: 17 May
 ---
