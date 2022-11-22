@@ -2,11 +2,11 @@ collections:
   one-stop:
     output: true
     order:
-      - Schedules.md
       - Application Forms.md
       - Booklists & Uniforms.md
       - Community Links/.keep
       - Community Links/Alumni.md
       - Community Links/Canossian Co Educators.md
       - Community Links/School Facebook & Instagram.md
+      - Schedules.md
       - Tech Support.md
