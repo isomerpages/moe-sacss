@@ -18,16 +18,10 @@ sections:
         - title: MEDIA
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: School Corporate Video
+      description: School Corporate Video
+      button: Read More
+      image: /images/Home/School-Compound-custom_crop.jpg
+      url: /school-corporate-video/
 ---
