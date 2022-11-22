@@ -24,8 +24,8 @@ Schedules
 
 **End-of-Year Examinations**
 
-*   [Secondary 1 End-of-Year Examinations][](/files/One%20Stop/Schedule/1-End-of-Year-Student-Schedule-Sec-1.pdf)
-*   [Secondary 2 End-of-Year Examinations][](/files/One%20Stop/Schedule/2-End-of-Year-Student-Schedule-Sec-2.pdf)
-*   [Secondary 3 NT End-of-Year Examinations][](/files/One%20Stop/Schedule/3-End-of-Year-Student-Schedule-Sec-3NT.pdf)
-*   [Secondary 3 NA End-of-Year Examinations][](/files/One%20Stop/Schedule/4-End-of-Year-Student-Schedule-Sec-3NA.pdf)
-*   [Secondary 3 Exp End-of-Year Examinations][](/files/One%20Stop/Schedule/5-End-of-Year-Student-Schedule-Sec-3Express.pdf)
+*   [Secondary 1 End-of-Year Examinations](/files/One%20Stop/Schedule/1-End-of-Year-Student-Schedule-Sec-1.pdf)
+*   [Secondary 2 End-of-Year Examinations](/files/One%20Stop/Schedule/2-End-of-Year-Student-Schedule-Sec-2.pdf)
+*   [Secondary 3 NT End-of-Year Examinations](/files/One%20Stop/Schedule/3-End-of-Year-Student-Schedule-Sec-3NT.pdf)
+*   [Secondary 3 NA End-of-Year Examinations](/files/One%20Stop/Schedule/4-End-of-Year-Student-Schedule-Sec-3NA.pdf)
+*   [Secondary 3 Exp End-of-Year Examinations](/files/One%20Stop/Schedule/5-End-of-Year-Student-Schedule-Sec-3Express.pdf)
