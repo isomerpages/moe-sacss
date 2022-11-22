@@ -2,9 +2,9 @@ collections:
   student-support:
     output: true
     order:
-      - Mental Health/Wellness Resources.md
       - Mental Health/.keep
       - Mental Health/Mental Health.md
+      - Mental Health/Wellness Resources.md
       - Mental Health/Crisis Support.md
       - Academic/.keep
       - Academic/Self Study Programme.md
