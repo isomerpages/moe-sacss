@@ -13,7 +13,7 @@ sections:
           description: ""
           url: /school-corporate-video/
         - title: Highlight B
-          description: Important highlight B is equally important
+          description: ""
           url: https://gmail.com
         - title: MEDIA
           description: ""
