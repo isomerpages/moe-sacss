@@ -2,10 +2,10 @@ collections:
   student-support:
     output: true
     order:
+      - Financial Supp Scheme & Awards/.keep
+      - Financial Supp Scheme & Awards/Financial Assistance Schemes.md
       - Financial Supp Scheme & Awards/Financial Assistance Awards, Bursaries
         and Grants.md
-      - Financial Supp Scheme & Awards/Financial Assistance Schemes.md
-      - Financial Supp Scheme & Awards/.keep
       - Academic/.keep
       - Academic/Self Study Programme.md
       - Academic/Library Services.md
