@@ -90,5 +90,5 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 | Topics/Lessons                    | Programme Learning Objectives                                                                           | Time Period<br><br>(e.g. Term 3 Week 9) |
 |-----------------------------------|---------------------|-----------------------------------------|
-| Mass Talk by HPB appointed vendor | ·         Awareness of the different STIs and HIV/AIDS<br><br>·         Modes of transmission<br>·         Modes of protection, specifically on how the condom is used<br>·         Consequences and impact of STIs/HIV<br>  | Term 3 Week 3                           |
+| Mass Talk by HPB appointed vendor | ·         Awareness of the different STIs and HIV/AIDS<br><br>·         Modes of transmission<br><br>·         Modes of protection, specifically on how the condom is used<br><br>·         Consequences and impact of STIs/HIV<br><br>  | Term 3 Week 3                           |
 | Classroom-based Lesson            | ·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br>                                                                                  | Term 3 Week 4                           |
