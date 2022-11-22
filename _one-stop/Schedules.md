@@ -18,9 +18,9 @@ Schedules
 
 **Preliminary Examinations**
 
-*   [Secondary 4NT Preliminary Examinations](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2022/07/Sec-4NT-Preliminary-Examination.pdf)
-*   [Secondary 4NA Preliminary Examinations](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2022/08/Sec-4NA-Preliminary-Examination-updated-25-July.pdf)
-*   [Secondary 4E5N Preliminary Examinations](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2022/08/Sec-4E5N-Preliminary-Examination-updated-25-July.pdf)
+*   [Secondary 4NT Preliminary Examinations][](/files/One%20Stop/Schedule/Sec-4NT-Preliminary-Examination.pdf)
+*   [Secondary 4NA Preliminary Examinations][](/files/One%20Stop/Schedule/Sec-4NA-Preliminary-Examination-updated-25-July.pdf)
+*   [Secondary 4E5N Preliminary Examinations][](/files/One%20Stop/Schedule/Sec-4E5N-Preliminary-Examination-updated-25-July.pdf)
 
 **End-of-Year Examinations**
 
