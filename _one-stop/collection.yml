@@ -2,6 +2,7 @@ collections:
   one-stop:
     output: true
     order:
+      - Community Links/.keep
       - Application Forms.md
       - Booklists & Uniforms.md
       - Tech Support.md
