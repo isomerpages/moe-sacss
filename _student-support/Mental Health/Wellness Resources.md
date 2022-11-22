@@ -11,5 +11,5 @@ Nobody talks about the moments in their secondary experiences that were low or m
 |   |   |   |
 |---|---|---|
 | ![](/images/Mental%20Health/FD_0605-scaled.jpg)  | ![](/images/Mental%20Health/Eating-Well.jpg)  | ![](/images/Mental%20Health/Sleeping-Well-scaled.jpg)  |
-|   |   |   |
-|   |   |   |
+|![](/images/Mental%20Health/Managing-Devices-scaled.jpg)   |  ![](/images/Mental%20Health/Coping-with-Changes-scaled.jpg) | ![](/images/Mental%20Health/Self-Harm-scaled.jpg)  |
+| ![](/images/Mental%20Health/New-Banner-image.jpg)  |![](/images/Mental%20Health/Banner-image-6.jpg)  | ![](/images/Mental%20Health/Banner-Image-3-scaled.jpg)  |
