@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: HIGHLIGHTS
+          description: ""
+          url: /school-corporate-video/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
@@ -24,4 +24,10 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
