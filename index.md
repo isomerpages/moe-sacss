@@ -15,9 +15,9 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: MEDIA
+          description: ""
+          url: https://www.facebook.com/SACSSOfficial/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
