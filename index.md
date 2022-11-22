@@ -12,9 +12,9 @@ sections:
         - title: HIGHLIGHTS
           description: ""
           url: /school-corporate-video/
-        - title: Highlight B
+        - title: EVENTS
           description: ""
-          url: https://gmail.com
+          url: https://sites.google.com/moe.edu.sg/sacss-open-house-2022/home
         - title: MEDIA
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
