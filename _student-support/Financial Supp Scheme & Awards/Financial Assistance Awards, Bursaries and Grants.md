@@ -12,7 +12,7 @@ Between 2021 and 2022, the school launched **four** new sources of financial a
 
 This award, established in 2022, is a need based grant programme providing one-time financial assistance to Singaporean and non-Singaporean graduates of SACSS to complete a full-time NITEC certification or polytechnic diploma that develop their skills for employment in the area of social services which in turn, contributes to the dignity and well-being of society, including children and youth, people with disabilities and special needs, and seniors. The Magdalenian Education Grant seeks to extend St. Magdalene’s mission by empowering our students from less privileged homes to give back to society by funding their post-secondary education. Their services can thereafter support the poor, the marginalised and the sick.
 
-For the full details regarding eligibility, supporting documents and more, please click [here](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2021/12/Magdalenian-Education-Grant-Full-Details_15Dec.pdf).
+For the full details regarding eligibility, supporting documents and more, please click [here](/files/Student%20Support/Magdalenian-Education-Grant-Full-Details_15Dec.pdf).
 
 For the online application form, please click [here](https://forms.zohopublic.com/SACSS/form/StMagdalenesFund/formperma/jqAWMs4sLEvbxn_X_kaQN3IH4m1-5u8L0n5F0J79obI).
 
