@@ -8,4 +8,4 @@ third_nav_title: Community Links
 
 |   |   | 
 |:---:|:---:|
-|  [Facebook](https://www.facebook.com/SACSSOfficial)  | [Instagram](https://www.instagram.com/sacss_student_council/)  |
+| <a href="https://www.facebook.com/SACSSOfficial" target="_blank">Facebook</a>   | <a href="https://www.instagram.com/sacss_student_council/" target="_blank">Instagram</a>  |
