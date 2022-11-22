@@ -14,7 +14,7 @@ Schedules
 *   [Secondary 2 Weighted Assessment](/files/One%20Stop/Schedule/WA3-Student-Schedule-Sec-2.pdf)
 *   [Secondary 3 NT Weighted Assessment](/files/One%20Stop/Schedule/WA3-Student-Schedule-Sec-3NT.pdf)
 *   [Secondary 3 NA Weighted Assessment][](/files/One%20Stop/Schedule/WA3-Student-Schedule-Sec-3NA.pdf)
-*   [Secondary 3 Exp Weighted Assessment](https://stanthonyscanossiansec.moe.edu.sg/wp-content/uploads/2022/07/WA3-Student-Schedule-Sec-3E.pdf)
+*   [Secondary 3 Exp Weighted Assessment][](/files/One%20Stop/Schedule/WA3-Student-Schedule-Sec-3E.pdf)
 
 **Preliminary Examinations**
 
