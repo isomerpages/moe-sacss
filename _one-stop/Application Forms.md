@@ -8,10 +8,9 @@ description: ""
 
 |   |   |
 |---|---|
-|  <a href="/our-special-programme/ELIXiR/" target="_blank">DSA</a> |   |
+|  <a href="/files/One%20Stop/SACSS-DSA-Sec-2021_updated.pdf" target="_blank">DSA</a> | <a href="https://go.gov.sg/sacss-cce-application-form" target="_blank">CCE Application</a>  |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 
-https://go.gov.sg/sacss-cce-application-form
