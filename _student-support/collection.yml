@@ -2,6 +2,7 @@ collections:
   student-support:
     output: true
     order:
+      - Sexuality Education.md
       - Academic/.keep
       - Academic/Self Study Programme.md
       - Academic/Library Services.md
