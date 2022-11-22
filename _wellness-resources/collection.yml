@@ -2,7 +2,7 @@ collections:
   wellness-resources:
     output: true
     order:
-      - Managing Devices.md
       - Coping with Anxiety.md
       - Eating Well.md
       - Sleeping Well.md
+      - Managing Devices.md
