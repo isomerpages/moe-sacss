@@ -4,7 +4,7 @@ permalink: /departments/Academic-Dep-and-Committees/science/
 description: ""
 third_nav_title: Academic Dep & Committees
 ---
-# SCIENCE
+
 The design of our school’s Science curriculum is according to MOE’s Science Curriculum Framework, incorporating Scientific Inquiry Approach to align the scope of study with the national and international demands and to fulfill the objectives of the syllabuses. We aim to develop independent and critical thinkers who possess positive attitudes and curiosity toward the learning of Science. Through learning Secondary Science, students would be equipped with the essential competency in knowledge and skills of different Science subjects in a connected and cumulative way, not only to gain an understanding of concepts, but also to remember them for life and apply them to real-life situations.
 
 The Science Department aims to provide opportunities and exposures to create unique and joyful learning experiences. In classrooms, students learn Science in realistic settings through investigations and experiments. Being empowered learners, students also leverage on the collaboration between themselves. Innovative approaches consist of wet and dry lab sessions used to complement Science teaching in class. To explore beyond the syllabuses, we have put in place specially designed programmes to inculcate a spirit of inquiry and ethical norms to create the scientists of tomorrow.
