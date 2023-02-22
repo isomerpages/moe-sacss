@@ -4,7 +4,7 @@ permalink: /departments/Student-Dev-Dep-and-Committees/year-heads-and-form-teach
 description: ""
 third_nav_title: Student Dev Dep & Committees
 ---
-# YEAR HEADS & FORM TEACHERS
+
 The Year Head Team at SACSS works closely with the Form Teachers to provide strong socio-emotional and academic support for the girls and co-ordinate efforts amongst teachers teaching a particular level.
 
 The partnership between the YH Team and the form teachers not only allows the school to provide better attention to student needs, it also helps to facilitate and align student-related programmes and other initiatives to strengthen the rapport between teachers and students so as to ensure a more congenial and engaging educational experience and support for students.
