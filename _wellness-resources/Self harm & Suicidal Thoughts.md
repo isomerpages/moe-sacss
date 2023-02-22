@@ -4,8 +4,6 @@ permalink: /wellness-resources/self-harm-suicidal-thoughts/
 description: ""
 ---
 
-Self-harm & Suicidal Thoughts
------------------------------
 
 **What is it?**
 
