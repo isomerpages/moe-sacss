@@ -4,7 +4,6 @@ permalink: /about-sacss/School-History/autonomous-niche/
 description: ""
 third_nav_title: School History
 ---
-# AUTONOMOUS NICHE
 In St Anthony’s Canossian Secondary School , our unique Performing Arts Education Programme (PfE) is anchored by a trinity of disciplines – Music, Dance and Drama. Faithful to our belief in the immense potential in each and every student, this programme is offered to all pupils in the first two years of their secondary schooling as a means of empowering them for life with a holistic approach to their education.
 
 The Rationale behind The Choice: Performing Arts Education-Our Niche Area
