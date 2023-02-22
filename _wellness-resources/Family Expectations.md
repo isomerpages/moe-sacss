@@ -3,8 +3,7 @@ title: Family Expectations
 permalink: /wellness-resources/family-expectations/
 description: ""
 ---
-Family Expectations
--------------------
+
 
 **What are family expectations?**
 
