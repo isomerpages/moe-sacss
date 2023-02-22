@@ -4,7 +4,7 @@ permalink: /canossian-life/Career-Preperation/career-education-advising/
 description: ""
 third_nav_title: Career Preperation
 ---
-# CAREER & EDUCATION ADVISING
+
 #### **Career Education and Advising**
 
 The premise of Career Education stems from our belief that all our students possess talents and that each of these talents need to be either discovered, trained or refined. In today’s world, work takes on various definitions and many of these go beyond just a means to earn a living. We encourage our girls to explore 
