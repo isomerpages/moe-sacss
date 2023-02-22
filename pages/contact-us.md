@@ -30,4 +30,11 @@ contacts:
       - email: ""
       - other: <b>Nearest MRT Station:</b> Bedok <br><b>Buses:</b> 17, 17A
     title: "How to get there:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <iframe
+          src="https://www.google.com/maps/embed/v1/place?q=st+anthony%27s+canossian+secondary&amp;key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8"
+          aria-hidden="true"></iframe>
+    title: Map
 ---
