@@ -3,8 +3,7 @@ title: Sleeping Well
 permalink: /wellness-resources/sleeping-well/
 description: ""
 ---
-Sleeping Well
--------------
+
 
 Sleeping well is vital to good health, especially for teenagers. Unfortunately, many teens do not get the sleep that they need because they tend to stay up late at night and need to wake up early for school.  Quality sleep is vital for maintaining our overall physical, emotional and mental wellbeing. When our bodies don’t get enough sleep, it can have negative effects on our metabolism, cognition, and immune systems.
 
