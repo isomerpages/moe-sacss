@@ -4,7 +4,6 @@ permalink: /student-support/Academic/education-support/
 description: ""
 third_nav_title: Academic
 ---
-# EDUCATION SUPPORT
 
 In 2021, the Education Support Committee carried out a series of professional development sessions to equip teachers with skills to support and manage students with learning needs.
 
