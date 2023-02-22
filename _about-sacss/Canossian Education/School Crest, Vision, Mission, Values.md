@@ -4,9 +4,6 @@ permalink: /about-sacss/Canossian-Education/school-crest-vision-mission-values/
 description: ""
 third_nav_title: Canossian Education
 ---
-
-# SCHOOL CREST, VISION, MISSION, VALUES
-
 ## School Crest
 
 Our school crest is used in all Canossian Schools.
