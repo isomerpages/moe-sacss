@@ -12,17 +12,22 @@ locations:
       - days: Mon - Fri
         time: 7.00am - 6.00pm
         description: "Closed on Public Holidays and Weekends. "
-    maps_link: ""
+    maps_link: https://goo.gl/maps/1KDL3jmWKmLLVKkW8
     title: Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6449 0616
+      - email: ""
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: sacss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: Email
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <b>Nearest MRT Station:</b> Bedok <br><b>Buses:</b> 17, 17A
+    title: "How to get there:"
 ---
