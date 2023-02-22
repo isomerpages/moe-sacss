@@ -7,7 +7,7 @@ third_nav_title: Academic
 # O-level Joint Admissions Exercise (JAE),N-level Joint Intake Exercise (JIE),ITE Prospectus >5MB
 # skills framework , MOE Financial Assistance Scheme link broken
 
-# EDUCATION AND CAREER GUIDANCE
+
 
 ## Education and Career Guidance (ECG)
 
