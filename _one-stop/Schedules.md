@@ -3,8 +3,7 @@ title: Schedules
 permalink: /one-stop/schedules/
 description: ""
 ---
-Schedules
----------
+
 
 <b><u>Weighted Assessment and Examination Schedules</u></b>
 
