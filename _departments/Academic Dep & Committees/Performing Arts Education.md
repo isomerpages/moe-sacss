@@ -4,7 +4,7 @@ permalink: /departments/Academic-Dep-and-Committees/performing-arts-education/
 description: ""
 third_nav_title: Academic Dep & Committees
 ---
-# PERFORMING ARTS EDUCATION
+
 
 ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/Performing-Arts-Education.jpg)
 Here at SACSS, we have developed a well-established Performing Arts Education (PfE) Programme since 2000. In addition to cultivating an appreciation of the performing arts, the curriculum is designed to enable students to develop essential 21st Century (21CC) skills and Social Emotional Learning (SEL) competencies. Through the interactive experiential sessions, students develop a keen sense of sensitivity to the world around them; build self-confidence; enhance their ability to express their ideas clearly through different art forms; and acquire effective interpersonal and intrapersonal skills, independent learning, creativity and innovation skills. 
