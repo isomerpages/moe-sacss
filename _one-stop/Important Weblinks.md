@@ -4,7 +4,7 @@ permalink: /one-stop/important-weblinks/
 description: ""
 ---
 # school cockpit link broken
-# IMPORTANT WEBLINKS
+
 ### <center>For Students</center>
 
 |   |   |   |
