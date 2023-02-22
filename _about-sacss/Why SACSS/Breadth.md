@@ -8,7 +8,7 @@ third_nav_title: Why SACSS
 
 <p style="text-align: justify;">Breadth is a key feature of our Canossian education which allows you to build on your interest through a wide range of modules and CCAs that promote your creativity streak and build your portfolio beyond the confines of the classroom. Through our <b><i>Performing Arts, Young Scholars Programme, Talent Take-off and Applied Learning Programmes</i></b>, you will develop a broader range of skills that may not traditionally be available within the MOE curriculum. Designed and taught in partnership with alumni, vendors and educational institutions, these modules address topics through diverse disciplinary lenses. You will learn how to synthesise ideas from different fields and collaborate in multidisciplinary settings which are highly valued and needed in solving many of the world’s challenges.</p>
 
-![](/images/About%20us/Aalesha-Banner-Image-2.png)
+![](/images/Aalesha-Banner-Image-2-1.jpg)
 
 #### **Aalesha Cheong**
 
