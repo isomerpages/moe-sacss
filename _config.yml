@@ -3,7 +3,7 @@ url: https://stanthonyscanossiansec.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#094b8d"
-  secondary-color: "#094b8d"
+  secondary-color: "#f3c813"
   media-colors:
     - title: media-color-one
       color: "#49759a"
