@@ -4,7 +4,7 @@ permalink: /canossian-life/Career-Preperation/talent-takeoff-programme/
 description: ""
 third_nav_title: Career Preperation
 ---
-# TALENT TAKEOFF PROGRAMME
+
 The Talent Take Off programme is a customised lower secondary programme based on the principle of Inquiry Based Learning. Students are guided through a series of courses and workshops before they actually embark on Global Challenge which is intended to bridge a gap or make a positive difference.
 
 To that end, our girls gain exposure to various Worlds and the associated careers within these worlds. These include the following:
