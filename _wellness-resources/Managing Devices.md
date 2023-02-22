@@ -3,8 +3,7 @@ title: Managing Devices
 permalink: /wellness-resources/managing-devices/
 description: ""
 ---
-Managing Devices
-----------------
+
 
 **What is meant by this?**
 
