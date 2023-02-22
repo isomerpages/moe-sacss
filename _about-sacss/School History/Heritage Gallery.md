@@ -4,9 +4,6 @@ permalink: /about-sacss/School-History/heritage-gallery/
 description: ""
 third_nav_title: School History
 ---
-# upload video to youtube
-# HERITAGE GALLERY
-
 #### <b><u>Launch of Heritage Gallery, St Magdalene’s Feast Day and Awards Ceremony</u></b>
 
 In conjunction with St Magdalene’s Feast Day, on 5 March 2021, the St Anthony’s Canossian Schools re-opened the newly refurbished Heritage Gallery, Nostalgie Canossiane. Provincial Leader, Sr Christina Yeo, and Superintendent of East 4 Cluster, Mr Justin Pierre, declared the gallery open. Father Eugene Lee blessed the gallery.
@@ -20,3 +17,7 @@ We hope that through the documentation and archiving of our traditions and achie
 |   |   |
 |---|---|
 | ![HG-1](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/HG-1.jpg "HG-1")  | ![HG-10](https://stanthonyscanossiansec-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2021/08/HG-10.jpg "HG-10")  |
+
+
+
+(video needs to be uploaded on to youtube)
