@@ -3,7 +3,7 @@ title: Young Scholars' Academic, Research & Initiatives
 permalink: /departments/young-scholars-academic-research-initiatives/
 description: ""
 ---
-# YOUNG SCHOLARS' ACADEMIC, RESEARCH & INITIATIVES
+
 
 **Young Scholars** **Research and Initiative Programme (YSRI)**
 
