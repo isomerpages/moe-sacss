@@ -3,7 +3,7 @@ title: Modern Dance
 permalink: /performing-arts-ccas/modern-dance/
 description: ""
 ---
-# MODERN DANCE
+
 
 ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/MODERN%20DANCE/MODERN-DANCE_4550-678x1024.jpg)
 
