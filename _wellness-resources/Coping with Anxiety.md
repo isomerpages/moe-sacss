@@ -3,7 +3,7 @@ title: Coping with Anxiety
 permalink: /wellness-resources/coping-with-anxiety/
 description: ""
 ---
-# Coping with Anxiety
+
 
 
 **What is Anxiety?**
