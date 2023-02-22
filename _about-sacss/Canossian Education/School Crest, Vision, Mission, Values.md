@@ -19,7 +19,7 @@ The star is a symbol of lofty ideas stirring a person to great and noble deeds a
 
 The Crown above the crest symbolises the supremacy of God and for all to be fully alive in the Glory of God so that we may live “the way, the truth and the life”.
 
-![](/images/About%20us/SACSS-Org-Chart-White_17Jan-1166x1536.jpg)
+![](/images/SACSS-Org-Chart-White_17Jan-777x1024%20(1).jpg)
 
 
 ## School Vision
