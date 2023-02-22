@@ -4,7 +4,7 @@ permalink: /departments/Student-Dev-Dep-and-Committees/cce/
 description: ""
 third_nav_title: Student Dev Dep & Committees
 ---
-# CHARACTER & CITIZENSHIP EDUCATION
+
 
 Character and Citizenship Education (CCE) has always been at the heart of our brand of Canossian Education. Our Foundress, St. Magdalene, strongly emphasised her educational philosophy which she called the "Formation of the Heart", where she acknowledged that feelings and affections have a strong bearing on the whole educational process for each child.
 
