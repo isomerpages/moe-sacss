@@ -3,7 +3,7 @@ title: Tech Support
 permalink: /one-stop/tech-support/
 description: ""
 ---
-# TECH SUPPORT
+
 
 <a href="https://sites.google.com/moe.edu.sg/sacssstudenthub" target = "_blank"> <img src="/images/One%20stop/SACSS-Student-Hub.jpg"></a>
 
