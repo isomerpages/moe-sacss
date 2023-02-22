@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Publications
 ---
 # Amore Senza Fine,Carita, In Tandem, Spirited Endeavours pdf>5MB
-# SPECIAL PUBLICATIONS
 
 |   |   |   |
 |:---:|:---:|:---:|
