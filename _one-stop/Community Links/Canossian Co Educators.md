@@ -4,8 +4,6 @@ permalink: /one-stop/Community-Links/canossian-co-educators/
 description: ""
 third_nav_title: Community Links
 ---
-# Upload greenery@sacss video to youtube
-
 At SACSS, our parent volunteers are known as Canossian Co-Educators. We strongly believe in forming a tripartite relationship between the school, the parents and the girls. 
 
 Through the years, we have been involved in several activities to support the school. We have run booths for the Night Festival and other Fund-Raising Projects and Carnivals, helped with the sale cookies and flowers for Mothers’ Day and even done breakfast meals for Teachers’ Day. We are most proud of our **Greenery@SACSS Project** which is an effort to promote a green model school and enhance the vibrancy of the school environment through nature.
@@ -29,6 +27,9 @@ b. Medicinal Herbal / Sensory Garden
 c. Ornamental (Edible Yard, Herbs and Spices, Food Crops) Garden  
 d. English Garden  
 e. Hydroponics Farm and Experimentation Room (Autopots Project)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GkgxjYtic-w?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 #### Programme Objectives
