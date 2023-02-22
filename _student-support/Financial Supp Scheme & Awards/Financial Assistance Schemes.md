@@ -4,7 +4,7 @@ permalink: /student-support/Financial-Supp-Scheme-and-Awards/financial-assistanc
 description: ""
 third_nav_title: Financial Supp Scheme & Awards
 ---
-# FINANCIAL ASSISTANCE SCHEMES
+
 
 Refer to this link for the various financial support schemes available.
 
