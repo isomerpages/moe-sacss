@@ -4,7 +4,7 @@ permalink: /about-sacss/School-Management/
 description: ""
 third_nav_title: School Management
 ---
-# SCHOOL MANAGEMENT COMMITTEE
+
 Dr Gerard Ee Hock Kim  
 _Chairperson_
 
