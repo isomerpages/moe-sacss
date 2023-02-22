@@ -4,7 +4,7 @@ permalink: /student-support/Financial-Supp-Scheme-and-Awards/financial-assistanc
 description: ""
 third_nav_title: Financial Supp Scheme & Awards
 ---
-# FINANCIAL ASSISTANCE AWARDS, BURSARIES AND GRANTS
+
 
 Between 2021 and 2022, the school launched **four** new sources of financial assistance, three of which were generously sponsored by members of our Canossian Family – Ms Ng Wee Chew, the late Mrs Thio Ying Ying and the late Ms Grace Chew and one was sponsored by an anonymous donor. In the form of an award, a bursary and an emergency fund, these serve to inspire and encourage our students who have continued to give their best in the different areas of their school life, in spite of the personal difficulties they face.
 
