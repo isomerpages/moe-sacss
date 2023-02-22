@@ -4,7 +4,7 @@ permalink: /about-sacss/School-Management/financial-information/
 description: ""
 third_nav_title: School Management
 ---
-# FINANCIAL INFORMATION
+
 ### Non-Financial Information
 
 **Name of School:** St. Anthony’s Canossian Secondary School
