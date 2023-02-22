@@ -12,7 +12,11 @@ third_nav_title: Why SACSS
 |---|---|
 | <img src="/images/About%20us/IMG_6993-1-scaled-e1630260551333.jpg" style="width:50%">  | ![](/images/About%20us/IMG_7168-1536x1024.jpg)  |
 
-![](/images/About%20us/Phyllis-2.jpeg)
+
+
+<img src="/images/About%20us/Phyllis-2.jpeg" 
+     style="width:75%">
+
 
 #### **Phyllis Soo**
 
