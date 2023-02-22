@@ -4,7 +4,7 @@ permalink: /student-support/Mental-Health/
 description: ""
 third_nav_title: Mental Health
 ---
-# MENTAL HEALTH
+
 Being a teenager is an amazing experience, but it can also be a little overwhelming at times for some. Here at SACSS, no matter what you are going through, we are here to help.
 
 The SACSS Wellbeing Team brings together a group of three remarkable counsellors to support our students in finding successful strategies to manage and overcome issues that may crop up in the life of teenagers. Besides referral by teachers, students are free to walk in and speak with any one of the three school counsellors.
