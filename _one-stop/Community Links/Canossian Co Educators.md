@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Community Links
 ---
 # Upload greenery@sacss video to youtube
-# CANOSSIAN CO-EDUCATORS
 
 At SACSS, our parent volunteers are known as Canossian Co-Educators. We strongly believe in forming a tripartite relationship between the school, the parents and the girls. 
 
