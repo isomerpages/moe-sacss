@@ -3,7 +3,6 @@ title: School Song
 permalink: /about-sacss/school-song/
 description: ""
 ---
-# SCHOOL SONG
 The aspirations of the Canossian Sisters for girls are best captured in the school song acting as a constant reminder of the schools' educational aims. The lyrics were penned in 1967 by Sister Carmen Dengah who was both teacher & principal from 1969-1976. Mrs Christine Kanagarajah, who taught for over 40 years from 1958 to 2000, composed the music.
 
  
