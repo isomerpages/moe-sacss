@@ -3,7 +3,7 @@ title: Choir
 permalink: /performing-arts-ccas/choir/
 description: ""
 ---
-# CHOIR
+
 
 ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/CHOIR/Choir_2021-SYF-preparation.jpeg)
 		 
