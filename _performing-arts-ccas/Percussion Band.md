@@ -3,7 +3,7 @@ title: Percussion Band
 permalink: /performing-arts-ccas/percussion-band/
 description: ""
 ---
-# PERCUSSION BAND
+
 
 ![](/images/Canossian%20Life/Performing%20Arts%20Niche/Performing%20arts%20cca/PERCUSSION%20BAND/PB14_SYF-Drummers-864x1536.jpg)
 
