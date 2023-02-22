@@ -2,7 +2,6 @@ collections:
   canossian-life:
     output: true
     order:
-      - Young Scholars' Academic, Research & Initiatives.md
       - Canossian Life.md
       - Leadership/.keep
       - Leadership/Leadership & Community Engagement Camps (Sec 1 to 3).md
@@ -35,3 +34,4 @@ collections:
       - Clubs & Uniform Group CCAs/St Magdalene's Club.md
       - Clubs & Uniform Group CCAs/Girl Guides.md
       - Clubs & Uniform Group CCAs/National Civil Defence Cadet Corps.md
+      - Young Scholars' Academic, Research & Initiatives.md
