@@ -12,9 +12,9 @@ sections:
         - title: School Corporate Video
           description: ""
           url: https://youtu.be/eNm1sI0AK1c
-        - title: EVENTS
+        - title: Announcements
           description: ""
-          url: https://sites.google.com/moe.edu.sg/sacss-open-house-2022/home
+          url: ""
         - title: SACSS Facebook
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
