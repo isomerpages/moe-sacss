@@ -14,7 +14,7 @@ sections:
           url: https://youtu.be/eNm1sI0AK1c
         - title: Announcements
           description: ""
-          url: ""
+          url: /resources/announcements
         - title: SACSS Facebook
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
