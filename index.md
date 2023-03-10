@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/hero-banner.png
       key_highlights:
-        - title: HIGHLIGHTS
+        - title: School Corporate Video
           description: ""
-          url: /school-corporate-video/
+          url: https://youtu.be/eNm1sI0AK1c
         - title: EVENTS
           description: ""
           url: https://sites.google.com/moe.edu.sg/sacss-open-house-2022/home
