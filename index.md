@@ -15,7 +15,7 @@ sections:
         - title: EVENTS
           description: ""
           url: https://sites.google.com/moe.edu.sg/sacss-open-house-2022/home
-        - title: MEDIA
+        - title: SACSS Facebook
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infopic:
