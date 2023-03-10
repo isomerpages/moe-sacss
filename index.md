@@ -56,4 +56,7 @@ sections:
       image: /images/Home/SACSS-DSA-e-Open-HOuse-1024x819.png
       subtitle: 17 May
       alt: SACSS DSA e-Open House
+  - resources:
+      title: Announcements
+      button: Click here to see more
 ---
