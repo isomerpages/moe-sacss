@@ -3,7 +3,6 @@ title: Sexuality Education
 permalink: /student-support/sexuality-education/
 description: ""
 ---
-
 **MOE** **Sexuality Education in Schools**
 
 1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
@@ -37,15 +36,51 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-<b>At St. Anthony’s Canossian Secondary School, the following Sexuality Education lessons will be taught in <u>2022</u>:</b>
+<b>At St. Anthony’s Canossian Secondary School, the following Sexuality Education lessons will be taught in <u>2023</u>:</b>
 
 **Secondary 1**
 
-| UNIT                                            | LESSONS / DURATION | Lesson Objectives<br><br>At the end of the lesson, students will be able to:                                                                                                                                                                                                                                                                                                                                                                                                                                             | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
-|-------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Respectful Relationships & Safety<br><br> <br>  | 1<br><br>(60 mins) | ·         Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>·         Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>·         Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>·         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | Term 3 Week 10                          |
-|                                                 | 2<br><br>(60 mins) | ·         Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept                                                                                                                                                                                                                                                                                                                                                  | Term 4 Week 1                           |
-|                                                 | 3<br><br>(60 mins) | ·         Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>·         Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)                                                          | Term 4 Week 2                           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c1uv"><span style="font-weight:bold">Unit</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Lesson Title / Duration</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Lesson Overview</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:inherit;font-style:inherit">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Time Period</span><br><br><span style="font-weight:bold">(e.g.Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-prnc" rowspan="3">Respectful Relationships &amp; Safety<br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">Steady or Not<br><br><span style="font-weight:inherit;font-style:inherit">Lesson 1</span><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
+    <td class="tg-prnc">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.<br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">·         recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br><span style="font-weight:inherit;font-style:inherit">·         recognise that there are different forms of love (e.g. familial, platonic, romantic love)</span><br><span style="font-weight:inherit;font-style:inherit">·         recognise the importance and understand what builds healthy and supportive relationships, both online and offline</span><br><span style="font-weight:inherit;font-style:inherit">·         understand what dating is, and recognise that the readiness and interest in dating vary among individuals</span></td>
+    <td class="tg-prnc">Term 3 Week 9</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">Being Aware, Being Safe<br><br><span style="font-weight:inherit;font-style:inherit">Lesson 2</span><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
+    <td class="tg-prnc">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.<br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">·         understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-prnc">Term 3 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">More than Meets the Eye<br><br><span style="font-weight:inherit;font-style:inherit">Lesson 3</span><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
+    <td class="tg-prnc">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
+    <td class="tg-prnc">·         understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br><span style="font-weight:inherit;font-style:inherit">·         recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</span></td>
+    <td class="tg-prnc">Term 4 Week 1</td>
+  </tr>
+</tbody>
+</table>
 
 **Secondary 2**
 
@@ -86,7 +121,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At St. Anthony’s Canossian Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+**At St. Anthony’s Canossian Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 | Topics/Lessons                    | Programme Learning Objectives                                                                           | Time Period<br><br>(e.g. Term 3 Week 9) |
 |-----------------------------------|---------------------|-----------------------------------------|
@@ -109,3 +144,5 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 14.  Parents can contact the school at 6449 0616 or email the school at [sacss@moe.edu.sg](mailto:sacss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 15.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+
