@@ -1,0 +1,18 @@
+collections:
+  student-support:
+    output: true
+    order:
+      - Academic/.keep
+      - Academic/Self Study Programme.md
+      - Academic/Library Services.md
+      - Academic/Education and Career Guidance.md
+      - Academic/Education Support.md
+      - Sexuality Education.md
+      - Mental Health/.keep
+      - Mental Health/Mental Health.md
+      - Mental Health/Wellness Resources.md
+      - Mental Health/Crisis Support.md
+      - Financial Supp Scheme & Awards/.keep
+      - Financial Supp Scheme & Awards/Financial Assistance Schemes.md
+      - Financial Supp Scheme & Awards/Financial Assistance Awards, Bursaries
+        and Grants.md

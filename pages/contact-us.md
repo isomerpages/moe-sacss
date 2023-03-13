@@ -2,31 +2,39 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: St. Anthony's Canossian Seconday School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 1600 Bedok North Avenue 4
+      - Singapore 469700
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.00am - 6.00pm
+        description: "Closed on Public Holidays and Weekends. "
+    maps_link: https://goo.gl/maps/1KDL3jmWKmLLVKkW8
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6449 0616
+      - email: ""
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: sacss@moe.edu.sg
+      - other: ""
+    title: Email
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <b>Nearest MRT Station:</b> Bedok <br><b>Buses:</b> 17, 17A
+    title: "How to get there:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <iframe
+          src="https://www.google.com/maps/embed/v1/place?q=st+anthony%27s+canossian+secondary&amp;key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8"
+          aria-hidden="true"></iframe>
+    title: Map
 ---

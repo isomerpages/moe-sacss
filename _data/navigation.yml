@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo-768x256.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: ABOUT SACSS
+    collection: about-sacss
+  - title: Canossian Life
+    collection: canossian-life
+  - title: Departments
+    collection: departments
+  - title: Student Support
+    collection: student-support
+  - title: One Stop
+    collection: one-stop
+  - title: Open House 2022
+    url: /open-house-2022/

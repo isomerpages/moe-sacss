@@ -1,0 +1,28 @@
+collections:
+  about-sacss:
+    output: true
+    order:
+      - Canossian Education/.keep
+      - Canossian Education/School Crest, Vision, Mission, Values.md
+      - Why SACSS/.keep
+      - Why SACSS/4C the Future.md
+      - Why SACSS/Excellence.md
+      - Why SACSS/Breadth.md
+      - Why SACSS/Well being.md
+      - Why SACSS/Spirituality.md
+      - The Principal Speaks.md
+      - School Leaders.md
+      - Sch Management Comm/.keep
+      - Sch Management Comm/School Management Committee.md
+      - Sch Management Comm/Financial Information.md
+      - School History/.keep
+      - School History/School History.md
+      - School History/Autonomous Niche.md
+      - School History/Heritage Gallery.md
+      - School Song.md
+      - Publications/.keep
+      - Publications/Publications.md
+      - Publications/Corri Connections.md
+      - Publications/Special Publication.md
+      - Publications/Voci Canossiane.md
+      - Videos.md
