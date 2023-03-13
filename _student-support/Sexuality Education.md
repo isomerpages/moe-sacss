@@ -296,10 +296,10 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 **Information for Parents**
 
-10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed via Parent’s Gateway and is also accessible [here](http://go.gov.sg/2023optout). Please complete the online opt-out by the following dates stated below: 
+1.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+2.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed via Parent’s Gateway and is also accessible [here](http://go.gov.sg/2023optout). Please complete the online opt-out by the following dates stated below: 
 
 
 
-12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed via Parent’s Gateway and is also accessible [here](http://go.gov.sg/2023optout). The completed form is to be submitted by 14/07/2023.
-13.  Parents can contact the school at 6449 0616 or email the school at [sacss@moe.edu.sg](mailto:sacss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+3.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed via Parent’s Gateway and is also accessible [here](http://go.gov.sg/2023optout). The completed form is to be submitted by 14/07/2023.
+4.  Parents can contact the school at 6449 0616 or email the school at [sacss@moe.edu.sg](mailto:sacss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
