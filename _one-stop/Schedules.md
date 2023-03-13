@@ -16,3 +16,8 @@ description: ""
 <b><u>Weighted Assessment and Examination Schedules</u></b> <br>
 **Weighted Assessment (Term 1 2023)**
 
+[Secondary 1 Weighted Assessment](/files/WA1-Student-Schedule-Sec-1-20-Jan.pdf) <br>
+[Secondary 2 Weighted Assessment](/files/WA1-Student-Schedule-Sec-2-20-Jan.pdf) <br>
+[Secondary 3 Weighted Assessment](/files/WA1-Student-Schedule-Sec-3-20-Jan.pdf) <br>
+[Secondary 4 NT Weighted Assessment](/files/WA1-2023-Student-Schedule-Sec-4NT.pdf) <br>
+[Secondary 4 NA Weighted Assessment](/files/WA1-2023-Student-Schedule-Sec-4NA.pdf)
