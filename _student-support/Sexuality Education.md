@@ -297,15 +297,9 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 **Information for Parents**
 
 10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed via Parent’s Gateway and is also accessible [here](http://go.gov.sg/2023optout). Please complete the online opt-out by the following dates stated below: 
 
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents via Parents’ Gateway, and is also downloadable [here](/files/Student%20Support/Annex-A.pdf). The completed form is to be submitted by the following dates stated below:
 
-*   Secondary 1: 19/08/2022
-*   Secondary 2: 12/08/2022
-*   Secondary 3: 22/04/2022
-*   Secondary 4 & 5: 25/03/2022
 
-12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents via Parents’ Gateway and is also downloadable [here](/files/Student%20Support/Annex-B.pdf). The form is to be submitted by 22/04/2022.
-
-14.  Parents can contact the school at 6449 0616 or email the school at [sacss@moe.edu.sg](mailto:sacss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-15.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed via Parent’s Gateway and is also accessible [here](http://go.gov.sg/2023optout). The completed form is to be submitted by 14/07/2023.
+13.  Parents can contact the school at 6449 0616 or email the school at [sacss@moe.edu.sg](mailto:sacss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
