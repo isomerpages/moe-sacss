@@ -20,4 +20,5 @@ description: ""
 [Secondary 2 Weighted Assessment](/files/WA1-Student-Schedule-Sec-2-20-Jan.pdf) <br>
 [Secondary 3 Weighted Assessment](/files/WA1-Student-Schedule-Sec-3-20-Jan.pdf) <br>
 [Secondary 4 NT Weighted Assessment](/files/WA1-2023-Student-Schedule-Sec-4NT.pdf) <br>
-[Secondary 4 NA Weighted Assessment](/files/WA1-2023-Student-Schedule-Sec-4NA.pdf)
+[Secondary 4 NA Weighted Assessment](/files/WA1-2023-Student-Schedule-Sec-4NA.pdf) <br>
+[Secondary 4 EXP / 5 NA Weighted Assessment](/files/WA1-2023-Student-Schedule-Sec-4E5N.pdf)
