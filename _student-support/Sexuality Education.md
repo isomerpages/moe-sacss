@@ -84,11 +84,47 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 **Secondary 2**
 
-| UNIT                              | LESSONS / DURATION  | Lesson Objectives<br><br>At the end of the lesson, students will be able to:                                                                                                                                                                                                                              | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
-|-----------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Respectful Relationships & Safety | 1<br><br>(60 mins)  | ·        Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·        Understand what sexual orientation entails                                   | Term 3 Week 7                           |
-|                                   | 2A<br><br>(60 mins) | ·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline                                                                                                                            | Term 3 Week 8                           |
-|                                   | 2B<br><br>(60 mins) | ·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 3 Week 9                           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c1uv"><span style="font-weight:bold">Unit</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Lesson Title/ Duration</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Lesson Overview</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:inherit;font-style:inherit">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Time Period</span><br><br><span style="font-weight:bold">(e.g.Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-prnc" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-prnc">A Role for Everyone<br><br><span style="font-weight:inherit;font-style:inherit">Lesson 1</span><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
+    <td class="tg-prnc">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">·         know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br><span style="font-weight:inherit;font-style:inherit">·         develop an appreciation of one’s own unique qualities and characteristics as a male or female</span><br><span style="font-weight:inherit;font-style:inherit">·         understand what sexual orientation entails</span></td>
+    <td class="tg-prnc">Term 3 Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">Online Safety Challenge<br><br><span style="font-weight:inherit;font-style:inherit">Lesson 2A</span><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
+    <td class="tg-prnc">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.<br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">·      recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-prnc">Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">Do I or Don’t I<br><br><span style="font-weight:inherit;font-style:inherit">Lesson 2B</span><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
+    <td class="tg-prnc">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.<br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">·      recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br><span style="font-weight:inherit;font-style:inherit">·       recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</span></td>
+    <td class="tg-prnc">Term 3 Week 9</td>
+  </tr>
+</tbody>
+</table>
 
 **Secondary 3**
 
@@ -144,5 +180,3 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 14.  Parents can contact the school at 6449 0616 or email the school at [sacss@moe.edu.sg](mailto:sacss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 15.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
-
-
