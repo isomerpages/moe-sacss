@@ -223,11 +223,36 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 **Secondary 5**
 
-| UNIT                              | LESSONS / DURATION | Lesson Objectives<br><br>At the end of the lesson, students will be able to:                                                                                                                                                                                                                                                                                                                                                                                                                                             | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
-|-----------------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Respectful Relationships & Safety | 1<br><br>(60 mins) | ·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 2 Week 5                           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c1uv"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Lesson Title</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Lesson Overview</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:inherit;font-style:inherit">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Time Period</span><br><br><span style="font-weight:bold">(e.g.Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-prnc">Respectful Relationships &amp; Safety</td>
+    <td class="tg-prnc">This is Where I Draw the Line<br><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.<br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">·         understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+    <td class="tg-prnc">Term 2 Week 5</td>
+  </tr>
+</tbody>
+</table>
 
-_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
 
 <b><i><u>eTeens</u></i> Programme</b>:
 
@@ -237,10 +262,36 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 **At St. Anthony’s Canossian Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
-| Topics/Lessons                    | Programme Learning Objectives                                                                           | Time Period<br><br>(e.g. Term 3 Week 9) |
-|-----------------------------------|---------------------|-----------------------------------------|
-| Mass Talk by HPB appointed vendor | ·         Awareness of the different STIs and HIV/AIDS<br><br>·         Modes of transmission<br><br>·         Modes of protection, specifically on how the condom is used<br><br>·         Consequences and impact of STIs/HIV<br><br>  | Term 3 Week 3                           |
-| Classroom-based Lesson            | ·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br>                                                                                  | Term 3 Week 4                           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c1uv"><span style="font-weight:bold">Topics/Lessons</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Programme Learning Objectives</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold">Time Period</span><br><br><span style="font-weight:bold">(e.g. Term 3 Week 9)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-prnc">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-prnc">·         Awareness of the different STIs and HIV/AIDS<br><br><span style="font-weight:inherit;font-style:inherit">·         Modes of transmission</span><br><span style="font-weight:inherit;font-style:inherit">·         Modes of protection, specifically on how the condom is used</span><br><span style="font-weight:inherit;font-style:inherit">·         Consequences and impact of STIs/HIV</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">Term 3 Week 9</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">Classroom-based Lesson</td>
+    <td class="tg-prnc">·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-prnc">Term 3 Week 9</td>
+  </tr>
+</tbody>
+</table>
 
 
 **Information for Parents**
