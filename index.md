@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/SACSS 1_straightened.jpg
       key_highlights:
         - title: School Corporate Video
           description: ""
