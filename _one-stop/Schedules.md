@@ -3,8 +3,7 @@ title: Schedules
 permalink: /one-stop/schedules/
 description: ""
 ---
-<u>**Timetable**</u>
-
+<u>**Timetable**</u> <br>
 **Timetable (Term 1 2023)**
 
 [Secondary 1 Timetable](/files/2023%20Term%201%20TT_Sec%201_17%20Jan.pdf) <br>
@@ -14,9 +13,8 @@ description: ""
 
 
 
-<b><u>Weighted Assessment and Examination Schedules</u></b>
-
-**Weighted Assessment (Term 3)**
+<b><u>Weighted Assessment and Examination Schedules</u></b> <br>
+**Weighted Assessment (Term 1 2023)**
 
 *   [Secondary 1 Weighted Assessment](/files/One%20Stop/Schedule/WA3-Student-Schedule-Sec-1.pdf)
 *   [Secondary 2 Weighted Assessment](/files/One%20Stop/Schedule/WA3-Student-Schedule-Sec-2.pdf)
