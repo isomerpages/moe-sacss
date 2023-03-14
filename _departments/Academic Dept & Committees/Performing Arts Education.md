@@ -2,8 +2,9 @@
 title: Performing Arts Education
 permalink: /departments/Academic-Dep-and-Committees/performing-arts-education/
 description: ""
-third_nav_title: Academic Dep & Committees
+third_nav_title: Academic Dept & Committees
 ---
+
 
 
 ![](/images/Departments/Academic%20Dep%20&%20Comittee/Performing%20Arts%20Education/Performing-Arts-Education.jpg)

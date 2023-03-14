@@ -2,8 +2,9 @@
 title: Mother Tongue Languages
 permalink: /departments/Academic-Dep-and-Committees/mother-tongue-languages/
 description: ""
-third_nav_title: Academic Dep & Committees
+third_nav_title: Academic Dept & Committees
 ---
+
 
 
 ![](/images/Departments/Academic%20Dep%20&%20Comittee/Mother%20Tongue/Artikel-akhbar-SACSS-1024x724.jpg)

@@ -2,8 +2,9 @@
 title: Student Leadership Committee
 permalink: /departments/Student-Dev-Dep-and-Committees/student-leadership-committee/
 description: ""
-third_nav_title: Student Dev Dep & Committees
+third_nav_title: Student Dev Dept & Committees
 ---
+
 
 
 SACSS builds leadership capabilities of our students through a school-wide approach using the Kouzes and Pozner Leadership Challenge Framework. As Canossians of Influence, we hope to motivate and work with a team to become servant leaders for the common good. 

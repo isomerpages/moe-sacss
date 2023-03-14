@@ -2,8 +2,9 @@
 title: Pedagogy Assessment Committee
 permalink: /departments/Academic-Dep-and-Committees/pedagogy-assessment-committee/
 description: ""
-third_nav_title: Academic Dep & Committees
+third_nav_title: Academic Dept & Committees
 ---
+
 In 2020, SACSS was identified as one of the 28 pilot schools selected for Full Subject-based Banding (Full SBB). This meant that students would be provided with more opportunities in terms of subject combinations and interaction with their peers. It also meant that pedagogical approaches and strategies needed to be more aligned to diverse learning needs. As supportive and inclusive Canossian learning environment, SACSS aims to nurture a differentiated learning environment where students assume responsibility and ownership for learning. 
 
 The Pedagogy and Assessment Committee (PAC) was set up in 2021 to develop staff competencies in applying instructional strategies based on the guiding principles of DI, including use of technologies and Assessment of learning (AfL) to meet the diverse learning needs of students.

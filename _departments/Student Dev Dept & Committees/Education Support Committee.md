@@ -2,8 +2,9 @@
 title: Education Support Committee
 permalink: /departments/Student-Dev-Dep-and-Committees/education-support-committee/
 description: ""
-third_nav_title: Student Dev Dep & Committees
+third_nav_title: Student Dev Dept & Committees
 ---
+
 
 In 2021, the Education Support Committee carried out a series of professional development sessions to equip teachers with skills to support and manage students with learning needs. 
 

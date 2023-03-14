@@ -2,8 +2,9 @@
 title: Discipline Committee
 permalink: /departments/Student-Dev-Dep-and-Committees/discipline-committee/
 description: ""
-third_nav_title: Student Dev Dep & Committees
+third_nav_title: Student Dev Dept & Committees
 ---
+
 
 SACSS uses Restorative Practices (RP) in its discipline approach. The goal of RP is to create opportunities for victims, offenders and community members who want to meet to discuss the offence and the way forward. It is supported by Affect Theory (Tomkins, 1992) and Reintegrative Shaming Theory (Braithwaite, 1989).
 

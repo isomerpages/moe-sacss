@@ -2,8 +2,9 @@
 title: English Language & Literature
 permalink: /departments/Academic-Dep-and-Committees/english-language-and-literature/
 description: ""
-third_nav_title: Academic Dep & Committees
+third_nav_title: Academic Dept & Committees
 ---
+
 ![](/images/Departments/Academic%20Dep%20&%20Comittee/ENGLISH%20LANGUAGE%20&%20LITERATURE/IMG_0583-1024x683.jpg)
 
 In Singapore, English is the common language that facilitates bonding among various ethnic and cultural groups. At the global level, English allows us to tap into a knowledge-based economy where English is the main _lingua franca_ of the internet, of science and technology, and of world trade. In the study of Literature, students become aware of the range of perspectives we, human beings, are capable of developing, promoting awareness and empathy in the next generation. In developing a habit of close reading, students learn to appreciate the nuances and layers of meaning in texts around them. Finally, in paying attention to the impact of language on thoughts and feelings, students are sensitive to the moments in a text that call for deeper reflection and processing, leading to the acknowledgement of different perspectives and to convince others of their own interpretations.

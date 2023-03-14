@@ -2,22 +2,22 @@ collections:
   departments:
     output: true
     order:
-      - Student Dev Dep & Committees/.keep
-      - Student Dev Dep & Committees/Character & Citizenship Education.md
-      - Student Dev Dep & Committees/Year Heads and Form Teachers.md
-      - Student Dev Dep & Committees/Education Support Committee.md
-      - Student Dev Dep & Committees/Discipline Committee.md
-      - Student Dev Dep & Committees/Student Leadership Committee.md
-      - Academic Dep & Committees/.keep
-      - Academic Dep & Committees/English Language & Literature.md
-      - Academic Dep & Committees/Mathematics.md
-      - Academic Dep & Committees/Science.md
-      - Academic Dep & Committees/Mother Tongue Languages.md
-      - Academic Dep & Committees/Humanities.md
-      - Academic Dep & Committees/Life Arts.md
-      - Academic Dep & Committees/Performing Arts Education.md
-      - Academic Dep & Committees/Physical Education.md
-      - Academic Dep & Committees/Information and Communication Technology.md
-      - Academic Dep & Committees/Digital Literacy Committee.md
-      - Academic Dep & Committees/Pedagogy Assessment Committee.md
+      - Student Dev Dept & Committees/.keep
+      - Student Dev Dept & Committees/Character & Citizenship Education.md
+      - Student Dev Dept & Committees/Year Heads and Form Teachers.md
+      - Student Dev Dept & Committees/Education Support Committee.md
+      - Student Dev Dept & Committees/Discipline Committee.md
+      - Student Dev Dept & Committees/Student Leadership Committee.md
+      - Academic Dept & Committees/.keep
+      - Academic Dept & Committees/English Language & Literature.md
+      - Academic Dept & Committees/Mathematics.md
+      - Academic Dept & Committees/Science.md
+      - Academic Dept & Committees/Mother Tongue Languages.md
+      - Academic Dept & Committees/Humanities.md
+      - Academic Dept & Committees/Life Arts.md
+      - Academic Dept & Committees/Performing Arts Education.md
+      - Academic Dept & Committees/Physical Education.md
+      - Academic Dept & Committees/Information and Communication Technology.md
+      - Academic Dept & Committees/Digital Literacy Committee.md
+      - Academic Dept & Committees/Pedagogy Assessment Committee.md
       - Executive, Administration and Operations.md

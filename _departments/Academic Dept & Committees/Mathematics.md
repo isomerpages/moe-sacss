@@ -2,8 +2,9 @@
 title: Mathematics
 permalink: /departments/Academic-Dep-and-Committees/mathematics/
 description: ""
-third_nav_title: Academic Dep & Committees
+third_nav_title: Academic Dept & Committees
 ---
+
 
 Mathematics contributes to the developments and understanding in many disciplines and provides the foundation for many innovations. It is used extensively to model and understand real-world phenomena (e.g. consumer preferences, population growth, and disease outbreak), create lifestyle and engineering products (e.g. animated films, mobile games, and autonomous vehicles), improve productivity, decision making and security (e.g. business analytics, academic research and market survey, encryption, and recognition technologies). In Singapore, mathematics education plays an important role in equipping every student with the necessary knowledge and skills and the capacities to think logically, critically and analytically to participate and strive in the future economy and society.
 
