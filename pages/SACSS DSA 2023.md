@@ -6,7 +6,7 @@ description: ""
 SACSS Direct School Admission (DSA) Exercise
 ---------------------
 
-
+Please click on the link below for more information on the SACSS DSA 2023 Exercise.
 
 [SACSS DSA 2023 Information](/files/sacss%20dsa%20sec%202023.pdf)
 
