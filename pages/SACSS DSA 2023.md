@@ -8,7 +8,7 @@ SACSS Direct School Admission (DSA) Exercise
 
 
 
-
+[SACSS DSA 2023 Information](/files/sacss%20dsa%20sec%202023.pdf)
 
 
 **Look out for our DSA microsite, coming to you in early-May 2023!**
