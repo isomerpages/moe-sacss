@@ -7,9 +7,9 @@ SACSS Direct School Admission (DSA) Exercise
 ---------------------
 
 
-**Please refer to the following document for more information regarding DSA 2023 applications for 2024 Secondary One intake.**
 
-[SACSS DSA 2023 - Talent Areas and Application Procedures]()
+
+
 
 **Look out for our DSA microsite, coming to you in early-May 2023!**
 
