@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/SACSS 1_for Homepage.jpg
       key_highlights:
-        - title: School Corporate Video
-          description: ""
-          url: https://youtu.be/eNm1sI0AK1c
         - title: Announcements
           description: ""
           url: /resources/announcements
+        - title: School Corporate Video
+          description: ""
+          url: https://youtu.be/eNm1sI0AK1c
         - title: SACSS Facebook
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
@@ -33,20 +33,21 @@ sections:
       image: /images/Home/maxresdefault-custom_crop.jpg
       alt: Parent Voices
   - infopic:
-      title: SACSS Sports CCAs 2021
-      description: SACSS Sports CCAs 2021
+      title: SACSS DSA 2023
+      description: Information on Direct School Admission 2023
       button: Read More
       url: /sacss-sports-ccas-2021/
       image: /images/Home/sacss_sports_cca-scaled-custom_crop.jpg
       alt: SACSS Sports CCAs 2021
+      subtitle: 19 April 2023
   - infopic:
-      title: "SACSS Sports Day 2022 "
-      description: Find all the information for Sports Day here.
-      button: "SACSS Sports Day 2022 "
+      title: SACSS DSA 2023
+      description: Information on  Direct School Admission for 2024 Secondary 1 Intake
+      button: SACSS DSA 2023
       url: /files/2022-Sports-Day-Briefing.pdf
       image: /images/Home/Main-Banner-Image-1-1-1024x768.jpeg
-      subtitle: 29 Jul
-      alt: "SACSS Sports Day 2022 "
+      subtitle: 19 April 2023
+      alt: SACSS DSA 2023
   - infopic:
       title: SACSS DSA e-Open House Microsite
       description: Find out more about what SACSS has to offer. Visit our DSA e-Open
