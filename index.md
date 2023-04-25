@@ -40,15 +40,6 @@ sections:
       url: /parent-voices/
       image: /images/Home/maxresdefault-custom_crop.jpg
       alt: Parent Voices
-  - infopic:
-      title: SACSS DSA e-Open House Microsite
-      description: Find out more about what SACSS has to offer. Visit our DSA e-Open
-        House Microsite!
-      button: SACSS DSA e-Open House
-      url: https://sites.google.com/moe.edu.sg/sacss-dsa-eopenhouse/home
-      image: /images/Home/SACSS-DSA-e-Open-HOuse-1024x819.png
-      subtitle: 17 May
-      alt: SACSS DSA e-Open House
   - resources:
       title: Announcements
       button: Click here to see more
