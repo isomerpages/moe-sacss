@@ -4,7 +4,7 @@ permalink: /about-sacss/Publications/special-publication/
 description: ""
 third_nav_title: Publications
 ---
-# Amore Senza Fine,Carita, In Tandem, Spirited Endeavours pdf>5MB
+
 
 |   |   |   |
 |:---:|:---:|:---:|
@@ -13,4 +13,4 @@ third_nav_title: Publications
 
 |   |   | 
 |:---:|:---:|
-|![](/images/About%20us/cover-selected-version-1.png) <a href="/files/About%20us/SAC15_MetaPgs-amd-2.pdf" target = "_blank"> Metaphorically</a>   | ![](/images/About%20us/00C-1.jpg) Spirited Endeavours |
+|![](/images/About%20us/cover-selected-version-1.png) <a href="/files/About%20us/SAC15_MetaPgs-amd-2.pdf" target="_blank"> Metaphorically</a>   | ![](/images/About%20us/00C-1.jpg) Spirited Endeavours |
