@@ -34,17 +34,9 @@ sections:
       alt: Parent Voices
   - infopic:
       title: SACSS DSA 2023
-      description: Information on Direct School Admission 2023
-      button: Read More
-      url: /sacss-sports-ccas-2021/
-      image: /images/Home/sacss_sports_cca-scaled-custom_crop.jpg
-      alt: SACSS Sports CCAs 2021
-      subtitle: 19 April 2023
-  - infopic:
-      title: SACSS DSA 2023
       description: Information on  Direct School Admission for 2024 Secondary 1 Intake
       button: SACSS DSA 2023
-      url: /files/2022-Sports-Day-Briefing.pdf
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/sacssdsa/
       image: /images/Home/Main-Banner-Image-1-1-1024x768.jpeg
       subtitle: 19 April 2023
       alt: SACSS DSA 2023
