@@ -3,7 +3,9 @@ title: School Leaders
 permalink: /about-sacss/school-leaders/
 description: ""
 ---
-<img src="/images/About%20us/1_MS-FIONA-KOH.jpg"
-     style="width:50%"> 
 
-![](/images/vice.png)
+
+|   |   |   |
+|---|---|---|
+|  |![](/images/1_ms-fiona-koh.jpg) | |
+|![](/images/ms%20chionh%20chew%20peng%20(vp).jpg) | |![](/images/ms%20melissa%20yeo.jpg) |
