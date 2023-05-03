@@ -3,8 +3,6 @@ title: School Leaders
 permalink: /about-sacss/school-leaders/
 description: ""
 ---
-
-
 |   |   |   |
 |---|---|---|
 |  |![](/images/1_ms-fiona-koh.jpg) | |
