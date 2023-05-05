@@ -2,6 +2,7 @@ collections:
   canossian-life:
     output: true
     order:
+      - Performing Arts CCAs.md
       - Canossian Life.md
       - Leadership/.keep
       - Leadership/Leadership & Community Engagement Camps (Sec 1 to 3).md
