@@ -2,7 +2,6 @@ collections:
   canossian-life:
     output: true
     order:
-      - Performing Arts CCAs.md
       - Canossian Life.md
       - Leadership/.keep
       - Leadership/Leadership & Community Engagement Camps (Sec 1 to 3).md
@@ -16,6 +15,7 @@ collections:
       - Performing Arts Niche/.keep
       - Performing Arts Niche/Arts Alive.md
       - Performing Arts Niche/Drama Elective Programme.md
+      - Performing Arts CCAs.md
       - Sports CCAs/.keep
       - Sports CCAs/Sports CCAs.md
       - Sports CCAs/Badminton.md
