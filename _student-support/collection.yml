@@ -2,11 +2,11 @@ collections:
   student-support:
     output: true
     order:
-      - Education and Career Guidance.md
       - Academic/.keep
       - Academic/Self Study Programme.md
       - Academic/Library Services.md
       - Academic/Education Support.md
+      - Education and Career Guidance.md
       - Sexuality Education.md
       - Mental Health/.keep
       - Mental Health/Mental Health.md
