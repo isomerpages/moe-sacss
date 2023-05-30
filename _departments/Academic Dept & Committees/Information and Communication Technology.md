@@ -4,9 +4,6 @@ permalink: /departments/Academic-Dep-and-Committees/information-and-communicatio
 description: ""
 third_nav_title: Academic Dept & Committees
 ---
-
-
-
 |   |   |   |
 |---|---|---|
 |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/IMG_6805-scaled.jpg) | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/IMG_6844-scaled.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/IMG_6852-scaled.jpg)  |
@@ -20,8 +17,3 @@ The ICT Department also aims to nurture all SACSS students into active learners,
 *   CONNECT – Participate in the exchange of information or ideas synchronously and asynchronously.
 
 At SACSS, every student will be using the Chromebook as their Personal Learning Device (PLD) to support their learning. PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of e-Pedagogy to provide learning experiences for students. They also enable students to learn online according to their needs and interests and to collaborate with each other, anytime and anywhere. In addition, PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in the digital environment.
-
-
-|   |   |   |
-|---|---|---|
-|  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/1_MR-MOHD-NIZAM.jpg) |![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/2_MR-SIDDIQ-SULEIMAN.jpg)   |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/4_MR-MOHD-FADZIL.jpg) |
