@@ -33,13 +33,6 @@ sections:
       image: /images/Home/School-Compound-custom_crop.jpg
       url: /school-corporate-video/
       alt: School Corporate Video
-  - infopic:
-      title: Parent Voices
-      description: Parent Voices
-      button: Read More
-      url: /parent-voices/
-      image: /images/Home/maxresdefault-custom_crop.jpg
-      alt: Parent Voices
   - resources:
       title: Announcements
       button: Click here to see more
