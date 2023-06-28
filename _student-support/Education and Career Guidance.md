@@ -28,10 +28,14 @@ To discuss any of the following, please book appointment slots that are during y
 *    [Advisory](https://advisory.sg/)
 
 **Course & Curriculum Information**
-* [List of all ITE Courses](https://www.ite.edu.sg/courses/full-time-courses)
-* [ITE Prospectus](https://www.ite.edu.sg/admissions/prospectus) : Information on ITE courses, including Traineeship
-* [CourseFinder](https://go.gov.sg/coursefinder) : Explore courses based on aggregate type, score, type of institute and area of interest
-* [International Baccalaureate® (IB) Diploma Programme (DP) curriculum](https://www.ibo.org/programmes/diploma-programme/curriculum/)
+*  [List of all ITE Courses](https://www.ite.edu.sg/courses/full-time-courses)
+*  [ITE Prospectus](https://www.ite.edu.sg/admissions/prospectus) : Information on ITE courses, including Traineeship
+*  [CourseFinder](https://go.gov.sg/coursefinder) : Explore courses based on aggregate type, score, type of institute and area of interest
+*  [International Baccalaureate® (IB) Diploma Programme (DP) curriculum](https://www.ibo.org/programmes/diploma-programme/curriculum/)
 
 **Aptitude-Based Admission (ABA) Exercises**
-* 
+* [ITE Early Admissions Exercise](https://go.gov.sg/applyeae)
+*  [Poly Early Admissions Exercise](https://go.gov.sg/polyeae)
+*  [Poly EAE FAQ](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs) : Please read if you are considering EAE
+*  [Direct School Admission - Junior Colleges](https://go.gov.sg/applyjcdsa)
+
