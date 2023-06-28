@@ -20,6 +20,13 @@ To discuss any of the following, please book appointment slots that are during y
 
 [Book an appointment](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)[](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)
 
+**ECG Resources**
+*    [Full Subject-Based Banding (Full SBB)](https://go.gov.sg/moe-fsbb)
+*    [MySkillsFuture (Secondary School)](https://go.gov.sg/mysfsec)
+*    [ECG Calendar of Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html)
+*    [On My Way by National Youth Council](https://www.nyc.gov.sg/omw/)
+*    [Advisory](https://advisory.sg/)
+
 | Resource                   | Remarks            |
 |----------------------------|-----------------------|
 | <a href="https://go.gov.sg/mysfsec" target="_blank">MySkillsFuture (Secondary School)</a>                      |  A one-stop ECG portal with information and tools for students                               |
