@@ -16,11 +16,9 @@ To discuss any of the following, please book appointment slots that are during y
 *   Factors to consider in&nbsp;ECG planning
 *   Any other&nbsp;ECG related&nbsp;questions
 
+**ECG Appointment &amp; Resources**
 
-|   |   |
-|:---:|:---:|
-| <a href="http://go.gov.sg/ecgsac-appt/" target="_blank">Book an Appointment</a>  | <a href="http://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html" target="_blank">ECG Events</a>  |
-
+[Book an appointment](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)[](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)
 
 | Resource                   | Remarks            |
 |----------------------------|-----------------------|
