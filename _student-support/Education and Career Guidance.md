@@ -16,42 +16,45 @@ To discuss any of the following, please book appointment slots that are during y
 *   Factors to consider in&nbsp;ECG planning
 *   Any other&nbsp;ECG related&nbsp;questions
 
+**ECG Appointment &amp; Resources**
 
-|   |   |
-|:---:|:---:|
-| <a href="http://go.gov.sg/ecgsac-appt/" target="_blank">Book an Appointment</a>  | <a href="http://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html" target="_blank">ECG Events</a>  |
+[Book an appointment](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)[](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)
 
+**ECG Resources**
+*    [Full Subject-Based Banding (Full SBB)](https://go.gov.sg/moe-fsbb)
+*    [MySkillsFuture (Secondary School)](https://go.gov.sg/mysfsec)
+*    [ECG Calendar of Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html)
+*    [On My Way by National Youth Council](https://www.nyc.gov.sg/omw/)
+*    [Advisory](https://advisory.sg/)
 
-| Resource                   | Remarks            |
-|----------------------------|-----------------------|
-| <a href="https://go.gov.sg/mysfsec" target="_blank">MySkillsFuture (Secondary School)</a>                      |  A one-stop ECG portal with information and tools for students                               |
-| <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank">O-level Joint Admissions Exercise (JAE)</a>                | O-levels Post-sec options, entry requirements, aggregate, etc                              |
-| <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank">N-level Joint Intake Exercise (JIE)       </a>                | N-levels Post-sec options, entry requirements, aggregate, etc                              |
-|  <a href="https://www.ite.edu.sg/courses/full-time-courses" target="_blank">ITE Courses     </a>                                          | List of all ITE Courses                                                                    |
-|   <a href="https://www.ite.edu.sg/courses/full-time-courses" target="_blank">ITE Prospectus </a>                                   | Education &amp; Career Guidance Resources<br>Information on ITE courses, including Traineeship |
-|    <a href="https://go.gov.sg/coursefinder" target="_blank">CourseFinder </a>                                         | List of all ITE &amp; Polytechnic Courses                                                      |
-| <a href="https://go.gov.sg/applyeae" target="_blank">ITE Early Admissions Exercise (for N/O-level students)</a>  | Applicable to all graduating students                                                      |
-| <a href="https://go.gov.sg/polyeae" target="_blank">Poly Early Admissions Exercise (for O-level students)</a>  | Applicable to ‘O’-level students                                                           |
-| <a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs" target="_blank">Poly EAE FAQ</a>                                           | FAQ for Poly EAE (Important: read if you are considering EAE)                              |
-| <a href="https://go.gov.sg/applyjcdsa" target="_blank">Direct School Admission – Junior Colleges</a>              | Applicable to ‘O’-level students                                                           |
-| <a href="https://go.gov.sg/pfp" target="_blank">Polytechnic Foundation Programme (PFP)</a>                  | Applicable to 4NA students                                                                 |
-|  <a href="https://go.gov.sg/applynafafp" target="_blank">NAFA Foundation Programme (NFP) </a>                      | Applicable to 4NA students                                                                 |
-| <a href="https://go.gov.sg/dpp" target="_blank">Direct Entry Scheme to Polytechnic Programme (DPP) </a>     | Applicable to 4NA students                                                                 |
-|   <a href="https://www.ite.edu.sg/admissions/traineeship" target="_blank">ITE Traineeship Scheme  </a>                              | A formalised ‘Earn-as-you-Learn’ training arrangement                                      |
-|       <a href="https://jpae.polytechnic.edu.sg/" target="_blank">Joint Polytechnic Admissions Exercise (JPAE)</a>      | Admission to the five polytechnics for Nitec &amp; Higher Nitec students                       |
-|  <a href="https://www.ibo.org/programmes/diploma-programme/curriculum/" target="_blank">IBDP Curriculum</a>                                       | International Baccalaureate® (IB) Diploma Programme (DP) curriculum                        |
-| <a href="https://go.gov.sg/careersfuture" target="_blank">MyCareersFuture</a>                                       | A portal with career-related content                                                       |
-| <a href="https://go.gov.sg/industrylandscape-sec" target="_blank">Singapore Industry Landscape</a>                           | ECG Portal to explore the world of work                                                    |
-| <a href="https://www.mti.gov.sg/ITMs/Overview">Industry Transformation Maps (ITMs)</a>                    | Roadmaps for the various industries in Singapore                                           |
-|  <a href="https://www.skillsfuture.sg/skills-framework#whicharethesectors" target="_blank">Skills Framework</a>                                      | Information on career sectors, pathways, roles, skills, training, etc.                     |
-|        <a href="https://go.gov.sg/ecg-parent-guide" target="_blank">ECG Parent Guide</a>                                 | Journeying with our Children, Achieving their Aspirations                                  |
-|  <a href="https://go.gov.sg/schoolbag" target="_blank">Schoolbag Website</a>                                     | An online publication by MOE for education news, school features and tips.                 |
-| <a href="https://go.gov.sg/next-step-forward" target="_blank">The Next Step Forward (e-book)</a>                         | Stories of students and the pathways they have chosen                                      |
-|   <a href="https://go.gov.sg/whats-next" target="_blank">What’s Next (After PSLE, ‘N’/’O’/’A’-level)</a>          | Applicable to all graduating students                                                      |
-|  <a href="https://go.gov.sg/postsecondary" target="_blank">Post-Secondary Education Options</a>                      | Applicable to all graduating students                                                      |
-|   <a href="https://go.gov.sg/overview-pseis" target="_blank">Post-Secondary Education Institutions</a>                | Overview of Post-Secondary Education Institutions (PSEIs)                                  |
-|   <a href="https://youtu.be/ndDVlzT-z0g" target="_blank">Where to After Secondary School?</a>                     | Overview of the Post-Secondary Education Landscape                                         |
-|   <a href="https://go.gov.sg/admissions-scholarships" target="_blank">Scholarships</a>                                          | Learn about the different merit-based awards and scholarships                              |
-|   <a href="https://www.moe.gov.sg/FAS" target="_blank">MOE Financial Assistance Scheme</a>                      | Applicable to all students                                                                 |
-|    <a href="https://go.gov.sg/pei" target="_blank">Committee for Private Education</a>                      | Resources for students considering private education                                       |
-| <a href="https://www.ssg.gov.sg/cpe/student-services/student-resources.html" target="_blank">Resources for Private Education Students</a>               | Resources for students considering private education                                       |
+**Course &amp; Curriculum Information**
+*  [List of all ITE Courses](https://www.ite.edu.sg/courses/full-time-courses)
+*  [ITE Prospectus](https://www.ite.edu.sg/admissions/prospectus) : Information on ITE courses, including Traineeship
+*  [CourseFinder](https://go.gov.sg/coursefinder) : Explore courses based on aggregate type, score, type of institute and area of interest
+*  [International Baccalaureate® (IB) Diploma Programme (DP) curriculum](https://www.ibo.org/programmes/diploma-programme/curriculum/)
+
+**Aptitude-Based Admission (ABA) Exercises**
+* [ITE Early Admissions Exercise](https://go.gov.sg/applyeae)
+*  [Poly Early Admissions Exercise](https://go.gov.sg/polyeae)
+*  [Poly EAE FAQ](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs) : Please read if you are considering EAE
+*  [Direct School Admission - Junior Colleges](https://go.gov.sg/applyjcdsa)
+
+**Work and Industry**
+* [MyCareersFuture](https://go.gov.sg/careersfuture) : A portal with career-related content
+* [Singapore Industry Landscape](https://go.gov.sg/industrylandscape-sec)
+* [Industry Transformation Maps (ITMs)](https://www.mti.gov.sg/ITMs/Overview) : Roadmaps for the various industries in Singapore
+* [Skills Framework](https://www.skillsfuture.sg/skills-framework#whicharethesectors) : Information on career sectors, pathways, roles, skills, training, etc.
+
+**Parent Guide and other ECG Resources**
+* [ECG Parent Guide](https://go.gov.sg/ecg-parent-guide) : Journeying with our Children, Achieving their Aspirations
+* [Schoolbag Website](https://go.gov.sg/schoolbag) : An online publication by MOE for education news, school features and tips
+* [The Next Step Forward (e-book)](https://go.gov.sg/next-step-forward) : Stories of students and the pathways they have chosen
+* [What’s Next?](https://go.gov.sg/whats-next) <p style="color: red;">*Click the link and scroll to the bottom of the page, for the relevant "What's Next" resource.</p>
+* [Post-Secondary Education Options](https://go.gov.sg/postsecondary)
+* [Post-Secondary Education Institutions](https://go.gov.sg/overview-pseis)
+* [Where to After Secondary School?](https://youtu.be/ndDVlzT-z0g)
+* [Awards &amp; Scholarships](https://go.gov.sg/admissions-scholarships)
+* [MOE Financial Assistance Scheme](https://www.moe.gov.sg/FAS)
+
+**Private Education**
+* [Committee for Private Education](https://go.gov.sg/pei)
