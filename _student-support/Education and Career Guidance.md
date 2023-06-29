@@ -49,7 +49,7 @@ To discuss any of the following, please book appointment slots that are during y
 * [ECG Parent Guide](https://go.gov.sg/ecg-parent-guide) : Journeying with our Children, Achieving their Aspirations
 * [Schoolbag Website](https://go.gov.sg/schoolbag) : An online publication by MOE for education news, school features and tips
 * [The Next Step Forward (e-book)](https://go.gov.sg/next-step-forward) : Stories of students and the pathways they have chosen
-* [What’s Next?](https://go.gov.sg/whats-next) <p style="color: red;">*Click the link and scroll to the bottom of the page, for the relevant "What's Next" resource.</p>
+* [What’s Next?](https://go.gov.sg/whats-next) *Click the link and scroll to the bottom of the page, for the relevant "What's Next" resource.
 * [Post-Secondary Education Options](https://go.gov.sg/postsecondary)
 * [Post-Secondary Education Institutions](https://go.gov.sg/overview-pseis)
 * [Where to After Secondary School?](https://youtu.be/ndDVlzT-z0g)
