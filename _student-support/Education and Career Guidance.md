@@ -5,8 +5,6 @@ description: ""
 ---
 ## Education and Career Guidance (ECG)
 
-Our ECG Counsellor Ms Kathrine Yang is usually available every&nbsp;**Thursday**.
-
 To discuss any of the following, please book appointment slots that are during your&nbsp;**recess**, **lunch breaks**,&nbsp;**free periods**&nbsp;or&nbsp;**after your curriculum hours**.
 
 *   Raising self-awareness (VIPS, RIASEC,&nbsp;etc.)
@@ -18,7 +16,7 @@ To discuss any of the following, please book appointment slots that are during y
 
 **ECG Appointment &amp; Resources**
 
-[Book an appointment](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)[](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)
+[Book an Appointment](https://go.gov.sg/ecgsac-appt)
 
 **ECG Resources**
 *    [Full Subject-Based Banding (Full SBB)](https://go.gov.sg/moe-fsbb)
