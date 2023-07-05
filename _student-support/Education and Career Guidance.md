@@ -5,8 +5,6 @@ description: ""
 ---
 ## Education and Career Guidance (ECG)
 
-Our ECG Counsellor Ms Kathrine Yang is usually available every&nbsp;**Thursday**.
-
 To discuss any of the following, please book appointment slots that are during your&nbsp;**recess**, **lunch breaks**,&nbsp;**free periods**&nbsp;or&nbsp;**after your curriculum hours**.
 
 *   Raising self-awareness (VIPS, RIASEC,&nbsp;etc.)
@@ -18,7 +16,7 @@ To discuss any of the following, please book appointment slots that are during y
 
 **ECG Appointment &amp; Resources**
 
-[Book an appointment](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)[](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=4x77nGxZ&amp;anonymous=true)
+[Book an Appointment](https://go.gov.sg/ecgsac-appt)
 
 **ECG Resources**
 *    [Full Subject-Based Banding (Full SBB)](https://go.gov.sg/moe-fsbb)
@@ -32,6 +30,16 @@ To discuss any of the following, please book appointment slots that are during y
 *  [ITE Prospectus](https://www.ite.edu.sg/admissions/prospectus) : Information on ITE courses, including Traineeship
 *  [CourseFinder](https://go.gov.sg/coursefinder) : Explore courses based on aggregate type, score, type of institute and area of interest
 *  [International Baccalaureate® (IB) Diploma Programme (DP) curriculum](https://www.ibo.org/programmes/diploma-programme/curriculum/)
+
+**Common Admission Booklets & Exercises**
+* [O-level Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.pdf)
+*	[N-level Joint Intake Exercise (JIE)](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf)
+* [Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
+* [NAFA Foundation Programme (NFP)](https://go.gov.sg/applynafafp)
+*	[Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/dpp)
+*	[ITE Traineeship Scheme](https://www.ite.edu.sg/admissions/traineeship) : A formalised 'Earn-as-you-Learn' training arrangement
+*	[Joint Polytechnic Admissions Exercise (JPAE)](https://jpae.polytechnic.edu.sg/app) : ITE Admissions to Poly
+
 
 **Aptitude-Based Admission (ABA) Exercises**
 * [ITE Early Admissions Exercise](https://go.gov.sg/applyeae)
