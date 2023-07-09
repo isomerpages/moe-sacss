@@ -62,7 +62,7 @@ To discuss any of the following, please book appointment slots that are during y
 * [Post-Secondary Education Institutions](https://go.gov.sg/overview-pseis)
 * [Where to After Secondary School?](https://youtu.be/ndDVlzT-z0g)
 * [Awards &amp; Scholarships](https://go.gov.sg/admissions-scholarships)
-* [MOE Financial Assistance Scheme](https://www.moe.gov.sg/FAS)
+
 
 **Private Education**
 * [Committee for Private Education](https://go.gov.sg/pei)
