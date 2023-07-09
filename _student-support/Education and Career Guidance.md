@@ -32,11 +32,11 @@ To discuss any of the following, please book appointment slots that are during y
 *  [International Baccalaureate® (IB) Diploma Programme (DP) curriculum](https://www.ibo.org/programmes/diploma-programme/curriculum/)
 
 **Common Admission Booklets & Exercises**
-* [O-level Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.pdf)
+* [O-level Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/jaebooklet)
 *	[N-level Joint Intake Exercise (JIE)](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf)
 * [Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
 * [NAFA Foundation Programme (NFP)](https://go.gov.sg/applynafafp)
-*	[Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/dpp)
+*	[Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/higher-nitec-dpp)
 *	[ITE Traineeship Scheme](https://www.ite.edu.sg/admissions/traineeship) : A formalised 'Earn-as-you-Learn' training arrangement
 *	[Joint Polytechnic Admissions Exercise (JPAE)](https://jpae.polytechnic.edu.sg/app) : ITE Admissions to Poly
 
