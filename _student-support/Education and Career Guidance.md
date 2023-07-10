@@ -33,7 +33,7 @@ To discuss any of the following, please book appointment slots that are during y
 
 **Common Admission Exercises**
 * [O-level Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/jaebooklet)
-*	[N-level Joint Intake Exercise (JIE)](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf)
+*	[N-level Joint Intake Exercise (JIE) Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf)
 * [Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
 * [NAFA Foundation Programme (NFP)](https://go.gov.sg/applynafafp)
 *	[Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/higher-nitec-dpp)
