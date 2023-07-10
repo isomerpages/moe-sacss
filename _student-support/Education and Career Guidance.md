@@ -31,7 +31,7 @@ To discuss any of the following, please book appointment slots that are during y
 *  [CourseFinder](https://go.gov.sg/coursefinder) : Explore courses based on aggregate type, score, type of institute and area of interest
 *  [International Baccalaureate® (IB) Diploma Programme (DP) curriculum](https://www.ibo.org/programmes/diploma-programme/curriculum/)
 
-**Common Admission Booklets & Exercises**
+**Common Admission Exercises**
 * [O-level Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/jaebooklet)
 *	[N-level Joint Intake Exercise (JIE)](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf)
 * [Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
