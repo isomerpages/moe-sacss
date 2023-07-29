@@ -90,3 +90,7 @@ Ms Chionh Chew Ping (Vice-Principal)
 Ms Melissa Yeo (Vice-Principal)
 
 **Auditor:** Assurance Partners LLP
+
+### Financial Information
+
+Please click&nbsp;[here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;to view the latest information.
