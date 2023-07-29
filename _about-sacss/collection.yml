@@ -2,7 +2,6 @@ collections:
   about-sacss:
     output: true
     order:
-      - School Management Committee.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
@@ -13,6 +12,7 @@ collections:
       - Why SACSS/Spirituality.md
       - The Principal Speaks.md
       - School Leaders.md
+      - School Management Committee.md
       - Sch Management Comm/.keep
       - Sch Management Comm/Financial Information.md
       - School History/.keep
