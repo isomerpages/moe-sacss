@@ -2,7 +2,6 @@ collections:
   about-sacss:
     output: true
     order:
-      - Non Financial and Financial Information.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
@@ -14,6 +13,7 @@ collections:
       - The Principal Speaks.md
       - School Leaders.md
       - School Management Committee.md
+      - Non Financial and Financial Information.md
       - School History/.keep
       - School History/School History.md
       - School History/Autonomous Niche.md
