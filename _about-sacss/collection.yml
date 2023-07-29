@@ -2,6 +2,7 @@ collections:
   about-sacss:
     output: true
     order:
+      - School Management Committee.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
