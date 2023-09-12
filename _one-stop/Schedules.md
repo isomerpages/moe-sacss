@@ -7,7 +7,8 @@ description: ""
 
 **End Of Year Examination (Term 4 2023)**
 
-* [Sec 1 EOY Examination Schedule](/files/One%20Stop/Schedule/4nt%20prelim%20student%20schedule%202023.pdf)
+Sec 1 EOY Examination Schedule
+* [](/files/One%20Stop/Schedule/4nt%20prelim%20student%20schedule%202023.pdf)
 * [Sec 2 EOY Examination Schedule](/files/One%20Stop/Schedule/4na%20prelim%20student%20schedule%202023.pdf)
 * [Sec 3 EOY Examination Schedule](/files/One%20Stop/Schedule/4e5n%20prelim%20student%20schedule%202023.pdf)
 
