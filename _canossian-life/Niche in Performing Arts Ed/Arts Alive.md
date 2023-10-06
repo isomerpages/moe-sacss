@@ -2,7 +2,7 @@
 title: Arts Alive
 permalink: /canossian-life/Performing-Arts-Niche/arts-alive/
 description: ""
-third_nav_title: Performing Arts Niche
+third_nav_title: Niche in Performing Arts Ed
 ---
 **_Arts Alive!_** was the theme used for the official launch of our Autonomous Niche area in the Performing Arts in 2004. SACSS organised a two-day Arts Festival where the entire school literally came alive with all the performing arts CCAs and Lower Secondary Dance, Music and Drama students performing at different parts of the school with 2000 audience attending the event.
 
