@@ -4,7 +4,7 @@ permalink: /permalink/
 description: ""
 third_nav_title: Teacher Awards
 ---
-**President’s Award for Teachers (PAT) and Outstanding Youth in Education Award (OYEA) 2024**
+# **President’s Award for Teachers (PAT) and Outstanding Youth in Education Award (OYEA) 2024**
 
 The nomination for the **President’s Award for Teachers (PAT) and** **Outstanding Youth in Education Award (OYEA) 2024** are now open and will close on **10 January 2024 (Wednesday)**.
 
@@ -17,4 +17,3 @@ Do come forward to nominate our deserving teachers who have supported you in you
 |   |   |
 |---|---|
 |![](/images/2024%20pat%20poster.jpeg)|![](/images/2024%20oyea%20poster.jpeg)|
-
