@@ -22,7 +22,7 @@ sections:
       title: SACSS Open House 2023
       description: Information on  Open House 2023
       button: Full Details here...
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/sacssdsa/
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/open-house/
       image: /images/sacss open house 2023.jpeg
       alt: SACSS DSA 2023
   - infopic:
