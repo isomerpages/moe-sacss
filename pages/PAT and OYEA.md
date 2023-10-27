@@ -13,7 +13,6 @@ Do come forward to nominate our deserving teachers who have supported you in you
 
 [OYEA 2024](https://go.gov.sg/oyea2024)
 
-
-|   |   |   |
-|---|---|---|
+|   |   |
+|---|---|
 |![](/images/2024%20pat%20poster.jpeg)|![](/images/2024%20oyea%20poster.jpeg)|
