@@ -19,6 +19,8 @@ Come visit\* us on 18 November 2023 (Saturday) and explore the school grounds an
 *   Time 9.00 am to 11.00 am (registration from 8.30 am onwards)
 *   [Register here](https://go.gov.sg/register-sacssopenhouse2023)
 
+Visit us on [Facebook](https://www.facebook.com/SACSSOfficial) to check out updates on School Life.
+
 Find out more about our [Performing Arts](/canossian-life/Performing-Arts-Niche/performing-arts-ccas/), [Sports](/canossian-life/Sports-CCAs/sports-clubs-uniform-group-ccas/), [Uniformed Group](/canossian-life/Clubs-and-Uniform-Group-CCAs/) and [Club](/canossian-life/Clubs-and-Uniform-Group-CCAs/) CCAs.
 
 ***Physical visits are by registration only.**
