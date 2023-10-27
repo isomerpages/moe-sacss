@@ -2,7 +2,6 @@ collections:
   one-stop:
     output: true
     order:
-      - Teacher Awards.md
       - Application Forms.md
       - Booklists & Uniforms.md
       - Community Links/.keep
