@@ -24,7 +24,7 @@ sections:
       button: Full Details here...
       url: https://www.stanthonyscanossiansec.moe.edu.sg/open-house/
       image: /images/sacss open house 2023.jpeg
-      alt: SACSS DSA 2023
+      alt: SACSS Open House 2023
   - infopic:
       title: School Corporate Video
       description: School Corporate Video
