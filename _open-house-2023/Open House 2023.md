@@ -5,7 +5,7 @@ description: ""
 ---
 SACSS Open House 2023
 ---------------------
-
+![](/images/sacss%20open%20house%202023.jpeg)
 **Check out our Open House e-Brochure by clicking on the link below.**
 
 [SACSS Open House 2023 e-Brochure - Click Here](https://indd.adobe.com/view/e307e600-f09f-4b0f-b1fc-1837a49a146e)
