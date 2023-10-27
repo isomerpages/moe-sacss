@@ -3,10 +3,10 @@ title: One House 2022
 permalink: /open-house-2022/
 description: ""
 ---
-SACSS Open House 2022
+SACSS Open House 2023
 ---------------------
 
-**Check out our Open House website by clicking on the link below.**
+**Check out our Open House e-Brochure by clicking on the link below.**
 
 [SACSS Open House 2022 Website - Click here!](https://go.gov.sg/sacssopenhouse2022)
 
