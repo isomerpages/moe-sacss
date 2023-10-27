@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /resources/announcements
+          url: https://www.stanthonyscanossiansec.moe.edu.sg/announcements/
         - title: School Corporate Video
           description: ""
           url: https://youtu.be/eNm1sI0AK1c
@@ -33,7 +33,4 @@ sections:
       image: /images/Home/School-Compound-custom_crop.jpg
       url: /school-corporate-video/
       alt: School Corporate Video
-  - resources:
-      title: Announcements
-      button: Click here to see more
 ---
