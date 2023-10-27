@@ -2,6 +2,7 @@ collections:
   one-stop:
     output: true
     order:
+      - Teacher Awards/PAT and OYEA.md
       - Teacher Awards/.keep
       - Application Forms.md
       - Booklists & Uniforms.md
