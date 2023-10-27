@@ -19,13 +19,12 @@ sections:
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infopic:
-      title: SACSS DSA 2023
-      description: Information on  Direct School Admission for 2024 Secondary 1 Intake
-      button: SACSS DSA 2023
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/sacssdsa/
-      image: /images/Home/Main-Banner-Image-1-1-1024x768.jpeg
-      subtitle: 19 April 2023
-      alt: SACSS DSA 2023
+      title: SACSS Open House 2023
+      description: Information on  Open House 2023
+      button: Full Details here...
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/open-house/
+      image: /images/sacss open house 2023.jpeg
+      alt: SACSS Open House 2023
   - infopic:
       title: School Corporate Video
       description: School Corporate Video
