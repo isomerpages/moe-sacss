@@ -19,6 +19,12 @@ Please click on the following links to access the booklists.
 10. [Secondary 4 2024 (Exp)](/files/One%20Stop/Booklist/s4%20exp%202024.pdf)
 11. [Secondary 5 2024 (NA)](/files/One%20Stop/Booklist/s5%20na%202024.pdf)
 
+Please refer to this document for the dates for collection of online orders.
+
+[Dates for Collection of Online Orders](/files/One%20Stop/Booklist/book%20shop%20sales%20arrangement.pdf)
+
+For any enquiries regarding the sales and purchasing process, please contact Pacific Bookstores via the contact details found in the booklists.
+
 
 
 
