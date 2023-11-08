@@ -2,9 +2,12 @@
 title: Booklists & Uniforms
 permalink: /one-stop/booklists-uniform/
 description: ""
+variant: markdown
 ---
-### Booklists 2023
+### Booklists 2024
 
+Please click on the following links to access the booklists.
+1. 
 1.  [2023-S1-NT-Booklist](/files/One%20Stop/Booklist/2023-Secondary-1-Normal-Technical.pdf)
 2.  [2023-S1-NA-Booklist](/files/One%20Stop/Booklist/2023-Secondary-1-Normal-Academic.pdf)
 3.  [2023-S1-Express-Booklist](/files/One%20Stop/Booklist/2023-Secondary-1-Express.pdf)
