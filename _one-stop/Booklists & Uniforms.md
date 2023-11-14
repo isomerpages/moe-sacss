@@ -7,7 +7,7 @@ variant: markdown
 ### Booklists 2024
 
 Please click on the following links to access the booklists.
-1. [Secondary 1 2024 Booklist (G1/G2/G3)](/files/One%20Stop/Booklist/sec%201%202024.pdf)
+1. [Sec 1 2024 Booklist (G1/G2/G3)](/files/One%20Stop/Booklist/S1_Final2024A.pdf)
 2. [Secondary 2 2024 (NT)](/files/One%20Stop/Booklist/s2%20nt%202024.pdf)
 3. [Secondary 2 2024 (NA)](/files/One%20Stop/Booklist/s2%20na%202024.pdf)
 4. [Secondary 2 2024 (Exp)](/files/One%20Stop/Booklist/s2%20exp%202024.pdf)
@@ -24,9 +24,3 @@ Please refer to this document for the dates for collection of online orders.
 [Dates for Collection of Online Orders](/files/One%20Stop/Booklist/book%20shop%20sales%20arrangement.pdf)
 
 For any enquiries regarding the sales and purchasing process, please contact Pacific Bookstores via the contact details found in the booklists.
-
-
-
-
-
-
