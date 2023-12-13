@@ -1,4 +1,5 @@
 collections:
   secondary-1-registration:
     output: true
-    order: []
+    order:
+      - Registration for 2024 Secondary 1 Intake.md
