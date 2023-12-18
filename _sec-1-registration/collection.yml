@@ -1,0 +1,5 @@
+collections:
+  sec-1-registration:
+    output: true
+    order:
+      - Registration for 2024 Secondary 1.md
