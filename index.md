@@ -19,12 +19,14 @@ sections:
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infopic:
-      title: SACSS Open House 2023
-      description: Information on  Open House 2023
-      button: Full Details here...
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/open-house/
-      image: /images/sacss open house 2023.jpeg
-      alt: SACSS Open House 2023
+      title: Secondary 1 Registration (2024 Intake)
+      description: |-
+        Welcome to St. Anthony's Canossian Secondary School.
+        Please refer to the link for the full details on registration.
+      button: Full Details here
+      url: https://stanthonyscanossiansec.moe.edu.sg/sec-1-registration/
+      image: /images/Welcome1.png
+      alt: Sec 1 Registrations
   - infopic:
       title: School Corporate Video
       description: School Corporate Video
