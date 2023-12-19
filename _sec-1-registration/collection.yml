@@ -2,4 +2,5 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Appeals.md
       - Registration for 2024 Secondary 1.md
