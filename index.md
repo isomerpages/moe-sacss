@@ -14,7 +14,7 @@ sections:
           url: https://www.stanthonyscanossiansec.moe.edu.sg/announcements/
         - title: School Corporate Video
           description: ""
-          url: https://youtu.be/eNm1sI0AK1c
+          url: https://youtu.be/3bjGdkM-ABM
         - title: SACSS Facebook
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
@@ -30,8 +30,8 @@ sections:
   - infopic:
       title: School Corporate Video
       description: School Corporate Video
-      button: Read More
-      image: /images/Home/School-Compound-custom_crop.jpg
-      url: /school-corporate-video/
+      button: Watch here
+      image: /images/Corporate_Video_Thumbnail.png
+      url: https://youtu.be/3bjGdkM-ABM
       alt: School Corporate Video
 ---
