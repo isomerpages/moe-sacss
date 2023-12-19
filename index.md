@@ -25,7 +25,7 @@ sections:
         Please refer to the link for the full details on registration.
       button: Full Details here
       url: https://stanthonyscanossiansec.moe.edu.sg/sec-1-registration/
-      image: /images/Welcome.png
+      image: /images/Welcome1.png
       alt: Sec 1 Registrations
   - infopic:
       title: School Corporate Video
