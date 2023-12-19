@@ -30,8 +30,8 @@ sections:
   - infopic:
       title: School Corporate Video
       description: School Corporate Video
-      button: Read More
-      image: /images/Home/School-Compound-custom_crop.jpg
-      url: /school-corporate-video/
+      button: Watch here
+      image: /images/Corporate_Video_Thumbnail.png
+      url: https://youtu.be/3bjGdkM-ABM
       alt: School Corporate Video
 ---
