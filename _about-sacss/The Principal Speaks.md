@@ -2,26 +2,25 @@
 title: The Principal Speaks
 permalink: /about-sacss/principal-speaks/
 description: ""
+variant: markdown
 ---
-**2023: In Faith, We Serve**
+## 
+## **2024: In Fiamme (Set Life on Fire)**
 
-**“Trust in the Lord with all your heart. Never rely on what you think you know. Remember the Lord in everything you do, He will show you the right way.” Proverbs 3: 5-6**
+**“If you pour yourself out for the hungry and satisfy the desire of the afflicted, then shall your light rise in the darkness and your gloom be as the noonday.” Isaiah 58:10**
 
-In 2022, we gradually returned to normalcy as we exited the shroud of COVID-19. We remain steadfast in our mission to nurture our girls - forming their hearts, enlightening their minds and empowering their spirits, by providing them with enlivening holistic school experiences.  We give thanks for the various achievements and contributions of our students and staff in the academic subjects, aesthetics and sporting fields. Notable achievements included our school’s first recipient of the President Award for Teachers and the Netball team’s 4th place finish at the ‘B’ Division games. More highlights have been captured on our school’s Facebook and Instagram sites to celebrate and connect all of us as a community.
+Established in 1879, the school started as St. Anna’s School in a rented shop-house at Middle Road by Fr. Jose Pedro Santa Anna de Cunha of St. Joseph’s Church for the poor parishioners in 1879. With the arrival of the Canossian Sisters in 1894, the school moved to 111 Middle Road and became known as St. Anthony’s Convent School. It was eventually renamed to St. Anthony’s Canossian Primary and Secondary School in 1995 when it moved to the current Bedok campus. The inclusion of “Canossian” in the name of the school was done in celebration of our unique Canossian brand of education, forming hearts and offering a personalised approach to holistic education.
 
-Our 2023 school theme _In Faith, We Serve_ reminds our staff and students to keep faith and grow in our service. In a world filled with complexities due to technological changes, competing economic imperatives and different psychosocial stressors, we will continue to strive to be Canossians of Influence who are ready to lead with **compassion** and **competence**; serve with **cheerfulness** and **commitment.**
+Over the years, we have evolved and adapted to the changing educational landscape, consistently striving for innovation while upholding our core values of Faith, Charity, Humility and Forgiveness. We continue to build a nurturing and dynamic environment where students are encouraged to explore their interests, develop critical thinking skills, and discover their full potential. We are strengthening our approaches to deepen students’ joy for learning through positive education and the development of 21st century competencies.  This way, our total curriculum prepares our girls for the future by equipping them with dispositions and skillsets essential for them to thrive in the 21st Century.
 
-*   _Compassionate_ to be sensitive to the sufferings of others and inspire courageous deeds and solutions to serve and help those in need.
-*   _Competent_ to be solutions-oriented and community-focused, resourceful and collaborative to adapt to any unexpected scenarios and overcome challenges.
-*   _Committed_ to staying true to themselves, their values, convictions and goals; persevering in the face of adversity.
-*   _Cheerful_ to be comfortable with themselves and to bring happiness and positivity to self and others.
+2024 marks a significant milestone for the school as we celebrate our 145th anniversary as well as join our global family of Canossians in commemorating the 250th anniversary of the birth of our Foundress, St. Magdelene of Canossa. It is a testament to the enduring legacy of our Canossian institution and the countless success stories of our alumni. The theme, “In Fiamme” (Set Life on Fire), speaks of the missionary zest that lit our Foundress’ life with the fire of charity. We remember and give thanks for the spirit and charism of the Foundress through the ‘ABCD’:
 
-As we move into our next phase of growth, we will be strengthening our approaches to help our students deepen their joy for learning.  Focusing on positive education (PERMAH\* model of well-being), as well as building a positive school culture that encourages strong relationships amongst students, teachers and parents, the school will continue to augment the nurturing, innovative and dynamic environment. Beyond academic achievements, we want our girls to be anchored in our school values while navigating the fast-changing world we live in. Our total curriculum aims to prepare our girls for the future by equipping them with dispositions and skillsets essential for them to thrive in the 21st Century.
+* Above all, make Jesus known and loved: As a school, we are called to radiate light and hope to our community and Singapore, looking out for those who are forgotten, forsaken and feeble.
+* Breathe Charity in Relationships: To love and forgive one another despite differences and limitations to embrace diversity, treating each one with respect and kindness.
+* Cultivate Humility: To grow in self-confidence, accepting our personal strengths and weaknesses, while seeking continuous improvement to learn beyond textbooks and beyond grades. The goals are to develop life-long learning dispositions and 21st century competencies.
+* Discern Desires: To discern the use and growth of our gifts and talents so that we are drawn to lead and serve for the common good, rather than be driven by fear, insecurity, and pride.
 
-To our prospective students and interested parents, joining us at SACSS will be the beginning of an exciting and fulfilling journey where your daughter can expect to be challenged and supported in equal measure. Be a part of a community that celebrates, nurtures, and respects individuality; a community where girls are free to explore, try new things, and overcome fear of failure. We look forward to welcoming you to St Anthony’s Canossian Secondary School.
+Do join us and the Canossian Sisters in commemorating this historic occasion through celebratory masses, the Night Festival, community outreach programmes and an alumni home-coming lunch. There will be something for everyone to participate in and enjoy.
+To our prospective students and interested parents, we invite you to explore our website, learn more about our programmes and the unique opportunities that await you. Joining us at St. Anthony’s Canossian Secondary School will be the beginning of an exciting and fulfilling journey where girls can expect to be challenged and supported in equal measure. Be a part of a community that celebrates, nurtures, and respects individuality; a community where girls are free to explore, learn new things, and overcome the fear of failure. We look forward to welcoming you to St. Anthony’s Canossian Secondary School.
 
-_\*The PERMAH model of wellbeing outlines five key pillars for flourishing and thriving at work and beyond: Positive emotions, Engagement, Relationships, Meaning, Accomplishment and Health._
-
-![](/images/In-Faith-We-serve-shades-724x1024.png)
-
-**_Image created by Bennita Lim - Secondary 4.5 (2023)_**
+Ms Fiona Koh
