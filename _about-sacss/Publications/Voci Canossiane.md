@@ -16,4 +16,4 @@ befitting title to this newsletter in Italian that signifies the Canossian Voice
 
 [Voci Canossiane - Issue 2 (2022)](https://drive.google.com/file/d/1Hny5iSQLu0DvHPmepg21wzcwleyaNTTa/view?usp=sharing)
 
-[Voci Canossiane - Issue 3 (2023)](https://drive.google.com/drive/folders/1Mdffrw6tC0WlisOIuPsdT80opDp1qVoe)
+[Voci Canossiane - Issue 3 (2023)](https://drive.google.com/file/d/1yEb1Z6Th1oOPwFSh-TOL4hR7ly6CboyT/view?usp=sharing)
