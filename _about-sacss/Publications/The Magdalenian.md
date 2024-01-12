@@ -11,4 +11,4 @@ Over the years, we have retained our signature publication, The Magdalenian, as 
 
 [The Magdalenian 2022](https://drive.google.com/file/d/1WbAbq2S1ogPDgMZextii0V1CUlMz7w-e/view?usp=share_link)
 
-[The Magdalenian 2023](https://drive.google.com/drive/folders/11tyNFqwQFtnEiJqcwkOE5DOhQUKjKC2t)
+[The Magdalenian 2023](https://drive.google.com/file/d/1E3T-PbzQeB8n0z4lOnjdxy7vstp0xFjo/view?usp=sharing)
