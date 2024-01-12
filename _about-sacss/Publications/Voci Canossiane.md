@@ -3,6 +3,7 @@ title: Voci Canossiane
 permalink: /about-sacss/Publications/voci-canossiane/
 description: ""
 third_nav_title: Publications
+variant: markdown
 ---
 **Voices of a New Generation** 
   
@@ -14,3 +15,5 @@ befitting title to this newsletter in Italian that signifies the Canossian Voice
 [Voci Canossiane - Issue 1 (2021)](https://drive.google.com/file/d/15EMnFZI-xW5uxa318FzaQDnx5qE7AaNA/view?usp=sharing)
 
 [Voci Canossiane - Issue 2 (2022)](https://drive.google.com/file/d/1Hny5iSQLu0DvHPmepg21wzcwleyaNTTa/view?usp=sharing)
+
+[Voci Canossiane - Issue 3 (2023)](https://drive.google.com/drive/folders/1Mdffrw6tC0WlisOIuPsdT80opDp1qVoe)
