@@ -1,0 +1,14 @@
+logo: /images/logo-768x256.png
+links:
+  - title: ABOUT SACSS
+    collection: about-sacss
+  - title: Canossian Life
+    collection: canossian-life
+  - title: Departments
+    collection: departments
+  - title: Student Support
+    collection: student-support
+  - title: One Stop
+    collection: one-stop
+  - title: Registration for Sec 1 2024
+    collection: sec-1-registration
