@@ -14,10 +14,9 @@ The SACSS Wellbeing Team brings together a group of three remarkable counsellors
 **Alternatively, you may also walk into the St Raphael Wellness Centre to fill in a self-referral form to seek an appointment with the school counsellors.**
 
 Our Counsellors: 
-* Ms Gayathri Devi Kaneson (Full Time School Counsellor)
-gayathri_devi_kaneson@moe.edu.sg
-* Mdm Christine Lim (Flexi Adjunct School Counsellor) christine_lim_peck_sim@moe.edu.sg, 
-* Mdm Debra Scully (Flexi Adjunct School Counsellor) scully_debra_theresa@moe.edu.sg
+* Ms Gayathri Devi Kaneson (Full Time School Counsellor) [[gayathri_devi_kaneson@moe.edu.sg](gayathri_devi_kaneson@moe.edu.sg)]
+* Mdm Christine Lim (Flexi Adjunct School Counsellor) [[christine_lim_peck_sim@moe.edu.sg](christine_lim_peck_sim@moe.edu.sg)]
+* Mdm Debra Scully (Flexi Adjunct School Counsellor) [[scully_debra_theresa@moe.edu.sg](scully_debra_theresa@moe.edu.sg)]
 
 
 Good mental health is not just about talking to a counsellor or therapist. Our Form Teachers regularly conduct one-on-one wellbeing conversations with our students. During these sessions, girls are empowered to identify their values, and to learn how to effectively balance all aspects of their spirituality, health, learning and relationships. Eating healthy, getting enough sleep, and exercising are also important habits that will help improve one’s mental health.
