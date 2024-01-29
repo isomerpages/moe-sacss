@@ -59,4 +59,17 @@ b.    Character and Citizenship Education (CCE)
 | Mass Talk by HPB appointed vendor    | •	Raise awareness and provide knowledge on: a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use). b)	Managing relationships and risky situations in a healthy way. | Term 3 Week 6     |
 | Classroom-based Lesson | •	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 6 |
 
+**Information for Parents**
 
+10.       Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed via Parent’s Gateway, and is also accessible [here](https://go.gov.sg/2024opt-out) .
+
+Please complete the online opt-out form by the following dates:
+
+* Secondary 1: 26th July 2024
+* Secondary 2: 5th July 2024
+* Secondary 3: 12th April 2024
+* Secondary 4 & 5: 1st February 2024
+
+13.       Parents can contact the school at 6449 0616 or email the school at sacss@moe.edu.sg for a discussion or to seek clarification about the school’s sexuality education programme.
