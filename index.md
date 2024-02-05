@@ -22,9 +22,9 @@ sections:
       title: "In Fiamme: SACSS Night Festival 2024"
       description: Please click the link for more information and ticketing details.
       button: Full Details here
-      url: https://stanthonyscanossiansec.moe.edu.sg/sec-1-registration/
-      image: /images/Welcome1.png
-      alt: Sec 1 Registrations
+      url: https://stanthonyscanossiansec.moe.edu.sg/infiamme/
+      image: /images/Night_Festival___Announcement_Pic.jpg
+      alt: SACSS Night Festival 2024
   - infopic:
       title: School Corporate Video
       description: School Corporate Video
