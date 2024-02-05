@@ -19,10 +19,8 @@ sections:
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infopic:
-      title: Secondary 1 Registration (2024 Intake)
-      description: |-
-        Welcome to St. Anthony's Canossian Secondary School.
-        Please refer to the link for the full details on registration.
+      title: "In Fiamme: SACSS Night Festival 2024"
+      description: Please click the link for more information and ticketing details.
       button: Full Details here
       url: https://stanthonyscanossiansec.moe.edu.sg/sec-1-registration/
       image: /images/Welcome1.png
