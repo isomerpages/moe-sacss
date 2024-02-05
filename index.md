@@ -22,7 +22,7 @@ sections:
       title: "In Fiamme: SACSS Night Festival 2024"
       description: Please click the link for more information and ticketing details.
       button: Full Details here
-      url: https://stanthonyscanossiansec.moe.edu.sg/infiamme/
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/infiamme/
       image: /images/Night_Festival___Announcement_Pic.jpg
       alt: SACSS Night Festival 2024
   - infopic:
