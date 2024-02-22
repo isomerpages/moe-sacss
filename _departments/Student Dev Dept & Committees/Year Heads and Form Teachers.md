@@ -349,7 +349,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 (G1-3)</p>
+<p>3 Cheerfulness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Yi Tong</p>
@@ -363,7 +363,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3</p>
+<p>3 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Dek Chin Daisy</p>
@@ -377,7 +377,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3</p>
+<p>3 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bok Yan Peng Natalie</p>
@@ -391,7 +391,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3</p>
+<p>3 Competence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jiang Bei</p>
@@ -405,7 +405,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3</p>
+<p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Xie Yanjin</p>
