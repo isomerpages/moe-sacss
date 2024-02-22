@@ -293,20 +293,6 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Faith</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Li Kai Han Jeremiah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Izwah Binte Saat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
