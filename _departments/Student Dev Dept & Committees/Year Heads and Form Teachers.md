@@ -366,10 +366,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>3 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Dek Chin Daisy</p>
+<p>Mr Quek Joo Siah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fatin Afiqah Bte Abdullah</p>
+<p>Mdm Bey Young Keng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -380,10 +380,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>3 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bok Yan Peng Natalie</p>
+<p>Mdm Imelda Norazlina Bte Zulkefle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gu Yuan Yuan</p>
+<p>Ms Khim Youn Justina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -394,10 +394,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>3 Competence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jiang Bei</p>
+<p>Ms Loh Hui Rong Shirlyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boo Tuang Hock Esther</p>
+<p>Mdm Wee Swee Lian Adelene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -408,10 +408,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xie Yanjin</p>
+<p>Mr Choo Yuan Chung Jimmy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kee Mooi Thiam</p>
+<p>Ms Aileen Tan Ai Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
