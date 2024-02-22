@@ -198,10 +198,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>2 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Nyuk Lian Sandy</p>
+<p>Mr Poh Keng Joo Andrew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rasheada Begam</p>
+<p>Mdm Wendy Arleena Bte Sukma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -212,10 +212,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Premani Minashi Logaraj</p>
+<p>Mdm Aznah Bte Hj Kilali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan En En Christabel</p>
+<p>Mr Tan Qing Quan Rion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
