@@ -433,7 +433,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Cheerfulness</p>
+<p>4 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Norfarhana Mohamed Ismail</p>
@@ -447,7 +447,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.2</p>
+<p>4 Forgiveness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mohd Said Bin Rahim</p>
@@ -461,10 +461,10 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.3</p>
+<p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohd Faisal Mohd Yusoff</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kamala Kausikan</p>
@@ -489,7 +489,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.6</p>
+<p>4 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chua Huina Carol</p>
@@ -503,7 +503,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.7</p>
+<p>4 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aileen Tan Ai Lian</p>
@@ -517,7 +517,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.8</p>
+<p>4 Competence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wee Swee Lian Adelene</p>
@@ -531,13 +531,13 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.9</p>
+<p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bey Young Keng</p>
+<p>Mdm Suzana Bte Mohd Nor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foo Khim Youn Justina</p>
+<p>Ms Choo Sze-Min Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -548,10 +548,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>5 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurfaeza Rahmat</p>
+<p>Ms Ng Shilin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yu Weiling Sharon</p>
+<p>Mr Mohd Faisal Mohd Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
