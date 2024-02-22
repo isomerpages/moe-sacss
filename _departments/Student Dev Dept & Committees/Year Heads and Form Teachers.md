@@ -156,10 +156,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>1 Forgiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Liza Johan</p>
+<p>Dr. Li Kai Han Jeremiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lam Li Feng Dawn</p>
+<p>Ms Kamala Kausikan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -170,13 +170,13 @@ a more congenial and engaging educational experience and support for students.</
 <p>1 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Masura Bte Mohd Ghani</p>
+<p>Mr Heng Wei Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mary Ann Joseph</p>
+<p>Mdm Goh Zhi Ling Caleen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Norfarhana Mohamed Ismail</p>
 </td>
 </tr>
 <tr>
