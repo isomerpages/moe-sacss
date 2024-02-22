@@ -316,7 +316,7 @@ a more congenial and engaging educational experience and support for students.</
 <p>Choo Sze-Min Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mohammed Ramlee Samsudin</p>
 </td>
 </tr>
 <tr>
@@ -436,13 +436,13 @@ a more congenial and engaging educational experience and support for students.</
 <p>4 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Norfarhana Mohamed Ismail</p>
+<p>Mr Tan Yuh Peng Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loh Shi Yunn Nicole</p>
+<p>Ms Ong Hui Lin Valerie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohammed Ramlee Samsudin</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -450,10 +450,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>4 Forgiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohd Said Bin Rahim</p>
+<p>Mdm Bok Yan Peng Natalie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Shilin</p>
+<p>Mdm Gu Yuan Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -464,10 +464,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Xie Yanjin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kamala Kausikan</p>
+<p>Mdm Kee Mooi Thiam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -481,10 +481,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>Ms Tan Dek Chin Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quek Joo Siah</p>
+<p>Ms Fatin Afiqah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sister Jessica</p>
+<p></p>
 </td>
 </tr>
 <tr>
