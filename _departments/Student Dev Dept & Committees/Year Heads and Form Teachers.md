@@ -254,13 +254,13 @@ a more congenial and engaging educational experience and support for students.</
 <p>2 Cheerfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Zhi Ling Caleen</p>
+<p>Mdm Norlinna bte Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Zijing</p>
+<p>Ms Chow Qianwei Shona</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Kok Liang</p>
+<p></p>
 </td>
 </tr>
 <tr>
