@@ -478,7 +478,7 @@ a more congenial and engaging educational experience and support for students.</
 <p>4 Cheerfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heng Wei Jie</p>
+<p>Ms Tan Dek Chin Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quek Joo Siah</p>
@@ -492,10 +492,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>4 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Huina Carol</p>
+<p>Mdm Jiang Bei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Dini Binte Sarifudin</p>
+<p>Mrs Boo Tuang Hock Esther</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
