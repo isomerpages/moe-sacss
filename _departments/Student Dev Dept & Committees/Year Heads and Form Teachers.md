@@ -77,7 +77,7 @@ a more congenial and engaging educational experience and support for students.</
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>FT / Remarks</strong>
+<p><strong>Form Teacher</strong>
 </p>
 </th>
 </tr>
@@ -86,10 +86,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Andrew Poh Keng Joo</p>
+<p>Mdm Premani Minashi Logaraj</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wendy Arleena Bte Sukma (B)</p>
+<p>Mr Liow Xiu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,13 +100,13 @@ a more congenial and engaging educational experience and support for students.</
 <p>1 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aznah Bte Hj Kilali</p>
+<p>Ms Thng Hui Qing Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Qing Quan Rion (B)</p>
+<p>Mr Muhd Nasiruddin Bin Abdul Razak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Harn Siow Ping</p>
 </td>
 </tr>
 <tr>
@@ -114,13 +114,13 @@ a more congenial and engaging educational experience and support for students.</
 <p>1 Competence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siddiq Suleiman</p>
+<p>Mdm Rasheada Begam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Xiu Zhen Charlene</p>
+<p>Ms Goon Bi Yan Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wu Lin</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,10 +128,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teh Jane Khim</p>
+<p>Mdm Tan En En Christabel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chiu Yun Ting Fiona</p>
+<p>Mr Mohd Said Bin Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -142,10 +142,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>1 Cheerfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Norlinna Bte Mohd Ismail</p>
+<p>Mr Lin Zijing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chow Qianwei Shona</p>
+<p>Ms Nurraidah Binte Noor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -447,7 +447,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.1</p>
+<p>4 Cherfulnees</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Norfarhana Mohamed Ismail</p>
@@ -559,7 +559,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.1</p>
+<p>5 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nurfaeza Rahmat</p>
