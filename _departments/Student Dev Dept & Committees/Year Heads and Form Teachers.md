@@ -226,10 +226,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>2 Competence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goon Bi Yan Michelle</p>
+<p>Ms Nur Izwah Binte Saat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Seok Hwee</p>
+<p>Ms Lee Xiu Zhen Charlene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -240,10 +240,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia Seok Choo Cecelia</p>
+<p>Mdm Teh Jane Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhd Nasiruddin</p>
+<p>Ms Chiu Yun Ting Fiona</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
