@@ -307,7 +307,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 (G1-3)</p>
+<p>3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prasanna Ramdas</p>
@@ -321,7 +321,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 (G1-3)</p>
+<p>3 Forgiveness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Hui Lin Valerie</p>
@@ -335,7 +335,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 (G1-3)</p>
+<p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ghui Yew Ming Amos</p>
