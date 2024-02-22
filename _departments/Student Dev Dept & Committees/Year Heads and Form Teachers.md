@@ -310,10 +310,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prasanna Ramdas</p>
+<p>Mr Hamzah Bin Mohd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo Sze-Min Amanda</p>
+<p>Mdm Chia Seok Choo Cecelia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Ramlee Samsudin</p>
