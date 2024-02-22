@@ -506,10 +506,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>4 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aileen Tan Ai Lian</p>
+<p>Ms Ng Bee Hong Annie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Wei Yin Selina</p>
+<p>Mr Ghui Yew Ming Amos</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -520,10 +520,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>4 Competence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Swee Lian Adelene</p>
+<p>Ms Annette Poh Wen Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo Yuan Chung Jimmy</p>
+<p>Mdm De Cotta Jannine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
