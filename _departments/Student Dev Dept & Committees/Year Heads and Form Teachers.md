@@ -324,10 +324,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>3 Forgiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Hui Lin Valerie</p>
+<p>Mdm Loh Shi Yunn Nicole</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yuh Peng Kelvin</p>
+<p>Ms Nur Dini Sarifudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -338,13 +338,13 @@ a more congenial and engaging educational experience and support for students.</
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ghui Yew Ming Amos</p>
+<p>Mdm Norliza Bte Mohd Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Annie Ng Bee Hong</p>
+<p>Ms Quek Wee Keng Nicole</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nur Bte Taib</p>
 </td>
 </tr>
 <tr>
@@ -352,10 +352,10 @@ a more congenial and engaging educational experience and support for students.</
 <p>3 Cheerfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yi Tong</p>
+<p>Ms Nurfaeza Bte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phua Cheng Liang Nicky</p>
+<p>Ms Yu Weiling Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
