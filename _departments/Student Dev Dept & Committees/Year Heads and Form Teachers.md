@@ -27,7 +27,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Year Head (Sec 4)</p>
+<p>Upper Sec Year Head (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Soo Heng Roland</p>
@@ -43,7 +43,7 @@ a more congenial and engaging educational experience and support for students.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Year Head (Sec 2)</p>
+<p>Lower Sec Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Hoong Wei</p>
