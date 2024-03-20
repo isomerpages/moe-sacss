@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Education and Career Guidance (ECG)
 
-To discuss any of the following, please book appointment slots that are during your&nbsp;**recess**, **lunch breaks**,&nbsp;**free periods**&nbsp;or&nbsp;**after your curriculum hours**.
+To discuss any of the following, please book appointment slots by clicking on this [link](https://sites.google.com/moe.edu.sg/ms-evelyn-ecg).
 
 *   Raising self-awareness (VIPS, RIASEC,&nbsp;etc.)
 *   Subject combination (e.g.&nbsp;Sec 2/JC)
@@ -17,7 +17,7 @@ To discuss any of the following, please book appointment slots that are during y
 
 **ECG Appointment &amp; Resources**
 
-[Book an Appointment](https://go.gov.sg/ecgsac-appt)
+[Book an Appointment](https://sites.google.com/moe.edu.sg/ms-evelyn-ecg)
 
 **ECG Resources**
 *    [Full Subject-Based Banding (Full SBB)](https://go.gov.sg/moe-fsbb)
