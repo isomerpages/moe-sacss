@@ -5,8 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h2>Education and Career Guidance (ECG)</h2>
-<p>To discuss any of the following, please book appointment slots by clicking
-on this <a href="https://sites.google.com/moe.edu.sg/ms-evelyn-ecg" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+<p>For more information on the latest ECG trends and updates, head to the <strong>One-Stop ECG InfoSite</strong> by
+clicking on this <a href="https://sites.google.com/moe.edu.sg/ms-evelyn-ecg" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+<p></p>
+<p><strong>ECG Appointment &amp; Resources</strong>
+</p>
+<p>To discuss any of the following, please book appointment slots during
+your <strong>recess, lunch breaks or after curriculum hours</strong>.</p>
+<p><a href="https://sites.google.com/moe.edu.sg/ms-evelyn-ecg" rel="noopener noreferrer nofollow" target="_blank">Book an Appointment</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Raising self-awareness (VIPS, RIASEC,&nbsp;etc.)</p>
@@ -28,10 +35,7 @@ EAE; etc.</p>
 <p>Any other&nbsp;ECG related&nbsp;questions</p>
 </li>
 </ul>
-<p><strong>ECG Appointment &amp; Resources</strong>
-</p>
-<p><a href="https://sites.google.com/moe.edu.sg/ms-evelyn-ecg" rel="noopener noreferrer nofollow" target="_blank">Book an Appointment</a>
-</p>
+<p></p>
 <p><strong>ECG Resources</strong>
 </p>
 <ul data-tight="true" class="tight">
