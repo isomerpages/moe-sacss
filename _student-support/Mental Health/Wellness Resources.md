@@ -5,13 +5,7 @@ description: ""
 third_nav_title: Mental Health
 variant: tiptap
 ---
-<p>Nobody talks about the moments in their secondary experiences that were
-low or made them feel vulnerable. Failing the first exam or feeling alone.
-In reality, these are normal and common experiences. None of these are
-experiences that you have to handle by yourself. If you ever need help
-in school, do approach your teachers or the School Counsellors. If you
-are unable to get in touch with your teachers or school personnel after
-school hours, here are some additional support resources available to you.</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -31,32 +25,43 @@ school hours, here are some additional support resources available to you.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IMH Chatline" src="/images/Mental Health/Wellness Resources/IMH_Chatline_QR_Code.png">
+</div>
 <p></p>
+<p><a href="https://www.imh.com.sg/CHAT/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">IMH Chatline</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MindSG" src="/images/Mental Health/Wellness Resources/MindSG_QR_Code.png">
+</div>
 <p></p>
+<p><a href="https://www.healthhub.sg/programmes/mindsg/discover" rel="noopener noreferrer nofollow" target="_blank">MindSG</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mental%20Health/Managing-Devices-scaled.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mindline Chat" src="/images/Mental Health/Wellness Resources/Mindline_Chat_QR_Code.png">
 </div>
-<p><a href="/wellness-resources/managing-devices/" rel="noopener noreferrer nofollow" target="_blank">Self Care 4: Managing Devices</a>
+<p></p>
+<p><a href="https://www.mindline.sg/wysa-chat" rel="noopener noreferrer nofollow" target="_blank">Mindline Chat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mental%20Health/Coping-with-Changes-scaled.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SOS Chat" src="/images/Mental Health/Wellness Resources/SOS_Chat_QR_Code.png">
 </div>
-<p><a href="/wellness-resources/coping-with-changes/" rel="noopener noreferrer nofollow" target="_blank">Self Care 5: Coping with Changes</a>
+<p><a href="https://www.sos.org.sg/our-services/" rel="noopener noreferrer nofollow" target="_blank">SOS Helpline/chat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mental%20Health/Self-Harm-scaled.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="EC2" src="/images/Mental Health/Wellness Resources/EC2_QR_Code.png">
 </div>
-<p><a href="/wellness-resources/self-harm-suicidal-thoughts/" rel="noopener noreferrer nofollow" target="_blank">Self-Care 6: Self-harm &amp; Suicidal Thoughts</a>
+<p><a href="https://fycs.org/ec2-sg/" rel="noopener noreferrer nofollow" target="_blank">EC2</a>
 </p>
 </td>
 </tr>
