@@ -35,15 +35,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/One Stop/WA1__2024__Student_Schedule__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Weighted Assessment Schedule</a>
+<p><a href="/files/One Stop/Schedule/WA2__2024__Student_Schedule__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Weighted Assessment Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/One Stop/WA1__2024__Student_Schedule__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Weighted Assessment Schedule</a>
+<p><a href="/files/One Stop/Schedule/WA2__2024__Student_Schedule__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Weighted Assessment Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/One Stop/WA1_2024__Student_Schedule__Sec_4n5__.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Weighted Assessment Schedule</a>
+<p><a href="/files/One Stop/Schedule/WA2__2024__Student_Schedule__Sec_4n5_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Weighted Assessment Schedule</a>
 </p>
 </li>
 </ul>
