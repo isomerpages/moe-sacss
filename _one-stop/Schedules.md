@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/One Stop/WA1__2024__Student_Schedule__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Weighted Assessment Schedule</a>
+<p><a href="/files/One Stop/Schedule/WA2__2024___Student_Schedule__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Weighted Assessment Schedule</a>
 </p>
 </li>
 <li>
