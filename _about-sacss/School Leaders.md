@@ -2,8 +2,13 @@
 title: School Leaders
 permalink: /about-sacss/school-leaders/
 description: ""
+variant: markdown
 ---
-|   |   |   |
-|---|---|---|
-|  |![](/images/1_ms-fiona-koh.jpg) | |
-|![](/images/ms%20chionh%20chew%20peng%20(vp).jpg) | |![](/images/ms%20melissa%20yeo.jpg) |
+# Our School Leaders
+
+| School Leader | Name |
+| -------- | -------- |
+| Principal     | Ms. Fiona Koh   |
+| Vice-Principal     | Ms. Chionh Chew Peng  |
+| Vice-Principal     | Ms. Melissa Yeo   |
+
