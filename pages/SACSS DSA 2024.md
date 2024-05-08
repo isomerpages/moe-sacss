@@ -5,7 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h2>SACSS Direct School Admission (DSA) Exercise</h2>
-<h4><strong>Look out for our 2024 DSA e-Open House Microsite coming soon!</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_eopen_house_2024.jpg">
+</div>
+<h4><strong>Find out more by visiting our DSA e-Open House Microsite</strong></h4>
+<p><a href="https://go.gov.sg/sacss-dsa" rel="noopener noreferrer nofollow" target="_blank">SACSS DSA e-Open House Microsite</a>
+</p>
 <p>Please click on the links below for more information on the SACSS DSA
 2024 Exercise</p>
 <p><a href="/files/SACSS_DSA_Sec_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SACSS DSA 2024 Information</a>
