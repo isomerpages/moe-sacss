@@ -31,7 +31,7 @@ The Science Research Programme (SRP) helps students develop skills such as criti
 
 **Young Scholars Research and Initiated Programme**
 
-Science
+**Science**
 
 The Science Research Programme offers a challenging and enriching experience for students who love science and want to explore research. It encourages curiosity, creativity, and a passion for learning, helping students develop essential skills for their future academic and professional lives.
 
