@@ -9,7 +9,7 @@ variant: markdown
 |---|---|---|
 |  ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/IMG_6805-scaled.jpg) | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/IMG_6844-scaled.jpg)  | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Infocomm%20Technology/IMG_6852-scaled.jpg)  |
 
-Integration of ICT in Secondary Education
+**Integration of ICT in Secondary Education**
 
   
 
