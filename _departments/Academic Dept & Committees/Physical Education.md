@@ -3,14 +3,18 @@ title: Physical Education
 permalink: /departments/Academic-Dep-and-Committees/physical-education/
 description: ""
 third_nav_title: Academic Dept & Committees
+variant: markdown
 ---
 |   |   |   |
 |---|---|---|
 |![](/images/Departments/Academic%20Dep%20&%20Comittee/Physical%20Education/835B2264-scaled.jpg)   | ![](/images/Departments/Academic%20Dep%20&%20Comittee/Physical%20Education/835B8302-scaled.jpg)  |![](/images/Departments/Academic%20Dep%20&%20Comittee/Physical%20Education/835B8304-scaled.jpg)   |
 
+**The SACSS Physical Education (PE) Department**
 
-The SACSS Physical Education (PE) Department strives to develop our student’s physical and mental health, emotional and psychosocial domains through the use of a systematic modular PE programme, framed by the Games Concept Approach (GCA) and Sports Education Model. Here, the students not only learn the skills and concepts of playing various games, but they also learn about Physical Health and Fitness (PHF) and Outdoor Education (OE). The SACSS PE programme aims to inculcate in our students a greater appreciation of healthy living, and in doing so, develop a more positive attitude towards physical activities.
+The SACSS Physical Education (PE) Department aims to develop our students' physical, mental, emotional, and psychosocial well-being through a systematic modular PE program framed by the Games Concept Approach (GCA) and the Sports Education Model. Students learn the skills and concepts of various games and gain knowledge and skills in Physical Health and Fitness (PHF) and Outdoor Education (OE). The SACSS PE program aims to instill a greater appreciation for healthy living and the outdoors, fostering a positive attitude toward physical activities.
 
-Students are taught an array of games based on the different games categories; invasion, net/wall, striking/fielding, and target. At PE, students will learn to foster collaboration and team spirit through sports like handball, softball, and volleyball.  At the end of each module, students will receive a grade for PE based on the assessment of skills learnt and games played. Apart from being assessed on the skills and concepts, students will also be required to participate in an online quiz.
+Students are taught a variety of games categorised into invasion, net/wall, striking/fielding, target, and skills-based games. Through sports like handball, softball, and volleyball, students learn collaboration and team spirit. At the end of each module, students receive a grade based on their skills and gameplay. Additionally, students participate in an online quiz to assess their understanding of the skills and concepts learned.
 
-At SACSS, we believe that all students should be equipped with life skills like swimming and cycling that will enable to enjoy other forms of physical activities. In Secondary 1, all students (only those with Gold standard or higher are exempted) attend a 5-week compulsory Swimsafer Programme. Then in Secondary 2, all students undergo a full day cycling workshop, where students learn how to cycle or go on a mini expedition if their cycling skills are more competent. This also helps to prepare them for the Outward-Bound Singapore Camp in Secondary 3.
+The department also organizes two school-wide events: Jogathon and Sports Day. Jogathon, our annual cross-country event, provides an opportunity for students to come together as a class and compete in long-distance running. Parents are invited to participate in the staff/parents race, allowing them to engage with the school and bond with their daughters. Our annual Sports Day usually held at stadiums features students competing in shorter distance races and team events, ultimately vying to become champion classes.
+
+These activities aim to promote healthy living, teamwork, and school spirit among our students, ensuring a well-rounded physical education experience.
