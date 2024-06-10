@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Executive, Administration and Operations.md
       - Student Dev Dept & Committees/.keep
       - Student Dev Dept & Committees/Character & Citizenship Education.md
       - Student Dev Dept & Committees/Year Heads and Form Teachers.md
