@@ -3,11 +3,29 @@ title: Opportunities to Serve
 permalink: /canossian-life/Service/opportunities-to-serve/
 description: ""
 third_nav_title: Service
+variant: markdown
 ---
+**Our Values-In-Action (VIA) Programme**
 
-**Values-In-Action (VIA) @ SACSS**
+Our Values-In-Action (VIA) programme aligns with the school’s vision by providing authentic, hands-on opportunities for students to develop their leadership and service skills.
 
-Our Values-In-Action (VIA) programme is aligned to the school’s vision and aims to provide authentic and hands-on opportunities to develop our students to lead and serve. The programme seeks to expose our students to serve in various sectors, namely the school community, the Canossian community, our Singapore community and our international community. Over the years, the school has also developed sustained partnership with various organisations such as Special Olympics Singapore, Willing Hearts, Sunlove (Chai Chee) and Southeast CDC. In addition to local opportunities, the school also organises overseas VIA trips to countries such as Cambodia and Vietnam, to serve our international communities. In 2019, we sought to connect with the wider Canossian family through an extension of our SAC Blaze, which was traditionally a school carnival mainly run by the Secondary Three students to raise funds for a chosen organisation. That year, an invitation to the event was extended to the alumni, all Canossian schools and our Cnaossian Sisters. Following that, in 2021, our level wide VIA projects were conducted in conjunction with Foundress Day, where the different levels were paired with the various members and organisations under the Canossian family – Canossa village, St Joseph’s Home, Villa Francis and our Sisters. Apart from these projects, departments and Co-Curricular Activities (CCA) such as the Mother Tongue Department and the Girl Guides also spearhead individual VIA projects. More recently, the school has been encouraging student-initiated VIA projects. Led by the Welfare council, our student leaders are given the opportunities to suggest and involve the school in various activities or causes that students wish to advocate for. SACSS launched the Thio Ying Ying Bursary in 2021,to further encourage as well as recognise students’ efforts in active volunteerism.
+**Foundress VIA Framework**
+
+The Foundress VIA Framework, aligned with the school’s strategic thrusts – Belong, Believe, and Become, allows for a tiered progression across the levels, culminating in our students becoming Canossians of Influence.
+
+•     Secondary 1: In collaboration with the English Language Department, students write letters of encouragement to our affiliated Primary 6 juniors, sharing their own PSLE journey and transition experience into secondary school. This activity helps them to reach out to their juniors and share their sense of belonging to the school.
+
+•     Secondary 2: Guided by their teachers, students select a beneficiary to work with under our Talent Take Off programme. From 2024, our students will be led through the design thinking process and are taught the necessary skills to perform three functions – Advocacy, Activity, and Active Volunteering.
+
+•     Secondary 3: Students apply the skills of  Advocacy, Activity, and Active Volunteering to organize the annual school carnival, SAC Blaze, where funds are raised for students’ choice beneficiaries. They tap into their Social Studies knowledge to research social welfare issues in Singapore, choose a beneficiary, advocate for them, and run a game stall fully conceptualized and organized by them.
+
+• Secondary 4: In collaboration with our Canossian Sisters, fine examples of Canossians of Influence, the Foundress VIA Framework culminates with students celebrating their development. Each graduating class hosts a few sisters for an interactive tea session, engaging in candid conversations before expressing their gratitude with a personalized gift.
+
+  
+**Additional Projects**
+
+Beyond these projects, departments and Co-Curricular Activities (CCA) such as the Mother Tongue Department, the CCA Executive Committees, and the Girl Guides also spearhead individual VIA projects. The school encourages student-initiated VIA projects and shares VIA opportunities with the girls via online platforms. To further recognize and encourage students’ efforts in active volunteerism, the school awards the Thio Ying Ying Bursary Award annually at our school’s awards ceremony.
+
 
 |   |   |   |
 |---|---|---|
