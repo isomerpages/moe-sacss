@@ -10,7 +10,7 @@ variant: markdown
 > _“To learn another language is to have one more window from which to look at the world.”_   
 **_Chinese Proverb_**
 
-Mother Tongue Department at SACSS
+**Mother Tongue Department at SACSS**
 
 At SACSS, the Mother Tongue Department is dedicated to creating a positive and supportive environment where students can learn and appreciate their Mother Tongue Language (MTL). Our goal is to help each student become a confident and effective communicator while encouraging reflection and critical thinking. Here's how we integrate 21st Century skills into our curriculum and pedagogical approaches:
 
