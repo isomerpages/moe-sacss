@@ -9,7 +9,7 @@ variant: markdown
 |---|---|
 | ![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/20190325_094646-scaled.jpg) | ![](/images/Departments/Academic%20Dep%20&%20Comittee/LIFE%20ARTS/IMG_8297-scaled.jpg)  |
 
-**Aesthetics Dept School Website Writeup 2024**
+**Aesthetics Department**
 
   
 
