@@ -9,7 +9,6 @@ third_nav_title: Academic Dept & Committees
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Academic Dep &amp; Comittee/Performing Arts Education/Performing-Arts-Education.jpg">
 </div>
-<p></p>
 <p>Here at SACSS, we have developed a well-established Performing Arts Education
 (PfE) Programme since 2000. In addition to cultivating an appreciation
 of the performing arts, the curriculum is designed to enable students to
