@@ -3,10 +3,17 @@ title: Arts Alive
 permalink: /canossian-life/Performing-Arts-Niche/arts-alive/
 description: ""
 third_nav_title: Niche in Performing Arts Ed
+variant: markdown
 ---
-**_Arts Alive!_** was the theme used for the official launch of our Autonomous Niche area in the Performing Arts in 2004. SACSS organised a two-day Arts Festival where the entire school literally came alive with all the performing arts CCAs and Lower Secondary Dance, Music and Drama students performing at different parts of the school with 2000 audience attending the event.
+In 2004, SACSS proudly launched its Autonomous Niche area in the Performing Arts with the inaugural **_Arts Alive!_** festival. This two-day event transformed our school into a vibrant showcase of talent, with performances from all our performing arts CCAs and Lower Secondary Dance, Music, and Drama students. The entire school community, including 2000 audience members, celebrated the joy and creativity of the performing arts.
 
-A large majority of our students possess a passion for the performing arts, with more than 60% of our students in the Performing Arts CCA and 100% of our Lower Secondary Students offer Drama and Music at the Lower Secondary. Therefore, it seemed apt to have _Arts Alive!_ As a permanent biennial event to bring the performing arts alive at SACSS. We believe that all students can learn to appreciate the arts and reap the benefits of a holistic arts education as we continue to make the arts an integral part of our life in SACSS. In 2018, we launched the first Night Festival as part of the Arts Alive! Programme with combined performances by various CCA groups.
+Our commitment to the arts is evident, with over 60% of our students participating in Performing Arts CCAs and every Lower Secondary student engaging in Drama and Music. Given this enthusiasm, it was only fitting to establish _Arts Alive!_ as a biennial tradition, ensuring that the performing arts remain a vital part of SACSS life. We believe that all students can learn to appreciate the arts, benefiting from a holistic education that fosters creativity, collaboration, and communication.
+
+_Arts Alive!_ fosters creativity and innovation, offering students numerous opportunities to engage with and appreciate the arts. Each iteration of Arts Alive! brings fresh and exciting experiences. In 2017, students from non-performing arts CCAs were included in the programme so they too can create and present their performances. The following year, 2018, we introduced our first Night Festival, turning the school into a magical fairytale land with combined performances from various CCA groups, captivating audiences with an enchanting evening of artistic expression.
+
+In 2022, as we emerged from the pandemic, we celebrated the return of live performances with a special _Arts Alive!_ Flash Mob. Performing Arts CCA students surprised and delighted the school community with spontaneous performances at unexpected locations over two weeks, reenergizing our passion for the arts.
+
+_Arts Alive!_ not only highlights the talents of our students, these experiences contribute to  their cognitive, emotional, social, and personal growth. It equips them with valuable skills and perspectives that can enhance their personal well-being, and social interactions, ultimately contributing to their overall development and success in life.
 
 |   |   |
 |---|---|

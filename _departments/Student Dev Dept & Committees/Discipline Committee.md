@@ -3,13 +3,14 @@ title: Discipline Committee
 permalink: /departments/Student-Dev-Dep-and-Committees/discipline-committee/
 description: ""
 third_nav_title: Student Dev Dept & Committees
+variant: markdown
 ---
+SACSS implements Restorative Practices (RP) as part of its disciplinary approach. The aim of RP is to facilitate meetings among victims, offenders, and community members interested in addressing the offense and finding a resolution. This approach is underpinned by Affect Theory (Tomkins, 1992) and Reintegrative Shaming Theory (Braithwaite, 1989).
 
+  
 
-SACSS uses Restorative Practices (RP) in its discipline approach. The goal of RP is to create opportunities for victims, offenders and community members who want to meet to discuss the offence and the way forward. It is supported by Affect Theory (Tomkins, 1992) and Reintegrative Shaming Theory (Braithwaite, 1989).
+The primary technique of RP is dialogue and conferencing. These processes allow for an appropriate response to the student's misconduct, fostering healing, forgiveness, and reducing tensions between the victim and the offender. Moreover, they heighten the errant student’s awareness of the impact of their actions, providing an opportunity for them to take responsibility while engaging their support systems.
 
-The key technique of RP is dialoguing and conferencing. These processes provide for the appropriate response to the errant student, hence promoting healing, forgiveness, and reducing fears that might have developed between the victim and the offender. It also increases the errant student’s awareness of the impact of her action, hence proving her the opportunity to take responsibility for her action while engaging her support systems.
+  
 
-At SACSS, we respect students and believe that they can develop thinking and social skills so as to prevent the recurrence of the incidents that have led to their referrals. To that end, we believe that the student’s family is a valuable resource we can tap on. Our discipline team regularly invites parents to Student Support Meetings convened to discuss how we can collaboratively enhance the learning experiences and development of our students.
-
-![](/images/Departments/Student%20Dev%20Dep%20&%20Committees/banner-Image-1-3.jpg)
+At SACSS, we hold a deep respect for our students and their potential for growth in both cognitive and social realms, thereby aiming to prevent the recurrence of behavioral issues. We view the student’s family as a valuable resource and actively involve them in our efforts. Our disciplinary team frequently invites parents to Student Support Meetings, where we collaboratively explore ways to enhance students' learning experiences and overall development.
