@@ -4,7 +4,8 @@ permalink: /canossian-saints/
 variant: tiptap
 description: ""
 ---
-<p>St. Magdalene of Canossa</p>
+<p><strong><u>St. Magdalene of Canossa</u></strong>
+</p>
 <p>This wall mural was painted in 2024 to celebrate the 250th Anniversary
 of the birth of Our Foundress. Replicating the façade of the Canossa Palace,
 home to our Foundress, St. Magdalene of Canossa in Verona, the colourful
@@ -22,6 +23,7 @@ us to sit with the characters. As we sit next to them, we are invited to
 contemplate on our humanity. In doing so, we radiate our humility by embracing
 the young and old around us, lifting them up by our charitable words and
 deeds, and empowering them to recognise their dignity as children of God.</p>
+<p></p>
 <p>The symbolism of the wall mural echoes the words of St Pope John Paul
 II when he canonised Magdalene of Canossa on 2 October 1988, as a one who
 embodies “Chairty in Humility; Humility in Charity”.</p>
@@ -42,9 +44,8 @@ Paul II in 1988, Saint Magdalene of Canossa remains a beacon of charity
 and hope, inspiring countless souls to follow in her footsteps of love
 and service in a broken world.</p>
 <p></p>
-<p></p>
-<p>St. Josephine Margaret Bakhita</p>
-<p></p>
+<p><strong><u>St. Josephine Margaret Bakhita</u></strong>
+</p>
 <p>“If I were to meet those slave raiders that abducted me and those who
 tortured me, I'd kneel down to them to kiss their hands, because, if it
 had not have been for them, I would not have become a Christian and a religious."</p>
