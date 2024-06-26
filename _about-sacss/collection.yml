@@ -2,7 +2,6 @@ collections:
   about-sacss:
     output: true
     order:
-      - Canossian Saints.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
@@ -15,6 +14,7 @@ collections:
       - School Leaders.md
       - School Management Committee.md
       - Non Financial and Financial Information.md
+      - Canossian Saints.md
       - School History/.keep
       - School History/School History.md
       - School History/Autonomous Niche.md
