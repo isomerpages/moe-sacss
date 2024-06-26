@@ -6,6 +6,11 @@ description: ""
 ---
 <p><strong><u>St. Magdalene of Canossa</u></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/St_Magdalene.jpg">
+</div>
+<p></p>
 <p>This wall mural was painted in 2024 to celebrate the 250th Anniversary
 of the birth of Our Foundress. Replicating the façade of the Canossa Palace,
 home to our Foundress, St. Magdalene of Canossa in Verona, the colourful
@@ -45,6 +50,12 @@ and service in a broken world.</p>
 <p></p>
 <p><strong><u>St. Josephine Margaret Bakhita</u></strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/St_Bakhita.jpg">
+</div>
+<p></p>
 <p>“If I were to meet those slave raiders that abducted me and those who
 tortured me, I'd kneel down to them to kiss their hands, because, if it
 had not have been for them, I would not have become a Christian and a religious."</p>
