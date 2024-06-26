@@ -25,7 +25,7 @@ the young and old around us, lifting them up by our charitable words and
 deeds, and empowering them to recognise their dignity as children of God.
 The symbolism of the wall mural echoes the words of St Pope John Paul II
 when he canonised Magdalene of Canossa on 2 October 1988, as a one who
-embodies “Chairty in Humility; Humility in Charity”.</p>
+embodies “Charity in Humility; Humility in Charity”.</p>
 <p></p>
 <p>Saint Magdalene of Canossa's life story is a testament to her unwavering
 faith and profound compassion for the marginalized and impoverished. Born
