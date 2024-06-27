@@ -3,27 +3,55 @@ title: Career & Education Advising
 permalink: /canossian-life/Career-Preperation/career-education-advising/
 description: ""
 third_nav_title: Career Preparation
+variant: markdown
 ---
-
-
 #### **Career Education and Advising**
 
-The premise of Career Education stems from our belief that all our students possess talents and that each of these talents need to be either discovered, trained or refined. In today’s world, work takes on various definitions and many of these go beyond just a means to earn a living. We encourage our girls to explore 
 
-*   Having a passion for something
-*   Achieving Something
-*   Making the World a better place
 
-At the Secondary One level, students are exposed to career options and explore their interest areas through the Talent Take-Off Programme and the Global Challenge. At Secondary 2, they distill their choices to 4 main pathways. These include
+The premise of SACSS Education and Career Guidance (ECG) Framework builds on the idea that every student possesses unique talents waiting to be discovered and developed. Our program recognizes that work can be more than just a paycheck—it can be a source of personal meaning and a way to contribute to society. We align our approach with the Ministry of Education's (MOE) ECG framework, which aims to:
 
-*   Design, Digital and Infocomm Technology
-*   Health Sciences and Medicine
-*   Hospitality, Sports and Recreation
-*   Media and Communications
+*   Discover purpose: Help students identify their passions, strengths, and values to make informed decisions about their future.
+    
+*   Explore opportunities: Expose students to a wide range of educational and career pathways, including both traditional and emerging fields.
+    
+*   Stay relevant: Equip students with the skills and knowledge necessary to adapt to a constantly evolving job market and pursue lifelong learning.
+    
 
-Within each category, Secondary 2 students further explore various possible career options and the skills and experience required in the specific industry. As they progress to the upper secondary levels, our girls are taught Financial Literacy and Financial Planning and at the upper secondary levels, these students are exposed to Applied Learning and Elective Modules at the Polytechnics and other Tertiary Institutions as well as Learning Journeys to various organisations. Career Fairs and invited speakers comprising members of our alumni and esteemed individuals from various organisations are also invited to share their expertise with our students. 
+At lower secondary, we focus on self-awareness and exploration. This is done through the Talent Take-Off Programme (see previous tab).
 
-Simultaneously throughout the years in SACSS, our girls are provided with advice and guidance on various topics through their Values Education lessons, assembly programme and enrichment programmes. These include Cyber-Wellness, Stress Management and Personal Grooming.
+As the students progress to upper secondary, we focus on providing varied opportunities and experiences to guide students to make informed decisions in planning for post-secondary academic and career pathways:
+
+*   Applied Learning Modules (ApLM@ITE and ApLM@Poly)
+    
+*   Career Experience during school holidays
+    
+*   Career fairs at other institutions
+    
+*   Entrepreneurship workshop for St Magdelene’s Club students
+    
+*   Experience ITE Programme&nbsp;
+    
+*   Polytechnic and NAFA taster workshops
+    
+*   Polytechnic open houses during S4/5 orientation week
+    
+*   Sharing by alumni, institutions and industry partners
+    
+
+The school provides support for graduating students by ensuring that they are confident and capable in preparing their EAE and DSA applications. Some of the programs organised to hone their skills include:&nbsp;
+
+*   Grooming and etiquette workshop&nbsp;
+    
+*   Interview skills workshop
+    
+*   Personal statement writing workshop
+    
+*   Structural referral programme
+    
+*   Mock interviews to prepare for upcoming interviews
+    
+
 
 |   |   |
 |:---:|:---:|
