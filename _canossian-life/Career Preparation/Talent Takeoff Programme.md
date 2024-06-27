@@ -3,21 +3,22 @@ title: Talent Takeoff Programme
 permalink: /canossian-life/Career-Preperation/talent-takeoff-programme/
 description: ""
 third_nav_title: Career Preparation
+variant: markdown
 ---
+**Igniting Passions, Shaping Futures: Our Lower Secondary Talent Take-off Programme**
 
+The Talent Takeoff Programme provides our students with the opportunity to explore emerging economies even as they develop their 21st century competencies. This will help them discover their unique ikigai - their reason for being, and also prepare them for the complexities of the dynamic world.
 
-The Talent Take Off programme is a customised lower secondary programme based on the principle of Inquiry Based Learning. Students are guided through a series of courses and workshops before they actually embark on Global Challenge which is intended to bridge a gap or make a positive difference.
+**Key Areas of Exploration:**
 
-To that end, our girls gain exposure to various Worlds and the associated careers within these worlds. These include the following:
+Through immersive learning journeys and workshops, students will uncover their career interests across four key skills future economies:
 
-*   Healthy World: _nurse, health app developer, chef, fitness instructor_
-*   Beautiful World: _graphic designer, film maker, civil engineer, architect_
-*   Sustainable World: _climate change advocate, Nparks Officer, Zoologist_
-*   Equal World: _social worker, lawyer, youth worker_
-*   Informed World: _journalist, accountant, advertising_
-*   Safe World: _police officer, cybersecurity consultant_
+*   **Care Economy:** Healthcare, social services, and community development.
+    
+*   **Green Economy:** Sustainability, environmental protection, and renewable energy.
+    
 
-In the process of working towards the Global Challenge, our students research skills, project planning skills, proposal writing, digital marketing and other relevant 21st century skills. The idea of making a positive difference stems from the premise of ensuring the “Cause before the Course”. Hence, it is necessary for students to see that adding value to a career choice is also about the ability to give back to society and that, in and of itself, provides a sense of accomplishment and satisfaction, thus making them Canossians of Influence who are ready to lead and serve.
+*   **Digital Economy and Industry 4.0:** Coding, data analysis, cybersecurity, and the cutting-edge technology of the digital age.
 
 |   |   |
 |---|---|
