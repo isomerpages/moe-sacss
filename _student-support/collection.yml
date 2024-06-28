@@ -2,13 +2,13 @@ collections:
   student-support:
     output: true
     order:
-      - Library Services.md
       - Education and Career Guidance.md
       - Sexuality Education.md
       - Mental Health/.keep
       - Mental Health/Mental Health.md
       - Mental Health/Wellness Resources.md
       - Mental Health/Crisis Support.md
+      - Library Services.md
       - Financial Supp Scheme & Awards/.keep
       - Financial Supp Scheme & Awards/Financial Assistance Schemes.md
       - Financial Supp Scheme & Awards/Financial Assistance Awards, Bursaries
