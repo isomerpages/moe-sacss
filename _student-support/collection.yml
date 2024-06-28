@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - Library Services.md
-      - Academic/.keep
-      - Academic/Self Study Programme.md
-      - Academic/Education Support.md
       - Education and Career Guidance.md
       - Sexuality Education.md
       - Mental Health/.keep
