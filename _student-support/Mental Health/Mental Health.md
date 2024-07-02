@@ -14,7 +14,7 @@ The SACSS Wellbeing Team brings together a group of three remarkable counsellors
 **Alternatively, you may also walk into the St Raphael Wellness Centre to fill in a self-referral form to seek an appointment with the school counsellors.**
 
 Our Counsellors: 
-* Ms Gayathri Devi Kaneson (Full Time School Counsellor) [[gayathri_devi_kaneson@moe.edu.sg](gayathri_devi_kaneson@moe.edu.sg)]
+* Ms Gayathri Devi Kaneson (Senior School Counsellor) [[gayathri_devi_kaneson@moe.edu.sg](gayathri_devi_kaneson@moe.edu.sg)]
 * Ms Rachael Goh (Full Time School Counsellor) [[goh_cai_yun_rachael@moe.edu.sg](goh_cai_yun_rachael@moe.edu.sg)]
 * Mdm Christine Lim (Flexi Adjunct School Counsellor) [[christine_lim_peck_sim@moe.edu.sg](christine_lim_peck_sim@moe.edu.sg)]
 
