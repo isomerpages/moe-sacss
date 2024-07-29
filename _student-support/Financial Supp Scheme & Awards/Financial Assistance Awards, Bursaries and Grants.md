@@ -70,5 +70,5 @@ serves to provide short to medium-term additional financial aid to students
 in SACSS who are under the school’s financial assistance schemes. This
 fund will support families for a period of 3 months or 6 months per application,
 for up to 3 years, depending on the home situation.</p>
-<p>For the online application form and eligibility criteria, please click&nbsp;
-<a href="https://forms.zohopublic.com/SACSS/form/SACSSCareFund/formperma/ZgBZAiudYa1OtrjflBS1H9u_jo2RMd64DbTyCkAQ530" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For the online application form and eligibility criteria, please click
+<a href="/files/SACSS_Care_Fund.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
