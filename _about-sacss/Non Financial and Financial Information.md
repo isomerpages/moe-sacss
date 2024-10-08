@@ -2,6 +2,7 @@
 title: Non Financial and Financial Information
 permalink: /about-sacss/school-management/financial-information/
 description: ""
+variant: markdown
 ---
 ### Non-Financial Information
 
@@ -9,7 +10,7 @@ description: ""
 
 **Address:**&nbsp;1600 Bedok North Avenue 4, Singapore 469700
 
-**Contact Information:**&nbsp;Mdm Diane Wong (Admin Manager)
+**Contact Information:**&nbsp;Mr Tan Kuan Yong Shawn (Admin Manager)
 
 **Telephone No:**&nbsp;(65)&nbsp;64490616
 
