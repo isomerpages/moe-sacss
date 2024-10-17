@@ -19,6 +19,14 @@ sections:
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infopic:
+      title: SACSS Open House 2024
+      id: infopic
+      description: Join us for our Open House 16 November 2024
+      button: Click here for more details
+      url: https://stanthonyscanossiansec.moe.edu.sg/open-house/
+      alt: Image alt text
+      image: /images/Open_House_2024_Poster.png
+  - infopic:
       title: "In Fiamme: SACSS Night Festival 2024"
       description: Please click the link for more information and ticketing details.
       button: Full Details here
@@ -33,11 +41,4 @@ sections:
       image: /images/Corporate_Video_Thumbnail.png
       url: https://youtu.be/3bjGdkM-ABM
       alt: School Corporate Video
-  - infopic:
-      title: SACSS Open House 2024
-      id: infopic
-      description: Join us for our Open House 16 November 2024
-      button: Click here for more details
-      url: https://stanthonyscanossiansec.moe.edu.sg/open-house/
-      alt: Image alt text
 ---
