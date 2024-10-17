@@ -6,8 +6,8 @@ variant: markdown
 ---
 SACSS Open House 2024
 ---------------------
-![](/images/sacss%20open%20house%202023.jpeg)
-**Check out our Open House e-Brochure by clicking on the link below.**
+![](/images/Open_House_2024_Poster.png)
+**Check out our Open House Microsite by clicking on the link below.**
 
 [SACSS Open House 2024 Microsite](https://sites.google.com/moe.edu.sg/sacssopenhouse2024/home)
 
@@ -24,4 +24,4 @@ Visit us on [Facebook](https://www.facebook.com/SACSSOfficial) and [Instagram](h
 
 Find out more about our [Performing Arts](/canossian-life/Performing-Arts-Niche/performing-arts-ccas/), [Sports](/canossian-life/Sports-CCAs/sports-clubs-uniform-group-ccas/), [Uniformed Group](/canossian-life/Clubs-and-Uniform-Group-CCAs/) and [Club](/canossian-life/Clubs-and-Uniform-Group-CCAs/) CCAs.
 
-***Physical visits are by registration only.**
+**All are welcome!**
