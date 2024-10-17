@@ -25,7 +25,7 @@ sections:
       button: Click here for more details
       url: https://stanthonyscanossiansec.moe.edu.sg/open-house/
       alt: Image alt text
-      image: /images/Open_House_2024_Poster.png
+      image: /images/Open_House_2024_insta_post__1_.jpg
   - infopic:
       title: School Corporate Video
       description: School Corporate Video. A special video specially created by our
