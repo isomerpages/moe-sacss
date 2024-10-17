@@ -24,4 +24,4 @@ Visit us on [Facebook](https://www.facebook.com/SACSSOfficial) and [Instagram](h
 
 Find out more about our [Performing Arts](/canossian-life/Performing-Arts-Niche/performing-arts-ccas/), [Sports](/canossian-life/Sports-CCAs/sports-clubs-uniform-group-ccas/), [Uniformed Group](/canossian-life/Clubs-and-Uniform-Group-CCAs/) and [Club](/canossian-life/Clubs-and-Uniform-Group-CCAs/) CCAs.
 
-**All are welcome!**
+**Looking forward to seeing you on 16 November 2024, 9.00 to 11.00 a.m.**
