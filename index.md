@@ -27,13 +27,6 @@ sections:
       alt: Image alt text
       image: /images/Open_House_2024_Poster.png
   - infopic:
-      title: "In Fiamme: SACSS Night Festival 2024"
-      description: Please click the link for more information and ticketing details.
-      button: Full Details here
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/infiamme/
-      image: /images/Night_Festival___Announcement_Pic.jpg
-      alt: SACSS Night Festival 2024
-  - infopic:
       title: School Corporate Video
       description: School Corporate Video. A special video specially created by our
         Student Leaders.
