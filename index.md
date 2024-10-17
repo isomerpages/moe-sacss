@@ -27,7 +27,8 @@ sections:
       alt: SACSS Night Festival 2024
   - infopic:
       title: School Corporate Video
-      description: School Corporate Video
+      description: School Corporate Video. A special video specially created by our
+        Student Leaders.
       button: Watch here
       image: /images/Corporate_Video_Thumbnail.png
       url: https://youtu.be/3bjGdkM-ABM
