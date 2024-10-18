@@ -23,7 +23,7 @@ Come visit us on 16 November 2024 (Saturday) and explore the school grounds, exp
 
 Visit us on [Facebook](https://www.facebook.com/SACSSOfficial) and [Instagram](https://www.instagram.com/stanthonyscanossiansec/) to check out updates on School Life.
 
-Find out more about our [Performing Arts](/canossian-life/Performing-Arts-Niche/performing-arts-ccas/), [Sports](/canossian-life/Sports-CCAs/sports-clubs-uniform-group-ccas/), [Uniformed Group](/canossian-life/Clubs-and-Uniform-Group-CCAs/) and [Club](/canossian-life/Clubs-and-Uniform-Group-CCAs/) CCAs.
+Find out more about our [Performing Arts](https://www.stanthonyscanossiansec.moe.edu.sg/canossian-life/performing-arts-ccas/), [Sports](/canossian-life/Sports-CCAs/sports-clubs-uniform-group-ccas/), [Uniformed Group](/canossian-life/Clubs-and-Uniform-Group-CCAs/) and [Club](/canossian-life/Clubs-and-Uniform-Group-CCAs/) CCAs.
 
 **Looking forward to seeing you on 16 November 2024, 9.00 to 11.00 a.m.**
 ![](/images/Open_House_2024_Poster.png)
