@@ -11,9 +11,9 @@ open from <strong>21 October 2024 (Monday)</strong> and will close on <strong>10
 <p>Do come forward to nominate our deserving teachers who have supported
 you in your educational journey and affirm them by submitting your online
 nominations:</p>
-<p><a href="https://go.gov.sg/pat2024" rel="noopener noreferrer nofollow" target="_blank">PAT 2025</a>
+<p><a href="https://go.gov.sg/pat2025" rel="noopener noreferrer nofollow" target="_blank">PAT 2025</a>
 </p>
-<p><a href="https://go.gov.sg/oyea2024" rel="noopener noreferrer nofollow" target="_blank">OYEA 2025</a>
+<p><a href="https://go.gov.sg/oyea2025" rel="noopener noreferrer nofollow" target="_blank">OYEA 2025</a>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -31,11 +31,13 @@ nominations:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/One stop/PAT_2025.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20oyea%20poster.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/One stop/OYEA_2025.png">
 </div>
 </td>
 </tr>
