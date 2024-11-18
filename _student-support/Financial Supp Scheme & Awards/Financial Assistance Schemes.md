@@ -6,4 +6,5 @@ third_nav_title: Financial Supp Scheme & Awards
 variant: tiptap
 ---
 <p>Refer to this link for the various financial support schemes available.</p>
-<p>Download Schemes</p>
+<p><a href="SACSS_FAS" rel="noopener nofollow" target="_blank">Download Schemes</a>
+</p>
