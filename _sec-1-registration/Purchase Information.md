@@ -78,10 +78,19 @@ your Inbox.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase5.png">
 </div>
-<p>&nbsp;&nbsp;</p>
 <p><u>Ordering Uniforms</u>
 </p>
-<p>&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase8.png">
+</div>
 <p>Step 3 : <strong><em>Home Delivery FAQ / Self-Collection FAQ</em>&nbsp;</strong>
 </p>
 <p>A step-by-step guide is provided for you on the website.</p>
