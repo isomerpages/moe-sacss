@@ -5,15 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><u>Information for Appeal into St. Anthony’s Canossian Secondary School</u></strong></h4>
-<p>1.&nbsp; Appeal to transfer into SACSS (Non-Medical Reasons)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Primary 6 students who have received their secondary school posting for
-2025 admission can appeal for a transfer to SACSS by completing this
-<a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">form</a>. Alternatively, you can access the form directly through the
-following link: <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
+<p>1.&nbsp; Appeal to transfer into SACSS, Primary 6 students who have received
+their secondary school posting for 2025 admission can appeal for a transfer
+to SACSS by completing this <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">form</a>. Alternatively,
+you can access the form directly through the following link: <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Transfers will be subject to available vacancies and the school’s admission
 criteria.&nbsp;</p>
@@ -26,7 +23,7 @@ criteria.&nbsp;</p>
 the purpose of appealing for a secondary school transfer.</p>
 </li>
 <li>
-<p>The deadline for submitting non-medical appeals is <strong>12 pm on Thursday, 26 December 2024</strong>.
+<p>The deadline for submitting appeals is <strong>12 pm on Thursday, 26 December 2024</strong>.
 Late submissions will not be considered.</p>
 </li>
 <li>
