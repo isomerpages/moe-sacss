@@ -34,4 +34,12 @@ sections:
       image: /images/Corporate_Video_Thumbnail.png
       url: https://youtu.be/3bjGdkM-ABM
       alt: School Corporate Video
+  - infobar:
+      title: 2025 Sec 1 Registration
+      subtitle: Add informational text
+      id: infobar
+      description: We will be conducting the Secondary 1 Registration online on 19
+        December 2024 (Thursday).
+      button: Click here for more details
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/sec-1-registration/
 ---
