@@ -37,11 +37,6 @@ skirts.</p>
 3 blue PE-shirts, 3 PE-shorts, 1 tie and 3 or 4 pairs of school white socks/white
 socks (assuming regular washing of clothes is done within the week).</p>
 </li>
-<li>
-<p>SACSS Name Tag</p>
-<p>The school will notify your daughter to collect and pay for her name tag
-from the bookshop by February 2025.&nbsp;</p>
-</li>
 </ul>
 <p><strong><u>Guide to Pacific Bookstore’s website</u></strong>
 </p>
