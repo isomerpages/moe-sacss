@@ -18,6 +18,13 @@ sections:
         - title: SACSS Facebook
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
+  - infobar:
+      title: 2025 Sec 1 Registration
+      id: infobar
+      description: We will be conducting the Secondary 1 Registration online on 19
+        December 2024 (Thursday).
+      button: Click here for more details
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/sec-1-registration/
   - infopic:
       title: SACSS Open House 2024
       id: infopic
