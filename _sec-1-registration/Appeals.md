@@ -42,9 +42,4 @@ the appeal was unsuccessful.<strong>&nbsp;</strong>
 </p>
 </li>
 </ul>
-<p><strong>Frequently Asked Questions&nbsp;</strong>
-</p>
-<p>You can access the FAQ <a href="https://drive.google.com/file/d/12fHQbxQTKXk7hMoPbVoiIaPG7yrQUnRZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_new">here</a> or
-access it directly using the link below:
-<br><a href="https://drive.google.com/file/d/12fHQbxQTKXk7hMoPbVoiIaPG7yrQUnRZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/12fHQbxQTKXk7hMoPbVoiIaPG7yrQUnRZ/view?usp=drive_link</a>
-</p>
+<p></p>
