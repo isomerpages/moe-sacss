@@ -48,6 +48,9 @@ from the bookshop by February 2025.&nbsp;</p>
 <p>Step 1 : <strong><em>Log in to Pacific Bookstore’s website</em></strong>
 </p>
 <p><a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase1.png">
+</div>
 <p>Step 2 : <strong><em>Register and create a personal log-in account</em></strong>
 </p>
 <p>(1) A personal log-in account with a password of minimum 8 characters
@@ -59,7 +62,9 @@ your Inbox.</p>
 <p>(3) <u>Click on the verification link</u> to complete your sign-up process.&nbsp;</p>
 <p><u>Registration</u>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase2.png">
+</div>
 <p>&nbsp;</p>
 <p><u>Email Acknowledgement</u>
 </p>
