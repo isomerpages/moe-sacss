@@ -60,41 +60,28 @@ all parents and students.</p>
 <p>The session will end approximately at 10.30 am.</p>
 </li>
 </ul>
-<p><strong>2.&nbsp;&nbsp; <u>Secondary 1 Acceptance Form</u></strong>
+<p><strong>2.&nbsp;&nbsp; <u>Administrative Details for MOE Financial Assistance Scheme (For MOE FAS)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please complete and submit the online acceptance form to acknowledge that
-your daughter/ward is accepting her posting to SACSS. You may access the
-form <strong><a href="https://form.gov.sg/658041ee38ddfa001217c922" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p>If you have applied for the 2025 MOE FAS, the school will notify you via
+Parents’ Gateway about the administrative procedures.</p>
 </li>
 <li>
-<p>Students who have been posted to SACSS but intend to appeal to another
-school should still complete the form for administrative purposes.</p>
+<p><strong>Collection dates for books and uniforms: 19, 20, 23, 26</strong> and <strong>27</strong>  <strong>December 2024</strong>.
+Please remember to make an e-appointment on the Pacific Bookstore website.</p>
 </li>
 <li>
-<p>If your appeal to another school is successful, please kindly notify the
-SACSS General Office at 6449 0616.</p>
-</li>
-</ul>
-<p><strong><u>3.&nbsp;&nbsp; Administrative Details for MOE Financial Assistance Scheme (For MOE FAS)</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If you have applied for 2024 MOE FAS, you will be notified by the school
-(via Parents’ Gateway) on the administrative procedures.</p>
+<p>If you intend to apply for the 2024 MOE FAS, you may access the application
+form <strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 </li>
 <li>
-<p>Collection date for books and uniform: <strong>26 or 27 December 2023 (Tuesday or Wednesday)</strong>.
-Please remember to make an e-appointment on the pacific bookstore website.</p>
-</li>
-<li>
-<p>If you intend to apply for 2024 MOE FAS, you may click on the application
-form <strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+<p>Alternatively, you can access the form directly through the following
+link: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6666a548f71e023bcbe7c9b7</a>
 </p>
 </li>
 </ul>
-<p><strong><u>4. Information on Subject-Based Banding (SBB) and Higher Mother Tongue (HMT) Eligibility</u></strong>
+<p><strong>3.&nbsp;&nbsp; <u>Information on Subject-Based Banding (SBB) and Higher Mother Tongue (HMT) Eligibility</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -102,12 +89,14 @@ form <strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofol
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>You will be informed via Parents Gateway by <strong>22 Dec 2023</strong> if
-your child is eligible to take a subject at a more demanding level.</p>
+<p>You will be informed via Parents Gateway on <strong>Friday</strong>, <strong>20 Dec 2024</strong> if
+your child is eligible to take a higher-level subject.</p>
 </li>
 <li>
-<p>Please respond with your acceptance/rejection by<strong> 26 Dec 2023, 5pm</strong>.
-If you have any questions, you may email our school’s SBB Coordinator,
+<p>Please respond with your acceptance or rejection by <strong>Wednesday, 24 Dec 2024, 12pm</strong>.</p>
+</li>
+<li>
+<p>If you have any questions, you may email our school’s SBB Coordinator,
 Mr. Andrew Seah, directly at <a rel="noopener noreferrer nofollow" target="_blank">seah_hui_shan_andrew@moe.edu.sg</a>
 </p>
 </li>
@@ -129,9 +118,9 @@ Mr. Andrew Seah, directly at <a rel="noopener noreferrer nofollow" target="_blan
 or (ii) Distinction/Merit in HMTL.</p>
 </li>
 <li>
-<p>If your child is eligible to offer HMT, you would have received the notification
-with your result slips. You will be informed via Parents Gateway on 22
-Dec 2023 if your child is eligible.</p>
+<p>If your child is eligible to offer HMT, you will have received this notification
+along with the result slips. You will also be informed via Parents Gateway
+on <strong>Friday</strong>, <strong>20 December 2025</strong>.</p>
 </li>
 <li>
 <p><strong>Please note that HMT lessons will be offered in designated external Higher Mother Tongue Centres after school.</strong>
@@ -143,9 +132,9 @@ Dec 2023 if your child is eligible.</p>
 <p>Offering MTL at Less Demanding Level (LDL)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students with difficulties coping with the subject have the option to
-offer Mother Tongue Languages (MTL) at a less demanding level based on
-their performances at the PSLE.</p>
+<p>Students who experience difficulties in coping with the subject have the
+option to offer Mother Tongue Languages (MTL) at a less demanding level,
+based on their PSLE performance.</p>
 </li>
 </ul>
 </li>
@@ -215,23 +204,74 @@ their performances at the PSLE.</p>
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Students who have met the above PSLE MTL grade criteria can choose
-to offer MTL at a less demanding level if they prefer.</p>
-</li>
-<li>
-<p>For more information, please email HOD/MTL, Mdm Tay Hui Cheng, at <a rel="noopener noreferrer nofollow" target="_blank">tay_hui_cheng_a@moe.edu.sg</a>
+<p>Students who meet the above PSLE MTL grade criteria may choose to offer
+MTL at a less demanding level if they prefer. However, we recommend that
+these students initially pursue MTL at the highest level (aligned with
+their posting group) and try the subject for at least one year before deciding
+to switch to a less demanding level. A Parents Gateway (PG) notification
+with additional details will be sent to the parents of eligible students.&nbsp;</p>
+<p>For more information, please email ST/CL, Mdm Gu Yuanyuan, at <a rel="noopener noreferrer nofollow" target="_blank">gu_yuanyuan@moe.edu.sg</a>
 </p>
 </li>
 </ul>
-<p><strong><u>5.&nbsp;&nbsp; Books, Stationery, Uniform &amp; PE Attire Purchase Information (For non-MOE FAS)</u></strong>
+<p><strong>4.&nbsp;&nbsp; <u>Books, Stationery, Uniform &amp; PE Attire Purchase Information (For non-MOE FAS)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>You can access the booklist <strong><a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1_Final2024A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p>You can view the booklist <a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf" rel="noopener noreferrer nofollow" target="_new">here</a> or
+access it directly via the link below:
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf</a>
+</p>
 </li>
 <li>
-<p>You may refer to this <strong><a href="/files/Books_and_Uniform_Purchase_Info.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a></strong>
-<a href="/files/Books_and_Uniform_Purchase_Info.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>for more details about books and uniform purchase.</p>
+<p><strong>Collection dates</strong> for books and uniforms are on <strong>19, 20, 23, 26, and 27 December 2024</strong>.
+Please ensure you make an <strong>e-appointment</strong> on the Pacific Bookstore
+website.</p>
 </li>
 </ul>
+<p><strong><u>Information for Appeal into St. Anthony’s Canossian Secondary School</u></strong>
+</p>
+<p><strong>&nbsp;</strong>1.&nbsp; Appeal to transfer into SACSS</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 6 students who have received their secondary school posting for
+2025 admission can appeal for a transfer to SACSS by completing this
+<a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">form</a>. Alternatively, you can access the form directly through the
+following link: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
+</p>
+</li>
+<li>
+<p>Transfers will be subject to available vacancies and the school’s admission
+criteria.&nbsp;</p>
+</li>
+</ul>
+<p>Please also note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The personal information provided in this form will be used solely for
+the purpose of appealing for a secondary school transfer.</p>
+</li>
+<li>
+<p>The deadline for submitting non-medical appeals is <strong>12 pm on Thursday, 26 December 2024</strong>.
+Late submissions will not be considered.</p>
+</li>
+<li>
+<p>Schools are not required to disclose the reasons for the selection or
+non-selection of students.</p>
+</li>
+<li>
+<p>Students should still report to their posted secondary school on <strong>2 January 2025 (Thursday)</strong>.</p>
+</li>
+<li>
+<p>The application will be considered unsuccessful if you do not hear from
+the school by <strong>2 January 2025 (Thursday)</strong>.<strong>&nbsp;</strong>
+</p>
+</li>
+</ul>
+<p><strong>Frequently Asked Questions&nbsp;</strong>
+</p>
+<p>You can access the FAQ <a href="https://drive.google.com/file/d/12fHQbxQTKXk7hMoPbVoiIaPG7yrQUnRZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_new">here</a> or
+access it directly using the link below:
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/12fHQbxQTKXk7hMoPbVoiIaPG7yrQUnRZ/view?usp=drive_link</a>
+</p>
 <p></p>
