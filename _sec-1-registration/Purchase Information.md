@@ -65,7 +65,9 @@ your Inbox.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase2.png">
 </div>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase3.png">
+</div>
 <p><u>Email Acknowledgement</u>
 </p>
 <p></p>
