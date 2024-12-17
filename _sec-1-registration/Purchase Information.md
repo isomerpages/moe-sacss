@@ -70,9 +70,14 @@ your Inbox.</p>
 </div>
 <p><u>Email Acknowledgement</u>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase4.png">
+</div>
 <p><u>Ordering Text Books</u>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1 Registration/Purchase5.png">
+</div>
 <p>&nbsp;&nbsp;</p>
 <p><u>Ordering Uniforms</u>
 </p>
