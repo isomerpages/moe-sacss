@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><u>Information for Appeal into St. Anthony’s Canossian Secondary School</u></strong></h4>
-<p>1.&nbsp; Appeal to transfer into SACSS, Primary 6 students who have received
-their secondary school posting for 2025 admission can appeal for a transfer
-to SACSS by completing this <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">form</a>. Alternatively,
-you can access the form directly through the following link: <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
+<p><u>Appeal to transfer into SACSS</u>
+</p>
+<p>Primary 6 students who have received their secondary school posting for
+2025 admission can appeal for a transfer to SACSS by completing this
+<a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">form</a>. Alternatively, you can access the form directly through the
+following link: <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
