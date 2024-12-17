@@ -24,7 +24,7 @@ all parents and students.</p>
 <p>Join Zoom Meeting:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/86818175206</a>
+<p><a href="https://moe-singapore.zoom.us/j/86818175206" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/86818175206</a>
 </p>
 </li>
 <li>
@@ -77,7 +77,7 @@ form <strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofol
 </li>
 <li>
 <p>Alternatively, you can access the form directly through the following
-link: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6666a548f71e023bcbe7c9b7</a>
+link: <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6666a548f71e023bcbe7c9b7</a>
 </p>
 </li>
 </ul>
@@ -97,7 +97,7 @@ your child is eligible to take a higher-level subject.</p>
 </li>
 <li>
 <p>If you have any questions, you may email our school’s SBB Coordinator,
-Mr. Andrew Seah, directly at <a rel="noopener noreferrer nofollow" target="_blank">seah_hui_shan_andrew@moe.edu.sg</a>
+Mr. Andrew Seah, directly at <a href="seah_hui_shan_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_hui_shan_andrew@moe.edu.sg</a>
 </p>
 </li>
 </ul>
@@ -210,7 +210,7 @@ these students initially pursue MTL at the highest level (aligned with
 their posting group) and try the subject for at least one year before deciding
 to switch to a less demanding level. A Parents Gateway (PG) notification
 with additional details will be sent to the parents of eligible students.&nbsp;</p>
-<p>For more information, please email ST/CL, Mdm Gu Yuanyuan, at <a rel="noopener noreferrer nofollow" target="_blank">gu_yuanyuan@moe.edu.sg</a>
+<p>For more information, please email ST/CL, Mdm Gu Yuanyuan, at <a href="gu_yuanyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gu_yuanyuan@moe.edu.sg</a>
 </p>
 </li>
 </ul>
@@ -220,7 +220,7 @@ with additional details will be sent to the parents of eligible students.&nbsp;<
 <li>
 <p>You can view the booklist <a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf" rel="noopener noreferrer nofollow" target="_new">here</a> or
 access it directly via the link below:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf</a>
+<br><a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf</a>
 </p>
 </li>
 <li>
