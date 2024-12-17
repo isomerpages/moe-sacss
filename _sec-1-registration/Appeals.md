@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><u>Information for Appeal into St. Anthony’s Canossian Secondary School</u></strong></h4>
-<p><strong>&nbsp;</strong>1.&nbsp; Appeal to transfer into SACSS</p>
+<p>1.&nbsp; Appeal to transfer into SACSS (Non-Medical Reasons)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Primary 6 students who have received their secondary school posting for
@@ -34,11 +34,12 @@ Late submissions will not be considered.</p>
 non-selection of students.</p>
 </li>
 <li>
-<p>Students should still report to their posted secondary school on <strong>2 January 2025 (Thursday)</strong>.</p>
+<p>Students who have not heard back from the school should report to their
+posted secondary school on <strong>2 January 2025 (Thursday)</strong>.</p>
 </li>
 <li>
-<p>The application will be considered unsuccessful if you do not hear from
-the school by <strong>2 January 2025 (Thursday)</strong>.<strong>&nbsp;</strong>
+<p>If you do not hear from the school by <strong>2 January 2025 (Thursday)</strong>,
+the appeal was unsuccessful.<strong>&nbsp;</strong>
 </p>
 </li>
 </ul>
