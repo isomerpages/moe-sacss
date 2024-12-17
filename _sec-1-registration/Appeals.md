@@ -11,7 +11,7 @@ description: ""
 <p>Primary 6 students who have received their secondary school posting for
 2025 admission can appeal for a transfer to SACSS by completing this
 <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">form</a>. Alternatively, you can access the form directly through the
-following link: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
+following link: <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
 </p>
 </li>
 <li>
@@ -46,6 +46,6 @@ the school by <strong>2 January 2025 (Thursday)</strong>.<strong>&nbsp;</strong>
 </p>
 <p>You can access the FAQ <a href="https://drive.google.com/file/d/12fHQbxQTKXk7hMoPbVoiIaPG7yrQUnRZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_new">here</a> or
 access it directly using the link below:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/12fHQbxQTKXk7hMoPbVoiIaPG7yrQUnRZ/view?usp=drive_link</a>
+<br><a href="https://drive.google.com/file/d/12fHQbxQTKXk7hMoPbVoiIaPG7yrQUnRZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/12fHQbxQTKXk7hMoPbVoiIaPG7yrQUnRZ/view?usp=drive_link</a>
 </p>
 <p></p>
