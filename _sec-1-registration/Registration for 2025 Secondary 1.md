@@ -80,7 +80,7 @@ your child is eligible to take a higher-level subject.</p>
 </li>
 <li>
 <p>If you have any questions, you may email our school’s SBB Coordinator,
-Mr. Andrew Seah, directly at <strong>seah_hui_shan_andrew@moe.edu.sg</strong> 
+Mr. Andrew Seah, directly at <strong>seah_hui_shan_andrew@moe.edu.sg</strong>
 </p>
 </li>
 </ul>
@@ -205,11 +205,6 @@ with additional details will be sent to the parents of eligible students.&nbsp;<
 access it directly via the link below:
 <br><a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf</a>
 </p>
-</li>
-<li>
-<p><strong>Collection dates</strong> for books and uniforms are on <strong>19, 20, 23, 26, and 27 December 2024</strong>.
-Please ensure you make an <strong>e-appointment</strong> on the Pacific Bookstore
-website.</p>
 </li>
 </ul>
 <p></p>
