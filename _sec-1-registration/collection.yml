@@ -2,6 +2,6 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - Purchase Information.md
       - Registration for 2025 Secondary 1.md
       - Appeals.md
+      - Purchase Information.md
