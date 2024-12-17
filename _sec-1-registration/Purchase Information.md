@@ -147,16 +147,16 @@ at the point of entrance.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;*** Families who have received the <strong>Financial Assistance Scheme (FAS)</strong> approval
-letter from your daughter’s primary school, the self-collection of the
-books, stationery, uniforms and PE attire is on <strong>26 or 27 December 2024</strong>.
-Families must present the <strong>Financial Assistance Scheme (FAS)</strong> approval
+<p>Families who have received the <strong>Financial Assistance Scheme (FAS)</strong> approval
+letter from your daughter’s primary school may collect the books, stationery,
+uniforms, and PE attire on the same dates as mentioned above*.&nbsp;</p>
+<p>Families must present the <strong>Financial Assistance Scheme (FAS)</strong> approval
 letter from your daughter’s primary school to our General Office to get
 a copy of our approval letter. You are required to pre-select your books
 and uniforms, date&nbsp;and time of collection on the Pacific Bookstore
 website before coming to the school.&nbsp;Walk-ins will not be allowed.
 Please bring along a copy of your&nbsp;approval letter&nbsp;and the&nbsp;Pacific
-Bookstore FAS Order Confirmation letter&nbsp;for collection.&nbsp;&nbsp;</p>
+Bookstore FAS Order Confirmation letter&nbsp;for collection.&nbsp;&nbsp;&nbsp;</p>
 <p>If you have yet to apply for 2025 FAS, you may refer to the link <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> for
 the application form.&nbsp;</p>
 <p><u>Home delivery:</u>
@@ -165,5 +165,4 @@ the application form.&nbsp;</p>
 <p>If you intend to utilize the NTUC Back to School or CDAC e-vouchers for
 your purchases, please have the voucher code ready on hand. You will be
 prompted to key in the voucher code at the payment page.</p>
-<p>&nbsp;</p>
 <p>Thank you</p>
