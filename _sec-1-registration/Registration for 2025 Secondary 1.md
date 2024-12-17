@@ -6,60 +6,43 @@ description: ""
 ---
 <h3><strong><u>2025 Secondary 1 Registration</u></strong></h3>
 <p>A warm welcome and congratulations to all Secondary 1 students who will
-be joining St. Anthony’s Canossian Secondary School (SACSS).</p>
-<p>We will be conducting the Secondary 1 Registration <strong>online</strong> on <strong>19 December 2024</strong> (Thursday).</p>
-<p>Parents and students <strong>do not need</strong> to be physically present
-at the school.</p>
+be joining St. Anthony’s Canossian Secondary School (SACSS)!&nbsp;</p>
+<p>We will be conducting the Secondary 1 Registration online on <strong>19 December 2024 (Thursday)</strong>.&nbsp;</p>
+<p>Parents and students do not need to be physically present at the school.</p>
 <p><strong>1.&nbsp; <u>Secondary 1 Online Registration</u></strong>
 </p>
+<p>Details for the session are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The registration and live dialogue will be held via zoom on <strong>19 December 2024 (Thursday) at 9:00 am</strong> for
-all parents and students.</p>
+<p>The Zoom login details will be available on Parents Gateway starting from
+8:15 am on 19 December 2024.</p>
 </li>
 <li>
-<p><strong>The Zoom Login details are as follows:</strong>
+<p>Please ensure you have downloaded the Parents Gateway mobile application
+from the Apple App Store or Google Play beforehand.</p>
+</li>
+<li>
+<p>You may log in to Parents Gateway from 8:30 am onwards on 19 December
+2024 to retrieve the Zoom details.&nbsp;</p>
+</li>
+</ul>
+<p>The Online Registration Briefing (via Zoom) will start at 9:30 am.&nbsp;</p>
+<p>Programme Schedule:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Welcome Address – <em>Ms. Fiona Koh, School Principal</em>
 </p>
-<p></p>
-<p>Join Zoom Meeting:</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
-<p><a href="https://moe-singapore.zoom.us/j/86818175206" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/86818175206</a>
+<p>Introduction to SACSS – <em>Mr. Roland Lim, Secondary 1 Year Head</em>
 </p>
 </li>
 <li>
-<p>Meeting ID: 868 1817 5206</p>
+<p>Live Question &amp; Answer Session – <em>School Leadership Team</em>&nbsp;</p>
 </li>
-<li>
-<p>Passcode: SACSS</p>
-</li>
-<li>
-<p>Date: 19 December 2024</p>
-</li>
-<li>
-<p>Time: 09:00 a.m</p>
-<p></p>
-</li>
-</ul>
-</li>
-<li>
-<p>The Programme is as follows:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Welcome Address – Vice-Principal, Ms. Melissa Yeo</p>
-</li>
-<li>
-<p>Introduction to SACSS – Secondary 1 Year Head, Mr. Roland Lim</p>
-</li>
-<li>
-<p>Live Question and Answer Session – School Leadership Team</p>
-</li>
-</ul>
-</li>
-<li>
-<p>The session will end approximately at 10.30 am.</p>
-</li>
-</ul>
+</ol>
+<p>The session will conclude at approximately 11.00 am.</p>
+<p>We look forward to meeting all of you virtually!</p>
 <p><strong>2.&nbsp;&nbsp; <u>Administrative Details for MOE Financial Assistance Scheme (For MOE FAS)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -72,7 +55,7 @@ Parents’ Gateway about the administrative procedures.</p>
 Please remember to make an e-appointment on the Pacific Bookstore website.</p>
 </li>
 <li>
-<p>If you intend to apply for the 2024 MOE FAS, you may access the application
+<p>If you intend to apply for the 2025 MOE FAS, you may access the application
 form <strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 </li>
 <li>
@@ -97,7 +80,7 @@ your child is eligible to take a higher-level subject.</p>
 </li>
 <li>
 <p>If you have any questions, you may email our school’s SBB Coordinator,
-Mr. Andrew Seah, directly at <a href="seah_hui_shan_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_hui_shan_andrew@moe.edu.sg</a>
+Mr. Andrew Seah, directly at <strong>seah_hui_shan_andrew@moe.edu.sg</strong> 
 </p>
 </li>
 </ul>
@@ -210,7 +193,7 @@ these students initially pursue MTL at the highest level (aligned with
 their posting group) and try the subject for at least one year before deciding
 to switch to a less demanding level. A Parents Gateway (PG) notification
 with additional details will be sent to the parents of eligible students.&nbsp;</p>
-<p>For more information, please email ST/CL, Mdm Gu Yuanyuan, at <a href="gu_yuanyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gu_yuanyuan@moe.edu.sg</a>
+<p>For more information, please email ST/CL, Mdm Gu Yuanyuan, at <strong>gu_yuanyuan@moe.edu.sg</strong>
 </p>
 </li>
 </ul>
