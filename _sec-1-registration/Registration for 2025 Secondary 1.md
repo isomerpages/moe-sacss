@@ -197,14 +197,4 @@ with additional details will be sent to the parents of eligible students.&nbsp;<
 </p>
 </li>
 </ul>
-<p><strong>4.&nbsp;&nbsp; <u>Books, Stationery, Uniform &amp; PE Attire Purchase Information (For non-MOE FAS)</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>You can view the booklist <a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf" rel="noopener noreferrer nofollow" target="_new">here</a> or
-access it directly via the link below:
-<br><a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/S1.pdf</a>
-</p>
-</li>
-</ul>
 <p></p>
