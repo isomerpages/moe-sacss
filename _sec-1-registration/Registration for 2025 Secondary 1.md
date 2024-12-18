@@ -47,8 +47,9 @@ from the Apple App Store or Google Play beforehand.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If you have applied for the 2025 MOE FAS, the school will notify you via
-Parents’ Gateway about the administrative procedures.</p>
+<p>If you have applied for the 2025 MOE FAS, please approach the school with
+your approval letter from the processing school. We will inform of the
+administrative procedures from there.</p>
 </li>
 <li>
 <p><strong>Collection dates for books and uniforms: 19, 20, 23, 26</strong> and <strong>27</strong>  <strong>December 2024</strong>.
