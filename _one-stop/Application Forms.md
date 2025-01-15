@@ -26,11 +26,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/The_Magdalenian_Education_Grant.pdf" rel="noopener noreferrer nofollow" target="_blank">Magdalenian Education Grant</a>
+<p><a href="https://form.gov.sg/66ed326d0600a84ba70b56fa" rel="noopener nofollow" target="_blank">The Magdalenian Education Grant Care</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Grace_Chew_Compassion_Fund.pdf" rel="noopener noreferrer nofollow" target="_blank">Grace Chew Compassion Fund</a>
+<p><a href="https://form.gov.sg/66f0dd7c0600a84ba7455d84" rel="noopener nofollow" target="_blank">Grace Chew Compassion Fund</a>
 </p>
 </li>
 <li>
@@ -42,8 +42,9 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/SACSS_Care_Fund.pdf" rel="noopener noreferrer nofollow" target="_blank">SACSS_Care_Fund</a>
+<p><a href="https://form.gov.sg/66ecdb458f79422c6d574999" rel="noopener nofollow" target="_blank">SACSS Care Fund</a>
 </p>
+<p></p>
 </li>
 </ol>
 <p></p>
