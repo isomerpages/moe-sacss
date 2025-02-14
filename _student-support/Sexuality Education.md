@@ -778,7 +778,7 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be distributed via Parent’s Gateway,
-and is also accessible <a href="go.gov.sg/2025optout" rel="noopener nofollow" target="_blank">here</a>.</p>
+and is also accessible <a href="https://form.gov.sg/67935344295695255dbbb3b3" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Please complete the online opt-out form by the following dates:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary 1: 11<sup>th</sup> August
 2025
@@ -787,7 +787,7 @@ and is also accessible <a href="go.gov.sg/2025optout" rel="noopener nofollow" ta
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary 3: 2<sup>nd</sup> May
 2025
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary 4 &amp; 5:
-2<sup>th</sup> February 2025</p>
+4<sup>th</sup> March 2025</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6449 0616 or email the school at (<a rel="noopener noreferrer nofollow" target="_blank">sacss@moe.edu.sg</a>)
 for discussion or to seek clarification about the school’s sexuality education
