@@ -161,7 +161,7 @@ Information on career sectors, pathways, roles, skills, training, etc.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/ecg-parent-guide" rel="noopener noreferrer nofollow" target="_blank">ECG Parent Guide</a> :
+<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Parent Guide</a> :
 Journeying with our Children, Achieving their Aspirations</p>
 </li>
 <li>
