@@ -22,6 +22,6 @@ variant: tiptap
 </p>
 <p>Remember to register for the Live Dialogue Session happening on 24 May
 2025.</p>
-<p><a href="https://form.gov.sg/681afecbc85889e65dc26a08" rel="noopener nofollow" target="_blank">Live Dialogue Resgistration</a>
+<p><a href="https://form.gov.sg/681afecbc85889e65dc26a08" rel="noopener nofollow" target="_blank">Live Dialogue Registration</a>
 </p>
 <p></p>
