@@ -19,13 +19,13 @@ sections:
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infopic:
-      title: SACSS Open House 2024
+      title: SACSS DSA e-Open House 2025
       id: infopic
-      description: Join us for our Open House 16 November 2024
+      description: Join us for our Live Dialogue on 24 May 2025
       button: Click here for more details
-      url: https://stanthonyscanossiansec.moe.edu.sg/open-house/
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/sacssdsa/
       alt: Image alt text
-      image: /images/Open_House_2024_insta_post__1_.jpg
+      image: /images/DSA_eopen_house_2025__7_.jpg
   - infopic:
       title: School Corporate Video
       description: School Corporate Video. A special video specially created by our
