@@ -40,7 +40,8 @@ spirituality, health, learning and relationships. Eating healthy, getting
 enough sleep, and exercising are also important habits that will help improve
 one’s mental health.</p>
 <p></p>
-<p>Resources for parents:</p>
+<p><strong>Resources for parents:</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -133,7 +134,7 @@ Mental Health and support</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>School Bag Articles</strong>
+<p>&nbsp;<strong>School Bag Articles:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
