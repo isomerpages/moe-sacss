@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.mindline.sg/wysa-chat" rel="noopener noreferrer nofollow" target="_blank">Mindline Chat</a></strong>
+<p><strong><a href="https://www.touch.org.sg/get-assistance/counselling-and-mental-wellness.html" rel="noopener noreferrer nofollow" target="_blank">TouchLine</a></strong>
 </p>
 </li>
 <li>
