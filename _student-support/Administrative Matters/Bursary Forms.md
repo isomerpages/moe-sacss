@@ -39,6 +39,7 @@ an SACSS alumnus, this bursary also aims to nurture youth leaders who can
 adopt an entrepreneurial and innovation-focused approach to community issues
 through training and mentoring. An addition to the school’s Character Awards,
 it is open to students from Secondary 2 to Secondary 5.</p>
+<p>For the online application form, please click <a href="https://tinyurl.com/TYYbursary" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Grace Chew Compassion Fund</strong>
 </p>
 <p>The Grace Chew Compassion Fund is a crisis response financial assistance
