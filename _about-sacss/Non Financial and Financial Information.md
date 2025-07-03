@@ -227,7 +227,6 @@ upon to donate items for the organisation.&nbsp;</p>
 </table>
 <p><strong>Key Employees:</strong>
 <br>Ms Koh Tyng Yuann, Fiona (Principal)
-<br>Ms Chionh Chew Ping (Vice-Principal)
 <br>Ms Melissa Yeo (Vice-Principal)
 <br>Ms. Chen Huiqing, Christine (Vice-Principal)</p>
 <p><strong>Auditor:</strong> Assurance Partners LLP</p>
