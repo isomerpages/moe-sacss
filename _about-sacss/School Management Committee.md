@@ -45,6 +45,20 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Yee May Kuen Peggy Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01/07/2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Cheong May Aung Mamie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Elizabeth Tham Why Choo</p>
@@ -70,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fan Yue Soon Charles</p>
@@ -84,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Leong Hoe Chng Janelene</p>
@@ -98,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wilson Wong Wie Sarn</p>
@@ -112,24 +126,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Yoke Lin Martina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>01/07/2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yee May Kuen Peggy Sarah</p>
+<p>Wong Yoke Lin Martina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
