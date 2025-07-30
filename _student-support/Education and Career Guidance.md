@@ -109,7 +109,7 @@ of interest</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.ite.edu.sg/admissions/traineeship" rel="noopener noreferrer nofollow" target="_blank">ITE Traineeship Scheme</a> :
+<p><a href="https://www.ite.edu.sg/courses/traineeship-courses" rel="noopener noreferrer nofollow" target="_blank">ITE Traineeship Scheme</a> :
 A formalised 'Earn-as-you-Learn' training arrangement</p>
 </li>
 <li>
