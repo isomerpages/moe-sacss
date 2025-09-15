@@ -109,7 +109,7 @@ of interest</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.ite.edu.sg/courses/traineeship-courses" rel="noopener noreferrer nofollow" target="_blank">ITE Traineeship Scheme</a> :
+<p><a href="https://sites.google.com/moe.edu.sg/kssecg/4nt/ite/ite-traineeship" rel="noopener noreferrer nofollow" target="_blank">ITE Traineeship Scheme</a> :
 A formalised 'Earn-as-you-Learn' training arrangement</p>
 </li>
 <li>
@@ -121,7 +121,7 @@ ITE Admissions to Poly</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/applyeae" rel="noopener noreferrer nofollow" target="_blank">ITE Early Admissions Exercise</a>
+<p><a href="https://www.ite.edu.sg/secondary-school-students/admissions/early-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">ITE Early Admissions Exercise</a>
 </p>
 </li>
 <li>
