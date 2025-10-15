@@ -2,7 +2,7 @@ collections:
   one-stop:
     output: true
     order:
-      - Teacher Awards/CTAs.md
+      - Teacher Awards/Caring Teacher Awards.md
       - Teacher Awards/.keep
       - Teacher Awards/PAT and OYEA.md
       - Community Links/.keep
