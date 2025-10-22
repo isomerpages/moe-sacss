@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Administrative Matters
 variant: tiptap
 ---
-<p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
 </p>
 <p><strong>OBJECTIVE</strong>
 </p>
@@ -24,13 +24,13 @@ or institutes of</p>
 <p>higher learning.</p>
 <p>&nbsp;</p>
 <p>2.&nbsp; The student must meet either one of the following criteria:</p>
-<p>a. <strong>Gross household income (GHI)</strong> as at the time of application <strong>does not exceed $3,000</strong>
+<p>a. Gross household income (GHI) as at the time of application<strong> does not exceed $4,000</strong>
 </p>
-<p><strong>per month</strong>; or</p>
-<p>b. <strong>Household per capita income (PCI)</strong> as at the time of
-application <strong>does not exceed $750</strong>
+<p><strong>per month; </strong>or</p>
+<p>b. Household per capita income (PCI) as at the time of application<strong> does not exceed $1000</strong>
 </p>
-<p><strong>per month</strong>.</p>
+<p><strong>per month.</strong>
+</p>
 <p>&nbsp;</p>
 <p>PCI = Monthly GHI / No. of members in the same household.</p>
 <p><em>*Please refer to the application form for the full eligibility criteria and FAS benefits</em>
