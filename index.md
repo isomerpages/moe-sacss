@@ -21,11 +21,11 @@ sections:
   - infopic:
       title: SACSS DSA e-Open House 2025
       id: infopic
-      description: Join us for our Live Dialogue on 24 May 2025
+      description: Join us for our Open House on 22 November 2025
       button: Click here for more details
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/sacssdsa/
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/open-house/
       alt: Image alt text
-      image: /images/DSA_eopen_house_2025__7_.jpg
+      image: /images/Website_Poster.jpg
   - infopic:
       title: School Corporate Video
       description: School Corporate Video. A special video specially created by our
