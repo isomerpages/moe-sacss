@@ -34,4 +34,11 @@ sections:
       image: /images/Corporate_Video_Thumbnail.png
       url: https://youtu.be/3bjGdkM-ABM
       alt: School Corporate Video
+  - infobar:
+      title: Notice on Student Admission
+      id: infobar
+      description: For more information regarding transfers into SACSS, please click
+        on the link below.
+      button: Click here
+      url: https://stanthonyscanossiansec.moe.edu.sg/notice-on-student-admission/
 ---
