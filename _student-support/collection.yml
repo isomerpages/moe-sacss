@@ -2,7 +2,6 @@ collections:
   student-support:
     output: true
     order:
-      - Secondary One Registration 2026.md
       - Education and Career Guidance.md
       - Sexuality Education.md
       - Mental Health/.keep
@@ -16,3 +15,4 @@ collections:
       - Administrative Matters/Bursary Forms.md
       - Administrative Matters/Other Applications.md
       - Administrative Matters/Booklist & Uniforms.md
+      - Secondary One Registration 2026.md
