@@ -2,6 +2,7 @@ collections:
   student-support:
     output: true
     order:
+      - Secondary One Registration 2026.md
       - Education and Career Guidance.md
       - Sexuality Education.md
       - Mental Health/.keep
