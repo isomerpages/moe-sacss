@@ -332,7 +332,10 @@ by <strong>2 January 2026 (Friday)</strong>, the appeal was unsuccessful.</p>
 using the link below:</p>
 <p><a href="https://drive.google.com/file/d/1O4yDKQKl6l7OBpB5HbThki6ONqr6Z0wx/view?usp=drive_link" rel="noopener nofollow" target="_blank">https://drive.google.com/file/d/1O4yDKQKl6l7OBpB5HbThki6ONqr6Z0wx/view?usp=drive_link</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For general enquiries, please
+email to <a href="mailto:sacss@moe.edu.sg" rel="noopener nofollow" target="_blank">sacss@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
