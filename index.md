@@ -24,7 +24,7 @@ sections:
       description: For more information regarding Secondary One registration, please
         click on the link below.
       button: Click here
-      url: https://staging-lite.dqhoc5lux0l1j.amplifyapp.com/secondary-one-registration-2026/
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/secondary-one-registration-2026/
   - infopic:
       title: SACSS DSA e-Open House 2025
       id: infopic
