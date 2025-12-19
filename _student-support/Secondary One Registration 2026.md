@@ -4,12 +4,10 @@ permalink: /secondary-one-registration-2026/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>2026 Secondary 1 Briefing</u></strong>
 </p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p>A warm welcome and congratulations to all Secondary 1 students who will
 be joining St. Anthony’s Canossian Secondary School (SACSS)!</p>
 <p>We will be conducting the Secondary 1 Online Briefing on <strong>22 December 2025 (Monday)</strong>.</p>
@@ -129,9 +127,7 @@ a higher-level subject.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please respond with your acceptance
 or rejection by Friday, 26 Dec 2025.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have any questions, you may
-email our school’s SBB Coordinator, Mdm. Ang Cheow Tee, directly at &nbsp;
-<a href="ang_cheow_tee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_cheow_tee@moe.edu.sg</a>
-</p>
+email our school’s SBB Coordinator, Mdm. Ang Cheow Tee, directly at ang_cheow_tee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -241,8 +237,7 @@ level. A Parents Gateway (PG) notification with additional details will
 be sent to the parents of eligible students.</p>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For more information, please contact
-Ms Eileen Ong, Head of Department (Mother Tongue Languages), at <a href="ong_sok_eng_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_sok_eng_eileen@moe.edu.sg</a>
-</p>
+Ms Eileen Ong, Head of Department (Mother Tongue Languages), at ong_sock_eng_eileen@moe.edu.sg</p>
 <p>&nbsp;</p>
 </td>
 </tr>
