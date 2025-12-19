@@ -90,23 +90,32 @@ from the Apple App Store or Google Play beforehand.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Details for MOE Financial Assistance Scheme (For MOE FAS)</strong>
+<p><strong>Appeal For Transfer After S1 Posting</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have applied for the 2026
-MOE FAS, the school will notify you via Parents’ Gateway about the administrative
-procedures.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Collection dates for books and uniforms:</strong> 26
-December 2025. Please place your orders online on the Pacific Bookstore
-website before coming down to the school to collect books and uniforms.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please remember to bring along &nbsp;your
-FAS approval letter and order confirmation when collecting your books and
-uniforms.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intend to apply for the 2026
-MOE FAS, you can access the form directly through the following link:
-<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a>
+<p>Appeal to transfer into SACSS</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Primary 6 students who received
+their secondary school posting for 2026 admission can appeal for a transfer
+to SACSS by completing this <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener nofollow" target="_blank">form</a>.</p>
+<p>Alternatively, you can access the form directly through the following
+link: <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
 </p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transfers will be subject to available
+vacancies and the school’s admission criteria.</p>
+<p>&nbsp;</p>
+<p>Please also note:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The personal information provided
+in this form will be used solely for the purpose of appealing for school
+transfer.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The deadline for submitting appeals
+is &nbsp;Friday, 26 December 2025. Late submissions will not be considered.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schools are not required to disclose
+the reasons for the selection or non-selection of students.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who have not heard back
+from the school should report to their posted secondary school on <strong>2 January 2026 (Friday)</strong>.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you do not hear from the school
+by <strong>2 January 2026 (Friday)</strong>, the appeal was unsuccessful.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -291,32 +300,23 @@ need to get their parents to fill up and return the Rental Agreement forms
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Appeal For Transfer After S1 Posting</strong>
+<p><strong>Administrative Details for MOE Financial Assistance Scheme (For MOE FAS)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Appeal to transfer into SACSS</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Primary 6 students who received
-their secondary school posting for 2026 admission can appeal for a transfer
-to SACSS by completing this <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener nofollow" target="_blank">form</a>.</p>
-<p>Alternatively, you can access the form directly through the following
-link: <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have applied for the 2026
+MOE FAS, the school will notify you via Parents’ Gateway about the administrative
+procedures.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Collection dates for books and uniforms:</strong> 26
+December 2025. Please place your orders online on the Pacific Bookstore
+website before coming down to the school to collect books and uniforms.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please remember to bring along &nbsp;your
+FAS approval letter and order confirmation when collecting your books and
+uniforms.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intend to apply for the 2026
+MOE FAS, you can access the form directly through the following link:
+<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transfers will be subject to available
-vacancies and the school’s admission criteria.</p>
-<p>&nbsp;</p>
-<p>Please also note:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The personal information provided
-in this form will be used solely for the purpose of appealing for school
-transfer.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The deadline for submitting appeals
-is &nbsp;Friday, 26 December 2025. Late submissions will not be considered.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schools are not required to disclose
-the reasons for the selection or non-selection of students.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who have not heard back
-from the school should report to their posted secondary school on <strong>2 January 2026 (Friday)</strong>.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you do not hear from the school
-by <strong>2 January 2026 (Friday)</strong>, the appeal was unsuccessful.</p>
 </td>
 </tr>
 <tr>
