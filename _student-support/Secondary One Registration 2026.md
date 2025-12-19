@@ -12,8 +12,6 @@ description: ""
 be joining St. Anthony’s Canossian Secondary School (SACSS)!</p>
 <p>We will be conducting the Secondary 1 Online Briefing on <strong>22 December 2025 (Monday)</strong>.</p>
 <p>Parents and students do not need to be physically present at the school.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p>Please take note of the following information in the table below:</p>
 <table style="minWidth: 75px">
 <colgroup>
