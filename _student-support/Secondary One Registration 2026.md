@@ -125,7 +125,8 @@ a higher-level subject.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please respond with your acceptance
 or rejection by Friday, 26 Dec 2025.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have any questions, you may
-email our school’s SBB Coordinator, Mdm. Ang Cheow Tee, directly at ang_cheow_tee@moe.edu.sg</p>
+email our school’s SBB Coordinator, Mdm. Ang Cheow Tee, directly at <a href="mailto:ang_cheow_tee@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_cheow_tee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +236,8 @@ level. A Parents Gateway (PG) notification with additional details will
 be sent to the parents of eligible students.</p>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For more information, please contact
-Ms Eileen Ong, Head of Department (Mother Tongue Languages), at ong_sock_eng_eileen@moe.edu.sg</p>
+Ms Eileen Ong, Head of Department (Mother Tongue Languages), at <a href="mailto:ong_sok_eng_eileen@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_sok_eng_eileen@moe.edu.sg</a>
+</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -332,7 +334,10 @@ by <strong>2 January 2026 (Friday)</strong>, the appeal was unsuccessful.</p>
 using the link below:</p>
 <p><a href="https://drive.google.com/file/d/1O4yDKQKl6l7OBpB5HbThki6ONqr6Z0wx/view?usp=drive_link" rel="noopener nofollow" target="_blank">https://drive.google.com/file/d/1O4yDKQKl6l7OBpB5HbThki6ONqr6Z0wx/view?usp=drive_link</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For general enquiries, please
+email to <a href="mailto:sacss@moe.edu.sg" rel="noopener nofollow" target="_blank">sacss@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
