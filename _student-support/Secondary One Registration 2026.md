@@ -241,7 +241,7 @@ level. A Parents Gateway (PG) notification with additional details will
 be sent to the parents of eligible students.</p>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For more information, please contact
-Ms Eileen Ong, Head of Department (Mother Tongue Languages), at <a rel="noopener noreferrer nofollow" target="_blank">ong_sok_eng_eileen@moe.edu.sg</a>
+Ms Eileen Ong, Head of Department (Mother Tongue Languages), at <a href="ong_sok_eng_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_sok_eng_eileen@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
