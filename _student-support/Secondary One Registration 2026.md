@@ -109,7 +109,7 @@ FAS approval letter and order confirmation when collecting your books and
 uniforms.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intend to apply for the 2026
 MOE FAS, you can access the form directly through the following link:
-<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a>
+<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -256,10 +256,10 @@ Ms Eileen Ong, Head of Department (Mother Tongue Languages), at <a href="ong_sok
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can&nbsp; view the booklist
 directly using the link below:
-<br><a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/2026_S1_D4.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/2026_S1_D4.pdf</a>
+<br><a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/2026_S1_D4.pdf" rel="noopener nofollow" target="_blank">https://www.stanthonyscanossiansec.moe.edu.sg/files/One%20Stop/Booklist/2026_S1_D4.pdf</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Books and school uniforms can be
-purchased from the Pacific Bookstore website <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>.&nbsp;
+purchased from the Pacific Bookstore website <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com</a>.&nbsp;
 (Please register an account before making your purchase.)</p>
 <p>&nbsp;</p>
 <p>Please take note that parents and guardians can walk in to SACSS to purchase
@@ -303,9 +303,9 @@ need to get their parents to fill up and return the Rental Agreement forms
 <p>Appeal to transfer into SACSS</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Primary 6 students who received
 their secondary school posting for 2026 admission can appeal for a transfer
-to SACSS by completing this <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+to SACSS by completing this <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener nofollow" target="_blank">form</a>.</p>
 <p>Alternatively, you can access the form directly through the following
-link: <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
+link: <a href="https://form.gov.sg/65f918741b0f02af60d45e8b" rel="noopener nofollow" target="_blank">https://form.gov.sg/65f918741b0f02af60d45e8b</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transfers will be subject to available
 vacancies and the school’s admission criteria.</p>
@@ -337,7 +337,7 @@ by <strong>2 January 2026 (Friday)</strong>, the appeal was unsuccessful.</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can access the FAQ directly
 using the link below:</p>
-<p><a href="https://drive.google.com/file/d/1O4yDKQKl6l7OBpB5HbThki6ONqr6Z0wx/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1O4yDKQKl6l7OBpB5HbThki6ONqr6Z0wx/view?usp=drive_link</a>
+<p><a href="https://drive.google.com/file/d/1O4yDKQKl6l7OBpB5HbThki6ONqr6Z0wx/view?usp=drive_link" rel="noopener nofollow" target="_blank">https://drive.google.com/file/d/1O4yDKQKl6l7OBpB5HbThki6ONqr6Z0wx/view?usp=drive_link</a>
 </p>
 <p>&nbsp;</p>
 </td>
