@@ -18,6 +18,13 @@ sections:
         - title: SACSS Facebook
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
+  - infobar:
+      title: 2026 Secondary One Registration
+      id: infobar
+      description: For more information regarding Secondary One registration, please
+        click on the link below.
+      button: Click here
+      url: https://staging-lite.dqhoc5lux0l1j.amplifyapp.com/secondary-one-registration-2026/
   - infopic:
       title: SACSS DSA e-Open House 2025
       id: infopic
@@ -41,11 +48,4 @@ sections:
         on the link below.
       button: Click here
       url: https://stanthonyscanossiansec.moe.edu.sg/notice-on-student-admission/
-  - infobar:
-      title: 2026 Secondary One Registration
-      id: infobar
-      description: For more information regarding Secondary One registration, please
-        click on the link below.
-      button: Click here
-      url: https://staging-lite.dqhoc5lux0l1j.amplifyapp.com/secondary-one-registration-2026/
 ---
