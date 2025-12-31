@@ -29,7 +29,7 @@ sections:
       id: infobar
       description: Please click on the link below for more information.
       button: Click here
-      url: https://stanthonyscanossiansec.moe.edu.sg/timetable-2026/
+      url: https://stanthonyscanossiansec.moe.edu.sg/student-support/timetable-2026/
   - infobar:
       title: 2026 Secondary One Registration
       id: infobar
