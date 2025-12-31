@@ -54,4 +54,10 @@ sections:
         on the link below.
       button: Click here
       url: https://stanthonyscanossiansec.moe.edu.sg/notice-on-student-admission/
+  - infobar:
+      title: Timetable 2026
+      id: infobar
+      description: Please click on the link below for more information.
+      button: Click here
+      url: https://cms.isomer.gov.sg/sites/moe-sacss/homepage
 ---
