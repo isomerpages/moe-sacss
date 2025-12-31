@@ -23,7 +23,7 @@ sections:
       id: infobar
       description: Please click on the link below for more information.
       button: Click here
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/student-support/Orientation_2026.pdf
+      url: files/student-support/Orientation_2026.pdf
   - infobar:
       title: Timetable 2026
       id: infobar
