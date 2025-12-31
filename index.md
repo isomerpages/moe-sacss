@@ -19,6 +19,13 @@ sections:
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infobar:
+      title: Sec 1 to Sec 5 Orientation 2026
+      subtitle: Add informational text
+      id: infobar
+      description: Please click on the link below for more information.
+      button: Click here
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/secondary-one-registration-2026/
+  - infobar:
       title: 2026 Secondary One Registration
       id: infobar
       description: For more information regarding Secondary One registration, please
