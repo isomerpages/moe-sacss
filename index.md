@@ -23,7 +23,7 @@ sections:
       id: infobar
       description: Please click on the link below for more information.
       button: Click here
-      url: https://mail.google.com/mail/u/0?ui=2&ik=669c1d9fda&attid=0.1&permmsgid=msg-f:1853007144874175105&th=19b7342e3c7c6a81&view=att&disp=safe&realattid=f_mjtocijm0&zw
+      url: /files/Orientation_2026.pdf
   - infobar:
       title: Timetable 2026
       id: infobar
