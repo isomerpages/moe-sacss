@@ -24,7 +24,7 @@ sections:
       id: infobar
       description: Please click on the link below for more information.
       button: Click here
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/secondary-one-registration-2026/
+      url: https://mail.google.com/mail/u/0?ui=2&ik=669c1d9fda&attid=0.1&permmsgid=msg-f:1853007144874175105&th=19b7342e3c7c6a81&view=att&disp=safe&realattid=f_mjtocijm0&zw
   - infobar:
       title: 2026 Secondary One Registration
       id: infobar
