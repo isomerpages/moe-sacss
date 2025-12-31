@@ -59,5 +59,5 @@ sections:
       id: infobar
       description: Please click on the link below for more information.
       button: Click here
-      url: https://cms.isomer.gov.sg/sites/moe-sacss/homepage
+      url: https://stanthonyscanossiansec.moe.edu.sg/timetable-2026/
 ---
