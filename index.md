@@ -20,7 +20,6 @@ sections:
           url: https://www.facebook.com/SACSSOfficial/
   - infobar:
       title: Sec 1 to Sec 5 Orientation 2026
-      subtitle: Add informational text
       id: infobar
       description: Please click on the link below for more information.
       button: Click here
