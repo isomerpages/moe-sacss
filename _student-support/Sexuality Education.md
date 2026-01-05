@@ -18,7 +18,6 @@ different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
 Education are to:</p>
-<p>&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
 students in managing their physiological, social and emotional changes
 as they grow up and develop safe and healthy relationships.</p>
@@ -32,7 +31,6 @@ on the family as the basic unit of society.</p>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
 respect yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
@@ -43,13 +41,9 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Overview of St. Anthony’s Canossian Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
@@ -703,14 +697,6 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><em><u>&nbsp;</u></em></strong>
-</p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
 was developed by Health Promotion Board, in collaboration with the Ministry
@@ -730,8 +716,7 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p><strong>At St. Anthony’s Canossian Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -792,16 +777,6 @@ decision-making</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
@@ -821,5 +796,3 @@ The completed form is to be submitted by 29/05/2026.</p>
 0616 or email the school at <a rel="noopener noreferrer nofollow" target="_blank">sacss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<hr>
-<p>about the school’s sexuality education programme.</p>
