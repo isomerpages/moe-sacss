@@ -216,12 +216,6 @@ flouting copyright laws, etc.)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<h4><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
 <h3><strong>SECONDARY 2</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -349,24 +343,7 @@ consequences, both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<h4><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
 <h3><strong>SECONDARY 3</strong></h3>
-<p><strong>&nbsp;</strong>
-</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -380,24 +357,24 @@ consequences, both offline and online</p>
 <td rowspan="1" colspan="1">
 <p><strong><br></strong>
 </p>
-<p><strong>Unit</strong>
+<p><strong><u>Unit</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Title/ Duration</strong>
+<p><strong><u>Lesson Title/ Duration</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
+<p><strong><u>Lesson Overview</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong><u>Lesson Objectives</u></strong>
 </p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
+<p><strong><u>Time Period</u></strong>
 </p>
 </td>
 </tr>
@@ -501,15 +478,7 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<h4><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
 <h3><strong>SECONDARY 4</strong></h3>
-<p><strong>&nbsp;</strong>
-</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -521,24 +490,24 @@ our beliefs</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Unit</strong>
+<p><strong><u>Unit</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Title</strong>
+<p><strong><u>Lesson Title</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
+<p><strong><u>Lesson Overview</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong><u>Lesson Objectives</u></strong>
 </p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
+<p><strong><u>Time Period</u></strong>
 </p>
 </td>
 </tr>
@@ -551,9 +520,14 @@ our beliefs</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</a>
-</p>
-<p>&nbsp;</p>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment. Students will learn that what really
+matters in sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender stereotypes
@@ -613,8 +587,14 @@ and emotional boundaries in a relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters in &nbsp;sustaining and maintaining a long-term romantic relationship that leads to marriage, is understanding the other person’s perspective and effectively communicating with each other.&nbsp;</a>
-</p>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment. Students will learn that what really
+matters in sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term romantic relationships
@@ -660,12 +640,6 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<h4><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
 <h3><strong>SECONDARY 5</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -678,24 +652,24 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>UNIT</strong>
+<p><strong><u>Unit</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Title</strong>
+<p><strong><u>Lesson Title</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
+<p><strong><u>Lesson Overview</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong><u>Lesson Objectives</u></strong>
 </p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
+<p><strong><u>Time Period</u></strong>
 </p>
 </td>
 </tr>
