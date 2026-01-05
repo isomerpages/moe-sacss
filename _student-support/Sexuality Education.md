@@ -111,7 +111,7 @@ which are of prime concern at this age.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Lesson Objectives        </u></strong>
+<p><strong><u>Lesson Objectives</u></strong>
 </p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
@@ -361,7 +361,7 @@ consequences, both offline and online</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
-<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <h3><strong>SECONDARY 3</strong></h3>
@@ -504,12 +504,10 @@ our beliefs</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
-<p><strong>2026 Sexuality Education Lessons in CCE</strong>
-</p>
+<h4><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Secondary 4</strong>
-</p>
+<h3><strong>SECONDARY 4</strong></h3>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
@@ -665,12 +663,10 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong>2026 Sexuality Education Lessons in CCE</strong>
-</p>
+<h4><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Secondary 5</strong>
-</p>
+<h3><strong>SECONDARY 5</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
