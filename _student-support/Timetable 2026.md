@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Students,</p>
-<p>Please click <a href="https://www.stanthonyscanossiansec.moe.edu.sg/files/Student%20Support/2026_timetable.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Please click <a href="/files/Student Support/2026_timetable.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view your class timetable for 2026.</p>
