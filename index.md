@@ -19,17 +19,17 @@ sections:
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infobar:
-      title: Sec 1 to Sec 5 Orientation 2026
-      id: infobar
-      description: Please click on the link below for more information.
-      button: Click here
-      url: /files/Orientation_2026.pdf
-  - infobar:
       title: Timetable 2026
       id: infobar
       description: Please click on the link below for more information.
       button: Click here
       url: https://stanthonyscanossiansec.moe.edu.sg/student-support/timetable-2026/
+  - infobar:
+      title: Sec 1 to Sec 5 Orientation 2026
+      id: infobar
+      description: Please click on the link below for more information.
+      button: Click here
+      url: /files/Orientation_2026.pdf
   - infobar:
       title: 2026 Secondary One Registration
       id: infobar
