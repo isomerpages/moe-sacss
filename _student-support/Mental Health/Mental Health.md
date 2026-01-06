@@ -26,9 +26,6 @@ three school counsellors.</p>
 <p>Ms Rachael Goh (Full Time School Counsellor) [<a href="goh_cai_yun_rachael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_cai_yun_rachael@moe.edu.sg</a>]</p>
 </li>
 <li>
-<p>Mdm Christine Lim (Flexi Adjunct School Counsellor) [<a href="christine_lim_peck_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christine_lim_peck_sim@moe.edu.sg</a>]</p>
-</li>
-<li>
 <p>Mdm Wendy Shiao (Flexi Adjunct School Counsellor) [<a rel="noopener noreferrer nofollow" target="_blank">Shiao_ai_choo@moe.edu.sg</a>]</p>
 </li>
 </ul>
