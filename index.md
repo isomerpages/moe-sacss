@@ -23,7 +23,7 @@ sections:
       id: infobar
       description: Please click on the link below for more information.
       button: Click here
-      url: https://stanthonyscanossiansec.moe.edu.sg/
+      url: https://stanthonyscanossiansec.moe.edu.sg//2025-gce-o-level-examination-results/
   - infobar:
       title: Timetable 2026
       id: infobar
