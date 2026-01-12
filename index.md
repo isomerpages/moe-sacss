@@ -23,7 +23,7 @@ sections:
       id: infobar
       description: Please click on the link below for more information.
       button: Click here
-      url: https://stanthonyscanossiansec.moe.edu.sg/students-support/2025-gce-o-level-examination-results/
+      url: https://stanthonyscanossiansec.moe.edu.sg/student-support/2025-gce-o-level-examination-results/
   - infobar:
       title: Timetable 2026
       id: infobar
@@ -36,14 +36,6 @@ sections:
       description: Please click in
       button: Click here
       url: https://www.stanthonyscanossiansec.moe.edu.sg/secondary-one-registration-2026/
-  - infopic:
-      title: SACSS DSA e-Open House 2025
-      id: infopic
-      description: Join us for our Open House on 22 November 2025
-      button: Click here for more details
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/open-house/
-      alt: Image alt text
-      image: /images/Website_Poster.jpg
   - infopic:
       title: School Corporate Video
       description: School Corporate Video. A special video specially created by our
