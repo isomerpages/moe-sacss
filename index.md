@@ -19,6 +19,12 @@ sections:
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infobar:
+      title: 2026 Secondary One Registration
+      id: infobar
+      description: Please click in
+      button: Click here
+      url: https://www.stanthonyscanossiansec.moe.edu.sg/secondary-one-registration-2026/
+  - infobar:
       title: Timetable 2026
       id: infobar
       description: Please click on the link below for more information.
@@ -31,12 +37,11 @@ sections:
       button: Click here
       url: /files/Orientation_2026.pdf
   - infobar:
-      title: 2026 Secondary One Registration
+      title: 2025 GCE 'O' Level Examination Results
       id: infobar
-      description: For more information regarding Secondary One registration, please
-        click on the link below.
+      description: Please click on the link below for more information.
       button: Click here
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/secondary-one-registration-2026/
+      url: https://stanthonyscanossiansec.moe.edu.sg/
   - infopic:
       title: SACSS DSA e-Open House 2025
       id: infopic
