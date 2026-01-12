@@ -12,8 +12,8 @@ may accompany you.</p>
 Hair should be of natural colour and neatly tied up.</p>
 <p>(C) If you can’t collect your results in person, you may authorise someone
 to collect them on your behalf.</p>
-<p>Fill in the Letter of Authorisation (click here to download) and send
-a softcopy to your Form Teacher, or</p>
+<p>Fill in the Letter of Authorisation (<a href="/files/Student Support/Letter_of_authorisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">click here to download</a>)
+and send a softcopy to your Form Teacher, or</p>
 <p>Have the authorised person bring along a hardcopy on the day itself.</p>
 <p>(D) If you’re recovering from a cold or cough, please wear a mask when
 attending.</p>
