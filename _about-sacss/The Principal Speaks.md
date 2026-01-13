@@ -40,6 +40,5 @@ All our programmes and initiatives are thoughtfully designed with our students a
 
 To our prospective students and parents, we warmly invite you to explore our website and discover the programmes, culture, and distinctive opportunities that await you. Joining St. Anthony’s Canossian Secondary School marks the beginning of a meaningful and fulfilling journey—one where a rich heritage meets forward-looking education, and where every girl is known, valued, and formed to flourish with purpose and hope.
 
-	Warm Regards,
-	Ms Fiona Koh
-	Principal
+
+Ms Fiona Koh
