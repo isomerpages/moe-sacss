@@ -4,30 +4,42 @@ permalink: /about-sacss/principal-speaks/
 description: ""
 variant: markdown
 ---
-# **2025: Pilgrims of Hope**
+# **2026: Shine Peace to Our World**
 
-**“Hope does not disappoint, because God’s love has been poured into our hearts through the Holy Spirit that has been given to us.” Rom 5:1-2.5**
+**“Blessed are the peacemakers, for they shall be called children of God.” (Matthew 5:9)**
 
-Established in 1879, the school started as St. Anna’s School in a rented shop-house at Middle Road by Fr. Jose Pedro Santa Anna de Cunha of St. Joseph’s Church for the poor parishioners in 1879. With the arrival of the Canossian Sisters in 1894, the school moved to 111 Middle Road and became known as St. Anthony’s Convent School. It was eventually renamed to St. Anthony’s Canossian Primary and Secondary School in 1995 when it moved to the current Bedok campus. The inclusion of “Canossian” in the name of the school was done in celebration of our unique Canossian brand of education, forming hearts and offering a personalised approach to holistic education.
+As we begin the year together, our school is guided by the 2026 theme: Shine Peace to Our World. Inspired by the Holy Father’s New Year message calling us to “build a year of peace, disarming our hearts and refraining from all violence,” this theme speaks deeply to the realities our girls face today—amidst noise, pressure, comparison, and conflict.
 
-Over the years, we have evolved and adapted to the changing educational landscape, consistently striving for innovation while upholding our core values of Faith, Charity, Humility and Forgiveness. We continue to build a nurturing and dynamic environment where students are encouraged to explore their interests, develop critical thinking skills, and discover their full potential. We are strengthening our approaches to deepen students’ joy for learning through positive education and the development of 21st century competencies.  This way, our total curriculum prepares our young women for the future by equipping them with dispositions and skillsets essential for them to thrive in the 21st Century.
+This call to peace is deeply rooted in our school’s story. Established in 1879, St. Anthony’s Canossian Secondary School began humbly as St. Anna’s School, founded by Fr. Jose Pedro Santa Anna de Cunha of St. Joseph’s Church to serve poor parishioners in a rented shophouse along Middle Road. With the arrival of the Canossian Sisters in 1894, the school took on a renewed mission and identity, becoming St. Anthony’s Convent School—a place where education was understood not merely as academic instruction, but as the formation of the heart.
 
-As our school celebrates 146 years of nurturing and educating young women, we are proud to join Canossian schools worldwide in embracing Pope Francis’s call to commemorate the Jubilee Year of Hope. Guided by this year’s theme, "Pilgrims of Hope," we aim to inspire our students to walk a path rooted in faith, charity, humility, and purpose. In a world filled with challenges, we believe hope is a transformative force that empowers young women to live with resilience and compassion.
+When the school moved to our current Bedok campus in 1995 and was renamed St. Anthony’s Canossian Primary and Secondary School, the inclusion of the word “Canossian” marked a conscious celebration of our distinctive Canossian brand of education—one that is deeply personal, values-led, and committed to holistic formation. This heritage continues to shape who we are today.
 
-Our journey as Pilgrims of Hope is framed by five actionable steps that shape our mission and spirit:
+At St. Anthony’s Canossian Secondary School, peace is not passive. It is lived out daily through thoughtful choices, responsible actions, and care for others. Our students are guided to grow as socially responsible individuals who can contribute positively to their communities and the wider world, learning to live out peace in three meaningful and connected ways.
 
-1.      **Seek Good**: We encourage our students to actively pursue opportunities for growth, learning, and meaningful contribution, becoming confident learners and compassionate leaders.
+1.  **Peace Starts Within**
 
-2.      **See Good in Others**: By fostering empathy, we teach our young women to recognise the unique strengths and inherent goodness in everyone, even amidst diversity and imperfections.
+I choose what is good for me.
 
-3.      **Wish for Good**: Our community cultivates hearts that celebrate the well-being and success of others, fostering joy and unity.
+We help our girls build strong inner foundations through self-awareness, emotional regulation, and self-mastery. With a strong emphasis on building 21 century competencies, we train our students in **metacognition** \- students learn how to plan, monitor, and reflect on their learning, becoming **confident and self-directed learners**. Thoughtful use of **digital technology** supports organisation, feedback, and independent growth, while clear guidance helps students make wise, healthy choices, reject harmful behaviours, and develop **resilience** rooted in self-worth and dignity.
 
-4.      **Do Good**: Through acts of charity, integrity, and forgiveness, our students transform hope into meaningful action, leaving a positive impact wherever they go.
+2.  **Peace Among Us**
 
-5.      **Inspire Good**: By leading through example, our students inspire others to reach their full potential and spread hope in their families, friendships, and communities.
+I disarm my words, actions, and friendships.
 
-These principles are not just ideals but a living mission that shapes the character of every student. As we journey through this year of hope, we encourage parents to join us in creating an environment where your daughters can thrive, grow, and become empowered individuals who shine as beacons of hope in the world.
+Our school culture places strong emphasis on relationships built on **respect**, **empathy**, and **responsibility**. Through intentional structures that promote student self-advocacy and help-seeking, alongside proactive efforts to support well-being and prevent bullying, girls learn to communicate responsibly—both online and offline—resolve conflicts constructively, and take responsibility for their actions. These experiences nurture joy, serenity, and forgiveness, even when circumstances are challenging.
 
-To our prospective students and interested parents, we invite you to explore our website, learn more about our programmes and the unique opportunities that await you. Joining us at St. Anthony’s Canossian Secondary School will be the beginning of an exciting and fulfilling journey where girls can expect to be challenged and supported in equal measure. Be a part of a community that celebrates, nurtures, and respects individuality; a community where girls are free to explore, learn new things, and overcome fear of failure. We look forward to welcoming you to St. Anthony’s Canossian Secondary School.
+3.  **Shine Peace to the World**
 
-Ms Fiona Koh
+I bring calm, respect, and responsibility into every space I enter.
+
+Beyond the school gates, our girls are encouraged to become active contributors with a strong moral compass. Through meaningful community partnerships, including collaborations with **Catholic Welfare Services**, students encounter real people and real needs, learning to act with compassion, integrity, and civic-mindedness. Signature platforms such as the **Arts Alive Showcase**, **EPIC Day** (Exploring Pathways, Interests and Careers), and **overseas learning journeys** to Japan, China, Indonesia, and Taiwan broaden perspectives, build confidence, and inspire our girls to serve and lead with purpose in an interconnected world.
+
+Through this theme, our girls are gently formed to recognise their God-given dignity, cultivate inner peace and self-mastery, practise solidarity and compassion in relationships, and live out peace in the ordinary moments of daily life—growing into concerned citizens who act for the common good with responsibility, conscience, and love.
+
+All our programmes and initiatives are thoughtfully designed with our students at the heart, creating safe spaces and authentic opportunities for them to try, grow, care, and reflect on who they are becoming. At SACSS, we believe every girl carries within her a unique light, and we are committed to helping her shine it with peace, courage, competence, and compassion. Together, these outcomes shape confident, thoughtful, responsible, and caring young women—Canossians of Influence, ready to lead with compassion and competence, and to serve with cheerfulness and commitment.
+
+To our prospective students and parents, we warmly invite you to explore our website and discover the programmes, culture, and distinctive opportunities that await you. Joining St. Anthony’s Canossian Secondary School marks the beginning of a meaningful and fulfilling journey—one where a rich heritage meets forward-looking education, and where every girl is known, valued, and formed to flourish with purpose and hope.
+
+	Warm Regards,
+	Ms Fiona Koh
+	Principal
