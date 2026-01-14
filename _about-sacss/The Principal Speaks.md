@@ -16,19 +16,19 @@ When the school moved to our current Bedok campus in 1995 and was renamed St. An
 
 At St. Anthony’s Canossian Secondary School, peace is not passive. It is lived out daily through thoughtful choices, responsible actions, and care for others. Our students are guided to grow as socially responsible individuals who can contribute positively to their communities and the wider world, learning to live out peace in three meaningful and connected ways.
 
-1.  **Peace Starts Within**
+**1.  Peace Starts Within**
 
 I choose what is good for me.
 
 We help our girls build strong inner foundations through self-awareness, emotional regulation, and self-mastery. With a strong emphasis on building 21 century competencies, we train our students in **metacognition** \- students learn how to plan, monitor, and reflect on their learning, becoming **confident and self-directed learners**. Thoughtful use of **digital technology** supports organisation, feedback, and independent growth, while clear guidance helps students make wise, healthy choices, reject harmful behaviours, and develop **resilience** rooted in self-worth and dignity.
 
-2.  **Peace Among Us**
+**2.  Peace Among Us**
 
 I disarm my words, actions, and friendships.
 
 Our school culture places strong emphasis on relationships built on **respect**, **empathy**, and **responsibility**. Through intentional structures that promote student self-advocacy and help-seeking, alongside proactive efforts to support well-being and prevent bullying, girls learn to communicate responsibly—both online and offline—resolve conflicts constructively, and take responsibility for their actions. These experiences nurture joy, serenity, and forgiveness, even when circumstances are challenging.
 
-3.  **Shine Peace to the World**
+**3.  Shine Peace to the World**
 
 I bring calm, respect, and responsibility into every space I enter.
 
