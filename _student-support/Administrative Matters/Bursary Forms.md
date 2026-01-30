@@ -13,21 +13,6 @@ donor. In the form of an award, a bursary and an emergency fund, these
 serve to inspire and encourage our students who have continued to give
 their best in the different areas of their school life, in spite of the
 personal difficulties they face.</p>
-<p><strong>The Magdalenian Education Grant</strong>
-</p>
-<p>This award, established in 2022, is a need based grant programme providing
-one-time financial assistance to Singaporean and non-Singaporean graduates
-of SACSS to complete a full-time NITEC certification or polytechnic diploma
-that develop their skills for employment in the area of social services
-which in turn, contributes to the dignity and well-being of society, including
-children and youth, people with disabilities and special needs, and seniors.
-The Magdalenian Education Grant seeks to extend St. Magdalene’s mission
-by empowering our students from less privileged homes to give back to society
-by funding their post-secondary education. Their services can thereafter
-support the poor, the marginalised and the sick.</p>
-<p>For the full details regarding eligibility, supporting documents and more,
-please click&nbsp;<a href="/files/Student%20Support/Magdalenian-Education-Grant-Full-Details_15Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>For the online application form, please click <a href="https://form.gov.sg/66ed326d0600a84ba70b56fa" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Thio Ying Ying Bursary</strong>
 </p>
 <p>The Thio Ying Ying Bursary serves to dignify and encourage active volunteerism
