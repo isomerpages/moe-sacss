@@ -20,59 +20,7 @@ Manager)</p>
 School is an&nbsp;Exempt Charity School.</p>
 <p><strong>UEN No:</strong>&nbsp;T07GS7016H</p>
 <p><strong>IPC Status:</strong>&nbsp;A Member of Education Fund</p>
-<h5>Objectives of School:</h5>
-<p><strong>Vision</strong>
-<br>Canossians of Influence
-<br><em>Ready to Lead with Compassion and Competence; Serve with Cheerfulness and Commitment</em>
-</p>
-<p><strong>Mission</strong>
-<br>Nurturing each one in her own way by forming hearts, enlightening minds
-and empowering spirits to live in The Way, The Truth and The Life</p>
-<p><strong>No. of Beneficiaries:</strong>&nbsp;&nbsp;All pupils&nbsp;</p>
-<h5>Programmes/Activities:</h5>
-<p><strong>Key Programmes to be carried out in FY2021:</strong>
-</p>
-<p><strong>Character and Citizenship Education (CCE)</strong>
-</p>
-<p><strong>1) CCE Key Events</strong>
-</p>
-<p>The Foundress Day Values-in-Action (Bags of Blessing) project will feature
-all students (4-5 students in each group) putting together 250 care boxes
-for the elderly from Sunlove Chai Chee. Instead of visiting the elderly,
-the teachers did a presentation of our past years collaboration with Sunlove
-Chai Chee and did an interview with the Centre Manager.&nbsp;</p>
-<p><strong>2) SACS Blaze – A Worthy Cause!</strong>
-</p>
-<p>The Secondary 3 students’ Values-in-Action (VIA) project will&nbsp;be
-carried out virtually. Each class identifies a specific&nbsp;beneficiary
-and will do a presentation to the whole school population. In each presentation,
-the students will share what each beneficiary stood for and the group of
-individuals that they care for. Following the presentation, the school
-population will be called upon to donate items to the organisation.</p>
-<p>There is no fundraising activities carried out in the year.</p>
-<p><strong>Key Programmes carried out in FY2020:</strong>
-</p>
-<p><strong>1) CCE Key Events</strong>
-</p>
-<p>The Foundress Day Values-in-Action (Rallying Together) project featured
-groups of students (4-5 students in each group) from each class putting
-together 250 care boxes for the elderly from Sunlove Chai Chee. Due to
-COVID-19, we did not visit and interview the elderly from our neighbouring
-one-room rentals flats this year.</p>
-<p><strong>2) SAC Blaze – A Worthy Cause!</strong>
-</p>
-<p>The plan was to have a&nbsp;<strong>La Scintilla</strong>, a week’s activities
-comprising of Curriculum Week, Night Festival and SAC Blaze. Due to the
-Full Home-Based Learning and Safe Management Measures (SMM), the Secondary
-3 students’ Values-in-Action (VIA) projects were scaled down. Instead of
-having face-to-face carnival, the students moved their VIA efforts online.
-Each class identified a specific beneficiary and did a presentation to
-the whole school population. In each presentation, the students shared
-what each beneficiary stood for and the group of individuals that they
-cared for. Following the presentation, the school population was called
-upon to donate items for the organisation.&nbsp;</p>
-<p>There was no fundraising activities carried out in the year.</p>
-<p><strong>Patrons:</strong>&nbsp;NA</p>
+<h5></h5>
 <p><strong>Trustees/Board Members:</strong>
 </p>
 <table style="minWidth: 100px">
@@ -226,10 +174,10 @@ upon to donate items for the organisation.&nbsp;</p>
 </tbody>
 </table>
 <p><strong>Key Employees:</strong>
-<br>Ms Koh Tyng Yuann, Fiona (Principal)
-<br>Ms Melissa Yeo (Vice-Principal)
+<br>Ms. Koh Tyng Yuann, Fiona (Principal)
+<br>Mr. Lee Chin Chuan, Justin (Vice-Principal)
 <br>Ms. Chen Huiqing, Christine (Vice-Principal)</p>
 <p><strong>Auditor:</strong> Assurance Partners LLP</p>
 <h3>Financial Information</h3>
-<p>Please click&nbsp;<a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Please click&nbsp;<a href="/files/Finance_Matters.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 view the latest information.</p>
