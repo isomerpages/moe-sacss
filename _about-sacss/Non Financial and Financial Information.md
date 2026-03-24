@@ -174,8 +174,8 @@ School is an&nbsp;Exempt Charity School.</p>
 </tbody>
 </table>
 <p><strong>Key Employees:</strong>
-<br>Ms Koh Tyng Yuann, Fiona (Principal)
-<br>Mr Lee Chin Chuan, Justin (Vice-Principal)
+<br>Ms. Koh Tyng Yuann, Fiona (Principal)
+<br>Mr. Lee Chin Chuan, Justin (Vice-Principal)
 <br>Ms. Chen Huiqing, Christine (Vice-Principal)</p>
 <p><strong>Auditor:</strong> Assurance Partners LLP</p>
 <h3>Financial Information</h3>
