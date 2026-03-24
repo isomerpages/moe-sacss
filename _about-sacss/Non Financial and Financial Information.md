@@ -179,5 +179,5 @@ School is an&nbsp;Exempt Charity School.</p>
 <br>Ms. Chen Huiqing, Christine (Vice-Principal)</p>
 <p><strong>Auditor:</strong> Assurance Partners LLP</p>
 <h3>Financial Information</h3>
-<p>Please click&nbsp;<a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Please click&nbsp;<a href="/files/Finance_Matters.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 view the latest information.</p>
