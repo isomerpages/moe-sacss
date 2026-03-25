@@ -2,7 +2,6 @@ collections:
   student-support:
     output: true
     order:
-      - Financial Information.md
       - 2025 GCE 'O' Level Examination Results.md
       - Education and Career Guidance.md
       - Sexuality Education.md
