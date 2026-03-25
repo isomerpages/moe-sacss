@@ -4,7 +4,7 @@ permalink: /about-sacss/school-management/corporate-information/
 description: ""
 variant: tiptap
 ---
-<h3>Non-Financial Information</h3>
+<h3>Corporate Information</h3>
 <p><strong>Name of School:</strong>&nbsp;St. Anthony’s Canossian Secondary
 School</p>
 <p><strong>Address:</strong>&nbsp;1600 Bedok North Avenue 4, Singapore 469700</p>
@@ -178,6 +178,4 @@ School is an&nbsp;Exempt Charity School.</p>
 <br>Mr. Lee Chin Chuan, Justin (Vice-Principal)
 <br>Ms. Chen Huiqing, Christine (Vice-Principal)</p>
 <p><strong>Auditor:</strong> Assurance Partners LLP</p>
-<h3>Financial Information</h3>
-<p>Please click&nbsp;<a href="/files/Finance_Matters.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
-view the latest information.</p>
+<p></p>
