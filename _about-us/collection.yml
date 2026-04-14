@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Leadership Team/.keep
-      - Our People.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
