@@ -53,7 +53,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:Justin_Lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Justin_Lee@schools.gov.sg</a> 
+<br><a href="mailto:Justin_Lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Justin_Lee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -366,7 +366,7 @@ third_nav_title: Our People
 <p>Mr Tan Yuan Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yuan_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yuan_rong@moe.edu.sg</a> 
+<p><a href="mailto:tan_yuan_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yuan_rong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
