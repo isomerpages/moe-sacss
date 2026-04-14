@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/School Leadership Team.md
       - Our People/.keep
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
