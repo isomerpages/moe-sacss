@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-sacss:
     output: true
     order:
       - Our People/.keep
