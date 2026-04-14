@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/Non Teaching Staff.md
-      - Our People/Teaching Staff.md
-      - Our People/School Leadership Team.md
       - Our People/.keep
+      - Our People/School Leadership Team.md
+      - Our People/Teaching Staff.md
+      - Our People/Non Teaching Staff.md
       - Canossian Education/.keep
       - Canossian Education/School Crest, Vision, Mission, Values.md
       - Why SACSS/.keep
