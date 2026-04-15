@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Secondary 1 Registration/Registration Process.md
       - Secondary 1 Registration/.keep
       - Direct School Admission (DSA)/.keep
       - Transfers & Appeals/.keep
