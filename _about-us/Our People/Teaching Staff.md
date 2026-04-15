@@ -1804,17 +1804,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wee Chee Kwang (Keris)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
