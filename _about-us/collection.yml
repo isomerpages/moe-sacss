@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Media/.keep
       - Vision & Identity/.keep
       - Heritage/.keep
       - Principal/.keep
