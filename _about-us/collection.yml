@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Heritage/.keep
       - Principal/.keep
       - Our People/Non Teaching Staff.md
       - Our People/Teaching Staff.md
