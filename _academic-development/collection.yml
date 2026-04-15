@@ -2,6 +2,7 @@ collections:
   academic-development:
     output: true
     order:
+      - Departments/Humanities Department.md
       - Departments/Science Department.md
       - Departments/Physical Education Department.md
       - Departments/Aesthetics Department.md
