@@ -32,7 +32,6 @@ top honours at the 17th Guitar Ensemble Festival, including Overall Outstanding
 Ensemble and Best Conductor Award. More than notes and strings, the ensemble
 celebrates the power of music to inspire, connect, and move audiences,
 fostering creativity, teamwork, and passion among its members.</p>
-<p>Short description of CCA (5- 6 lines)</p>
 </td>
 </tr>
 <tr>
