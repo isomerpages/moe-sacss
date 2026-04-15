@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Character & Citizenship/.keep
       - Career Guidance/.keep
       - Discipline/.keep
       - MOE Programmes/.keep
