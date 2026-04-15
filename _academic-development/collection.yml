@@ -2,5 +2,6 @@ collections:
   academic-development:
     output: true
     order:
+      - Departments/.keep
       - Curriculum/.keep
       - Digital Learning/.keep
