@@ -2,5 +2,6 @@ collections:
   the-canossian-experience:
     output: true
     order:
+      - Performing Arts CCAs/.keep
       - Clubs & Societies/.keep
       - Uniformed Groups/.keep
