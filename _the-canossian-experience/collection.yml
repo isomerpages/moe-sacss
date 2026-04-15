@@ -1,4 +1,5 @@
 collections:
   the-canossian-experience:
     output: true
-    order: []
+    order:
+      - Uniformed Groups/.keep
