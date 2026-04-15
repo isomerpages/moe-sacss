@@ -252,17 +252,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>1 Cheerfulness</strong>
 </p>
 </td>
@@ -376,17 +365,6 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Secondary 2 Form Teachers&nbsp;</strong>
 </p>
@@ -452,7 +430,8 @@ third_nav_title: Our People
 <p>Mr Tan Yuan Rong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<h3><a href="mailto:tan_yuan_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yuan_rong@moe.edu.sg</u></a></h3>
+<p><a href="mailto:tan_yuan_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yuan_rong@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -801,17 +780,6 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Secondary 3 Form Teachers&nbsp;</strong>
 </p>
@@ -849,10 +817,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1256,17 +1221,6 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Secondary 4/5 Form Teachers&nbsp;</strong>
 </p>
@@ -1654,17 +1608,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norliza_mohd_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norliza_mohd_ali@moe.edu.sg</u></a>
 </p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
