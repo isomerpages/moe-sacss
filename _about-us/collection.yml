@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Contact/.keep
-      - Achievements/.keep
-      - Media/.keep
-      - Vision & Identity/.keep
-      - Heritage/.keep
       - Principal/.keep
+      - Heritage/.keep
+      - Vision & Identity/.keep
+      - Our People/.keep
       - Our People/Non Teaching Staff.md
       - Our People/Teaching Staff.md
       - Our People/School Leadership Team.md
-      - Our People/.keep
+      - Media/.keep
+      - Achievements/.keep
+      - Contact/.keep
