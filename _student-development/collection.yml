@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Career Guidance/.keep
       - Discipline/.keep
       - MOE Programmes/.keep
       - Student Support/.keep
