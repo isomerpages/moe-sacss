@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -79,4 +78,5 @@ into thoughtful leaders and empathetic communicators.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
