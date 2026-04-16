@@ -81,7 +81,7 @@ will happen on the next working day. The fees for January and February
 are combined into one bill for deduction in February, hence there will
 not be any deduction in January. Please ensure that there are sufficient
 funds in the bank account for deduction.
-<br> <em>* Parents/Guardians pay apply for eGIRO at<br></em> MOE website (
+<br><em>* Parents/Guardians pay apply for eGIRO at<br></em> MOE website (
 <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/financial-matters/fees/egiro</u>
 </a>)
 <br>
