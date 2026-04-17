@@ -10,7 +10,7 @@ School Crest
 
 Our school crest is used in all Canossian Schools.
 
-<img src="/images/About%20us/School-Logo\_Colour-1059x1536.jpg" style="width:200px;height:230px;margin-left:15px;" align="right">
+<img src="/images/VMV1.jpg" style="width:200px;height:230px;margin-left:15px;" align="right">
 
 The shield nurtures and respects the uniqueness of each child and our responsibility as educators to protect and nurture human dignity
 
