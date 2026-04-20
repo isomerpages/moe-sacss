@@ -19,6 +19,12 @@ sections:
           description: ""
           url: https://www.facebook.com/SACSSOfficial/
   - infobar:
+      title: SACSS DSA Information 2026
+      id: infobar
+      description: Click on the link below
+      url: https://stanthonyscanossiansec.moe.edu.sg/sacss-dsa-information-2026/
+      button: Click here
+  - infobar:
       title: 2025 GCE 'O' Level Examination Results
       id: infobar
       description: Please click on the link below for more information.
@@ -51,10 +57,4 @@ sections:
         on the link below.
       button: Click here
       url: https://stanthonyscanossiansec.moe.edu.sg/notice-on-student-admission/
-  - infobar:
-      title: SACSS DSA Information 2026
-      id: infobar
-      description: Click on this
-      url: https://stanthonyscanossiansec.moe.edu.sg/sacss-dsa-information-2026/
-      button: link
 ---
