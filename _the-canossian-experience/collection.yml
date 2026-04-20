@@ -1,0 +1,35 @@
+collections:
+  the-canossian-experience:
+    output: true
+    order:
+      - Spirituality/Spiritual Life.md
+      - Spirituality/.keep
+      - Leadership/Student Leadership.md
+      - Leadership/.keep
+      - Service/VIA Programmes.md
+      - Service/.keep
+      - Signature Programmes/Performing Arts Niche.md
+      - Signature Programmes/.keep
+      - Sports CCAs/Badminton.md
+      - Sports CCAs/Floorball.md
+      - Sports CCAs/Netball.md
+      - Sports CCAs/Track & Field.md
+      - Sports CCAs/Taekwondo.md
+      - Sports CCAs/.keep
+      - Performing Arts CCAs/Choir.md
+      - Performing Arts CCAs/Concert Band.md
+      - Performing Arts CCAs/Percussion Band.md
+      - Performing Arts CCAs/Guitar Ensemble.md
+      - Performing Arts CCAs/Angklung Band.md
+      - Performing Arts CCAs/Drama Club.md
+      - Performing Arts CCAs/Modern Dance.md
+      - Performing Arts CCAs/Indian Dance.md
+      - Performing Arts CCAs/.keep
+      - Clubs & Societies/Debating & Oratorical Society.md
+      - Clubs & Societies/Media & Production Society.md
+      - Clubs & Societies/Library.md
+      - Clubs & Societies/St Magdalene’s Club.md
+      - Clubs & Societies/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Civil Defence Cadet Corps.md
+      - Uniformed Groups/.keep

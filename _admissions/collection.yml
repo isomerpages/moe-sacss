@@ -1,0 +1,23 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - Secondary 1 Registration/Key Dates.md
+      - Secondary 1 Registration/Registration Process.md
+      - Secondary 1 Registration/.keep
+      - Direct School Admission (DSA)/Talent Areas.md
+      - Direct School Admission (DSA)/Timeline.md
+      - Direct School Admission (DSA)/Criteria.md
+      - Direct School Admission (DSA)/Application Process.md
+      - Direct School Admission (DSA)/.keep
+      - Transfers & Appeals/Admission Criteria.md
+      - Transfers & Appeals/Appeal Process.md
+      - Transfers & Appeals/.keep
+      - Financial Matters/School Fees.md
+      - Financial Matters/MOE FAS.md
+      - Financial Matters/.keep
+      - Open House/Event Overview.md
+      - Open House/Registration.md
+      - Open House/Programme Highlights.md
+      - Open House/FAQs.md
+      - Open House/.keep

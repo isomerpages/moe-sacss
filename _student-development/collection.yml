@@ -1,0 +1,14 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Character & Citizenship/Character and Citizenship Education.md
+      - Character & Citizenship/.keep
+      - Career Guidance/Education and Career Guidance.md
+      - Career Guidance/.keep
+      - Discipline/Code of Conduct.md
+      - Discipline/.keep
+      - MOE Programmes/Sexuality Education.md
+      - MOE Programmes/.keep
+      - Student Support/Student Well Being & Support.md
+      - Student Support/.keep
