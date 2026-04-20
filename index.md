@@ -51,4 +51,9 @@ sections:
         on the link below.
       button: Click here
       url: https://stanthonyscanossiansec.moe.edu.sg/notice-on-student-admission/
+  - infobar:
+      title: SACSS DSA Information 2026
+      id: infobar
+      description: Click the link below
+      url: https://stanthonyscanossiansec.moe.edu.sg/
 ---
