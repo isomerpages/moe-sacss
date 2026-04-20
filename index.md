@@ -54,6 +54,7 @@ sections:
   - infobar:
       title: SACSS DSA Information 2026
       id: infobar
-      description: Click the link below
-      url: https://stanthonyscanossiansec.moe.edu.sg/
+      description: Click on this
+      url: https://stanthonyscanossiansec.moe.edu.sg/sacss-dsa-information-2026/
+      button: link
 ---
