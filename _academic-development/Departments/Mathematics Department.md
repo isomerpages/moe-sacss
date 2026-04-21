@@ -37,7 +37,8 @@ building the confidence and resilience needed for problem solving.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h3><strong>Approach</strong></h3>
-<p>1. Activity-based Learning</p>
+<p><strong>1. Activity-based Learning</strong>
+</p>
 <p>By using manipulatives and EdTech tools, teachers engage students in constructing
 meaning from their prior knowledge and guide them to visualize abstract
 mathematical concepts. Students are also given opportunities to apply Math
