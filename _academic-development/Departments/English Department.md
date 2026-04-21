@@ -27,7 +27,7 @@ and Literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Approach (bulleted points)</strong>
+<p><strong>Approach</strong>
 </p>
 <p>Our teaching approach emphasises:</p>
 <ul>
