@@ -12,8 +12,7 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Objectives</strong>
-</p>
+<h3><strong>Objectives</strong></h3>
 <p>
 <br>The Humanities Department aims to develop informed, concerned and participative
 students through an inquiry-based approach, where students critically explore
@@ -30,8 +29,7 @@ towards a sustainable and inclusive future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Approach</strong>
-</p>
+<h3><strong>Approach</strong></h3>
 <p>Our Humanities teaching adopts an inquiry-based approach, where students
 learn through structured investigation tasks that require them to explore
 authentic questions, analyse evidence and construct reasoned responses.</p>
@@ -92,8 +90,7 @@ to reflect student voice and perspectives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Gallery</strong>
-</p>
+<h3><strong>Gallery</strong></h3>
 <p>
 <br>
 <br>
