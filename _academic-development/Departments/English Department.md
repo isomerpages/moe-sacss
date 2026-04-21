@@ -94,7 +94,11 @@ of <strong>periods and cultures</strong>.
 <p>Short performances and creative presentations</p>
 </li>
 </ul>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Gallery</h3>
 </td>
 </tr>
 </tbody>
