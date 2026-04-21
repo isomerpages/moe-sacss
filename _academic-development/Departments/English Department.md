@@ -98,7 +98,7 @@ of <strong>periods and cultures</strong>.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 </td>
 </tr>
 </tbody>
