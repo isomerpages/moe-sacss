@@ -12,6 +12,8 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<h3><strong>Objectives</strong></h3>
+<p></p>
 <p>Our Mathematics curriculum aligns with the MOE’s Mathematics Curriculum
 Framework, placing the Mathematical Problem-Solving pentagon at its core.</p>
 <p>Our primary objectives are to:</p>
@@ -34,20 +36,19 @@ building the confidence and resilience needed for problem solving.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Approach</strong>
-</p>
-<h3>1. Activity-based Learning</h3>
+<h3><strong>Approach</strong></h3>
+<p>1. Activity-based Learning</p>
 <p>By using manipulatives and EdTech tools, teachers engage students in constructing
 meaning from their prior knowledge and guide them to visualize abstract
 mathematical concepts. Students are also given opportunities to apply Math
 concepts to problems in real-world context.</p>
-<h3>2. Inquiry-based Learning</h3>
+<p>2. Inquiry-based Learning</p>
 <p>Metacognitive strategies (using the AMR approach) are used to guide students
 to connect new ideas with what they already know and deepen students’ learning.
 Students engage in communicating, explaining and reflecting on their answers.
 Students also learn to pose questions and process information. This will
 enhance the development of mathematical processes and 21st century competencies.</p>
-<h3>3. Balanced Assessment Approach</h3>
+<p>3. Balanced Assessment Approach</p>
 <ul>
 <li>
 <p>Formative Assessment: Assessment <em>for</em> learning. This happens during
@@ -62,8 +63,7 @@ feedback.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programmes</strong>
-</p>
+<h3><strong>Programmes</strong></h3>
 <p></p>
 <p><strong><u>Offer of Elective subjects</u></strong>
 </p>
@@ -93,8 +93,7 @@ feedback.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Gallery</strong>
-</p>
+<h3><strong>Gallery</strong></h3>
 <p>
 <br>
 <br>
