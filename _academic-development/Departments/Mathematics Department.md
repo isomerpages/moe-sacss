@@ -42,13 +42,15 @@ building the confidence and resilience needed for problem solving.</p>
 meaning from their prior knowledge and guide them to visualize abstract
 mathematical concepts. Students are also given opportunities to apply Math
 concepts to problems in real-world context.</p>
-<p>2. Inquiry-based Learning</p>
+<p><strong>2. Inquiry-based Learning</strong>
+</p>
 <p>Metacognitive strategies (using the AMR approach) are used to guide students
 to connect new ideas with what they already know and deepen students’ learning.
 Students engage in communicating, explaining and reflecting on their answers.
 Students also learn to pose questions and process information. This will
 enhance the development of mathematical processes and 21st century competencies.</p>
-<p>3. Balanced Assessment Approach</p>
+<p><strong>3. Balanced Assessment Approach</strong>
+</p>
 <ul>
 <li>
 <p>Formative Assessment: Assessment <em>for</em> learning. This happens during
