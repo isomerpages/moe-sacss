@@ -12,11 +12,6 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Objectives (short paragraph)</strong>
-</p>
-<p>
-<br>
-</p>
 <p>The English Language and Literature (EL/Lit) Department aims to develop
 students into <strong>Empathetic Communicators, Discerning Readers and Creative Inquirers</strong>.
 Through the study of language and literature, students build a strong foundation
