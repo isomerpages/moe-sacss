@@ -12,11 +12,7 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Objectives</strong>
-</p>
-<p>
-<br>
-</p>
+<h3><strong>Objectives</strong><br></h3>
 <p>Our school’s Science curriculum adheres to the Ministry of Education’s
 Science Curriculum Framework and utilizes the Scientific Inquiry Approach
 to meet both national and international standards. The primary aim is to
@@ -30,8 +26,7 @@ and apply scientific concepts in real-life situations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Approach</strong>
-</p>
+<h3><strong>Approach</strong></h3>
 <p><strong>Hands-On Investigations</strong>: Students engage in hands-on
 investigations and experiments in realistic settings.</p>
 <p><strong>Collaborative Learning</strong>: Learning occurs both inside and
@@ -46,8 +41,7 @@ of scientists.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programmes</strong>
-</p>
+<h3><strong>Programmes</strong></h3>
 <p>
 <br>
 </p>
@@ -73,8 +67,7 @@ Fair, providing excellent opportunities to showcase their talents and achievemen
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Gallery</strong>
-</p>
+<h3><strong>Gallery</strong></h3>
 <p>
 <br>
 <br>
