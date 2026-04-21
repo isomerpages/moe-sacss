@@ -127,3 +127,82 @@ or to fill in a self-referral form to seek an appointment.</p>
 </li>
 </ul>
 <p></p>
+<h3>Mental Health</h3>
+<p>Being a teenager is an amazing experience, but it can also be a little
+overwhelming at times for some. Here at SACSS, no matter what you are going
+through, we are here to help.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MentalHealth1.jpg">
+</div>
+<p>At the St Raphael Wellness Centre (SRWC), the SACSS Wellbeing Team brings
+together a group of three full time counsellors and a teacher counsellor
+to support our students in finding successful strategies to manage and
+overcome issues that may crop up in the lives of teenagers.&nbsp;</p>
+<p>We are also supported by our Student Welfare Officer and Education and
+Career Guidance Counsellor who work closely with the School Counsellors
+in supporting the welfare of our students.&nbsp;</p>
+<p>Besides referral by teachers or parents, students are free to walk in
+and speak with any of the school counsellors for urgent matters or, alternatively,
+to fill in a self-referral form to seek an appointment.</p>
+<p>Our Student Wellbeing Team:</p>
+<ul>
+<li>
+<p>Ms Gayathri Devi Kaneson (Senior School Counsellor) [<a href="mailto:gayathri_devi_kaneson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gayathri_devi_kaneson@moe.edu.sg</u></a>]</p>
+</li>
+<li>
+<p>Ms Rachael Goh (School Counsellor) [<a href="mailto:goh_cai_yun_rachael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_cai_yun_rachael@moe.edu.sg</u></a>]</p>
+</li>
+<li>
+<p>Mdm Wendy Shiao (Flexi Adjunct School Counsellor) [<a href="mailto:Shiao_ai_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Shiao_ai_choo@moe.edu.sg</u></a>]</p>
+</li>
+<li>
+<p>Mdm Wu Lin (Teacher Counsellor) [<a href="mailto:wu_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu_lin@moe.edu.sg</u></a>}</p>
+</li>
+<li>
+<p>Ms Evelyn See (Education and Career Guidance Counsellor)</p>
+</li>
+</ul>
+<p>-<a href="https://www.stanthonyscanossiansec.moe.edu.sg/student-support/education-and-career-guidance/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.stanthonyscanossiansec.moe.edu.sg/student-support/education-and-career-guidance/</u></a>&nbsp;</p>
+<ul>
+<li>
+<p>Ms Noriko Goh (Student Welfare Officer) [<a href="mailto:goh_noriko@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_noriko@moe.edu.sg</u></a>]</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MentalHealth2.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>The St. Raphael Wellness Centre (SRWC) is committed to providing a safe
+and supportive space for students receiving counselling. Our team continues
+to develop and enhance resources that empower students to self-regulate,
+especially when they need time and space to calm themselves.</p>
+<p>Good mental health is not just about talking to a counsellor or therapist.
+Our Form Teachers regularly conduct one-on-one wellbeing conversations
+with our students. During these sessions, girls are empowered to identify
+their values, and to learn how to effectively balance all aspects of their
+spirituality, health, learning and relationships. Eating healthy, getting
+enough sleep, and exercising are also important habits that will help improve
+one’s mental health.</p>
+<p></p>
+<h3>Education Support Committee</h3>
+<p>The Education Support Committee collaborates with the school to empower
+all students with essential mindsets and executive functioning skills for
+effective learning and personal development, such as how to set realistic
+and achievable goals, take steps to work towards them, and overcome challenges
+along the way. This includes providing holistic and comprehensive support
+to students with unique learning needs by working together with subject
+teachers, specialised personnel, parents, and external stakeholders so
+that they can achieve their fullest potential. Alongside these initiatives,
+the team also looks into the holistic development of students with Special
+Education Needs (SEN). The team taps on the affordances of technology,
+puts in place programmes and works together with external agencies, staff
+and students to strengthen an inclusive school culture where every student
+can thrive and succeed.</p>
+<p>
+<br>
+</p>
