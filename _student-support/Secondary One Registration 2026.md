@@ -4,9 +4,7 @@ permalink: /secondary-one-registration-2026/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p><strong><u>2026 Secondary 1 Briefing</u></strong>
-</p>
+<h3><strong>2026 Secondary 1 Briefing</strong></h3>
 <p></p>
 <p>A warm welcome and congratulations to all Secondary 1 students who will
 be joining St. Anthony’s Canossian Secondary School (SACSS)!</p>
