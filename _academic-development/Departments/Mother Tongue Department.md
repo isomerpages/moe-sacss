@@ -12,7 +12,7 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>Objectives</strong><br></h3>
+<h3><strong>Objectives</strong></h3>
 <p>At SACSS, the Mother Tongue Department is committed to nurturing confident,
 culturally-aware communicators who appreciate the richness of their heritage
 languages. We strive to develop students' proficiency in Mother Tongue
@@ -31,7 +31,6 @@ them to be effective global citizens.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h3><strong>Approach</strong></h3>
-<p></p>
 <p><strong>• Creative Expression: </strong>Students showcase their learning
 through art projects, reading exhibitions, and public performances that
 celebrate their linguistic and cultural achievements.</p>
