@@ -13,7 +13,6 @@ third_nav_title: Departments
 <tr>
 <td rowspan="1" colspan="1">
 <h3><strong>Objectives</strong></h3>
-<p></p>
 <p>Our Mathematics curriculum aligns with the MOE’s Mathematics Curriculum
 Framework, placing the Mathematical Problem-Solving pentagon at its core.</p>
 <p>Our primary objectives are to:</p>
@@ -86,12 +85,6 @@ feedback.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
