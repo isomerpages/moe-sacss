@@ -90,3 +90,14 @@ passion and purpose.</p>
 <p></p>
 <p><em>Whether in the kitchen, the studio, the Makerspace, or on stage, the SACSS Aesthetics Department is where passion meets purpose, and where the leaders of tomorrow begin their journey today.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AestheticsDepartment1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AestheticsDepartment2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AestheticsDepartment3.jpg">
+</div>
+<p></p>
