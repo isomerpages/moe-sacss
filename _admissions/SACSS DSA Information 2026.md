@@ -8,8 +8,7 @@ description: ""
 from <strong>10.00 a.m. to 11.00 a.m.</strong>
 </p>
 <p>&nbsp;</p>
-<p>For key dates and contact information, please click on this link:</p>
-<p><a href="/files/SACSS_DSA_Sec_2026_edited.pdf" rel="noopener nofollow" target="_blank">DSA Information</a>
+<p>For key dates and contact information, please click on this link: <a href="/files/SACSS_DSA_Sec_2026_edited.pdf" rel="noopener nofollow" target="_blank">DSA Information</a>
 </p>
 <p>&nbsp;</p>
 <p>For the criteria for DSA Talent Areas, please click on this link:
