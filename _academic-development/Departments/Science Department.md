@@ -12,7 +12,7 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>Objectives</strong><br></h3>
+<h3><strong>Objectives</strong></h3>
 <p>Our school’s Science curriculum adheres to the Ministry of Education’s
 Science Curriculum Framework and utilizes the Scientific Inquiry Approach
 to meet both national and international standards. The primary aim is to
@@ -42,9 +42,6 @@ of scientists.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h3><strong>Programmes</strong></h3>
-<p>
-<br>
-</p>
 <p><strong>Learning Beyond the Classroom<br></strong> We believe that learning
 science extends beyond the classroom walls. Outdoor experiences bring science
 to life, and collaborations with organizations like South East CDC, NEA,
