@@ -40,12 +40,6 @@ in a responsible, ethical and purposeful manner .</p>
 digital citizens and future-ready learners, equipped not only with technical
 skills but also with the judgment and values to navigate the digital world
 with confidence and purpose.</p>
-<p>
-<br>
-</p>
 <p>Our students are empowered to use technology purposefully - not just to
 consume information, but to create, collaborate and contribute meaningfully
 to society.</p>
-<p>
-<br>
-</p>
