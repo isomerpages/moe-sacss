@@ -425,7 +425,7 @@ ways of coping with broken relationships, and family and friends are important
 pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -747,7 +747,7 @@ way, including avenues for help-seeking.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
