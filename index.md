@@ -24,24 +24,6 @@ sections:
       description: Click on the link below
       url: https://stanthonyscanossiansec.moe.edu.sg/sacss-dsa-information-2026/
       button: Click here
-  - infobar:
-      title: 2025 GCE 'O' Level Examination Results
-      id: infobar
-      description: Please click on the link below for more information.
-      button: Click here
-      url: https://stanthonyscanossiansec.moe.edu.sg/student-support/2025-gce-o-level-examination-results/
-  - infobar:
-      title: Timetable 2026
-      id: infobar
-      description: Please click on the link below for more information.
-      button: Click here
-      url: https://stanthonyscanossiansec.moe.edu.sg/student-support/timetable-2026/
-  - infobar:
-      title: 2026 Secondary One Registration
-      id: infobar
-      description: Please click in
-      button: Click here
-      url: https://www.stanthonyscanossiansec.moe.edu.sg/secondary-one-registration-2026/
   - infopic:
       title: School Corporate Video
       description: School Corporate Video. A special video specially created by our

@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.00am - 6.00pm
-        description: "Closed on Public Holidays and Weekends. "
+        description: Closed on Public Holidays and Weekends.
     maps_link: https://goo.gl/maps/1KDL3jmWKmLLVKkW8
     title: Address
 contacts:
@@ -28,13 +28,14 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <b>Nearest MRT Station:</b> Bedok <br><b>Buses:</b> 17, 17A
+      - other: <b>Nearest MRT Station:</b> Bedok <br><b>Buses:</b> 17, 17A, 18, 18M
     title: "How to get there:"
   - content:
       - phone: ""
       - email: ""
       - other: <iframe
-          src="https://www.google.com/maps/embed/v1/place?q=st+anthony%27s+canossian+secondary&amp;key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8"
+          src="https://www.google.com/maps/embed/v1/place?q=st+anthony%27s+canossian+secondary&key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8"
           aria-hidden="true"></iframe>
     title: Map
+feedback: ""
 ---
