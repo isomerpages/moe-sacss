@@ -21,3 +21,8 @@ from <strong>10.00 a.m. to 11.00 a.m.</strong>
 <p>To register for the&nbsp;DSA Virtual Dialogue, please click on this link:</p>
 <p><a href="https://go.gov.sg/register-sacssdsaopenhouse2026" rel="noopener noreferrer nofollow" target="_blank">Registration Link</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA2026.png">
+</div>
+<p></p>
