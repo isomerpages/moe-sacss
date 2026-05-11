@@ -170,7 +170,7 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><strong>Information &amp; Communication Technology</strong>
 </p>
-<p>Mr Mohammad Imran Bin Shaik Kadir</p>
+<p>Mr Muhammad Imran Bin Shaik Kadir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_imran_shaik_kadir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_imran_shaik_kadir@moe.edu.sg</u></a>
