@@ -5,5 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Media
 ---
-<h4>Click <a href="https://www.youtube.com/watch?v=3bjGdkM-ABM" rel="noopener nofollow" target="_blank">here</a> to view the school's corporate video</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3bjGdkM-ABM?si=4DyQ2aMVbMkXompl"></iframe>
+</div>
 <p></p>
