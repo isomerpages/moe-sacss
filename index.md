@@ -9,4 +9,7 @@ sections:
   - hero:
       background: /images/SACSS 1_for Homepage.jpg
       variant: image
+  - resources:
+      title: Announcements
+      id: resources
 ---
