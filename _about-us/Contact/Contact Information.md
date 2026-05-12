@@ -14,6 +14,7 @@ third_nav_title: Contact
 
 [sacss@moe.edu.sg](mailto:sacss@moe.edu.sg)
 
+**School opening hours**: 
 7:00am - 6:00pm
 
 **Nearest MRT Station**:  
