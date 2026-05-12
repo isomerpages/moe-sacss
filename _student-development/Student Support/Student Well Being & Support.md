@@ -157,14 +157,12 @@ to fill in a self-referral form to seek an appointment.</p>
 <p>Mdm Wendy Shiao (Flexi Adjunct School Counsellor) [<a href="mailto:Shiao_ai_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Shiao_ai_choo@moe.edu.sg</u></a>]</p>
 </li>
 <li>
-<p>Mdm Wu Lin (Teacher Counsellor) [<a href="mailto:wu_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu_lin@moe.edu.sg</u></a>}</p>
+<p>Mdm Wu Lin (Teacher Counsellor) [<a href="mailto:wu_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu_lin@moe.edu.sg</u></a>]</p>
 </li>
 <li>
-<p>Ms Evelyn See (Education and Career Guidance Counsellor)</p>
+<p>Ms Evelyn See (Education and Career Guidance Counsellor) [<a href="mailto:see_xin_er@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_xin_er@moe.edu.sg]</a>
+</p>
 </li>
-</ul>
-<p>-<a href="https://www.stanthonyscanossiansec.moe.edu.sg/student-support/education-and-career-guidance/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.stanthonyscanossiansec.moe.edu.sg/student-support/education-and-career-guidance/</u></a>&nbsp;</p>
-<ul>
 <li>
 <p>Ms Noriko Goh (Student Welfare Officer) [<a href="mailto:goh_noriko@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_noriko@moe.edu.sg</u></a>]</p>
 </li>
