@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SACSS 1_for Homepage.jpg
+      background: /images/test1.gif
       variant: image
   - resources:
       title: Latest Updates
