@@ -10,6 +10,6 @@ sections:
       background: /images/SACSS 1_for Homepage.jpg
       variant: image
   - resources:
-      title: Announcements
+      title: Latest Updates
       id: resources
 ---
