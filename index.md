@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/test1.gif
+      background: /images/schoolwebbanner.gif
       variant: image
   - resources:
       title: Latest Updates
