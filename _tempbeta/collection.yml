@@ -1,0 +1,4 @@
+collections:
+  tempbeta:
+    output: true
+    order: []
