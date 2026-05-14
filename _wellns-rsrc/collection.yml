@@ -1,5 +1,5 @@
 collections:
-  wellness-resources:
+  wellns-rsrc:
     output: true
     order:
       - Coping with Anxiety.md
