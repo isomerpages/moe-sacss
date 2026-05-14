@@ -2,7 +2,6 @@ collections:
   tempbeta1:
     output: true
     order:
-      - tempbeta1(1).md
       - Canossian Education/.keep
       - Why SACSS/.keep
       - Why SACSS/tempbeta1(2)(1).md
