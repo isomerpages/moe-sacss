@@ -1,5 +1,5 @@
 collections:
-  academic-development:
+  learning:
     output: true
     order:
       - Departments/English Department.md
