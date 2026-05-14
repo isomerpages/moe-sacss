@@ -1,5 +1,5 @@
 collections:
-  canossian-life1:
+  1-canossian-life-old:
     output: true
     order:
       - Canossian Life.md
