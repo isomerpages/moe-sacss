@@ -1,5 +1,5 @@
 collections:
-  about-sacss:
+  1-about-sacss-old:
     output: true
     order:
       - Canossian Education/.keep
