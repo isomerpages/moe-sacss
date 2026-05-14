@@ -1,5 +1,5 @@
 collections:
-  departments:
+  3-departments-old:
     output: true
     order:
       - Student Dev Dept & Committees/.keep
