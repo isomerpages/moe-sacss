@@ -1,5 +1,5 @@
 collections:
-  performing-arts-ccas:
+  pfmg-a-c:
     output: true
     order:
       - Angklung.md
