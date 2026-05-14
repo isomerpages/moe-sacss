@@ -1,4 +1,5 @@
 collections:
   tempbeta:
     output: true
-    order: []
+    order:
+      - School Crest, Vision, Mission, Values.md
