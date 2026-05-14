@@ -2,15 +2,15 @@ collections:
   admissions:
     output: true
     order:
-      - SACSS DSA Information 2026.md
       - Secondary 1 Registration/.keep
       - Secondary 1 Registration/Key Dates.md
       - Secondary 1 Registration/Registration Process.md
+      - SACSS DSA Information 2026.md
       - Transfers & Appeals/.keep
       - Transfers & Appeals/Admission Criteria.md
       - Transfers & Appeals/Appeal Process.md
-      - Financial Matters/Scholarships.md
       - Financial Matters/.keep
+      - Financial Matters/Scholarships.md
       - Financial Matters/School Fees.md
       - Financial Matters/MOE FAS.md
       - Open House/.keep
