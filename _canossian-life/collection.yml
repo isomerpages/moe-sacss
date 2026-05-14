@@ -1,5 +1,5 @@
 collections:
-  the-canossian-experience:
+  canossian-life:
     output: true
     order:
       - Spirituality/Spiritual Life.md
