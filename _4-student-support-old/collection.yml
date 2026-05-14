@@ -1,5 +1,5 @@
 collections:
-  student-support:
+  4-student-support-old:
     output: true
     order:
       - 2025 GCE 'O' Level Examination Results.md
