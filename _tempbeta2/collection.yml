@@ -1,5 +1,5 @@
 collections:
-  2-canossian-life-old:
+  tempbeta2:
     output: true
     order:
       - Canossian Life.md
