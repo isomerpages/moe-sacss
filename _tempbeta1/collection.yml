@@ -2,7 +2,7 @@ collections:
   tempbeta1:
     output: true
     order:
-      - Alpha1/gamma1.md
+      - Alpha1/Gamma1.md
       - Alpha1/.keep
       - Alpha2/.keep
       - Alpha2/Gamma1.md
