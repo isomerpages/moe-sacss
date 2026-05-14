@@ -1,5 +1,4 @@
 collections:
   tempbeta:
     output: true
-    order:
-      - tempbeta1(1).md
+    order: []
