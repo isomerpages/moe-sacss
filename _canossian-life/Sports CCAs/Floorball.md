@@ -32,7 +32,6 @@ teamwork and sportsmanship, creating a safe and supportive environment
 for all. With dedication and unity, the team inspires one another to achieve
 excellence on the court while growing as individuals, embodying the true
 spirit of commitment, perseverance and sisterhood.</p>
-<p>Short description of CCA (5- 6 lines)</p>
 </td>
 </tr>
 <tr>
