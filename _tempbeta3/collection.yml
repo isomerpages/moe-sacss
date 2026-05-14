@@ -1,5 +1,5 @@
 collections:
-  3-departments-old:
+  tempbeta3:
     output: true
     order:
       - Student Dev Dept & Committees/.keep
