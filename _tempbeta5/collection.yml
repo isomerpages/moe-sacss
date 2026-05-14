@@ -1,5 +1,5 @@
 collections:
-  5-one-stop-old:
+  tempbeta5:
     output: true
     order:
       - Teacher Awards/.keep
