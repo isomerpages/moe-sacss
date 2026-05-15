@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Heritage
 ---
-<p><strong><u>St. Magdalene of Canossa</u></strong>
-</p>
+<h4><strong><u>St. Magdalene of Canossa</u></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CanossianSaints1.jpg">
 </div>
@@ -47,8 +46,7 @@ Paul II in 1988, Saint Magdalene of Canossa remains a beacon of charity
 and hope, inspiring countless souls to follow in her footsteps of love
 and service in a broken world.</p>
 <p></p>
-<p><strong><u>St. Josephine Margaret Bakhita</u></strong>
-</p>
+<h4><strong><u>St. Josephine Margaret Bakhita</u></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CanossianSaints2.jpg">
 </div>
