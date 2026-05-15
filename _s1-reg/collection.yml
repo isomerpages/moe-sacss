@@ -1,7 +1,0 @@
-collections:
-  s1-reg:
-    output: true
-    order:
-      - Registration for 2025 Secondary 1.md
-      - Appeals.md
-      - Purchase Information.md
