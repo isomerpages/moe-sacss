@@ -35,8 +35,6 @@ passion for excellence that extends far beyond their school years. The
 programme places strong emphasis on character development, sportsmanship,
 and self-discipline, shaping confident individuals who strive to excel
 both on and off the track.</p>
-<p></p>
-<p>Short description of CCA (5- 6 lines)</p>
 </td>
 </tr>
 <tr>
