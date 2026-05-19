@@ -3,16 +3,11 @@ collections:
     output: true
     order:
       - Secondary 1 Registration/.keep
-      - Secondary 1 Registration/Key Dates.md
       - Secondary 1 Registration/Registration Process.md
+      - Direct School Admission (DSA).md
       - Transfers & Appeals/.keep
       - Transfers & Appeals/Admission Criteria.md
       - Transfers & Appeals/Appeal Process.md
       - Financial Matters/.keep
       - Financial Matters/School Fees.md
       - Financial Matters/MOE FAS.md
-      - Open House/.keep
-      - Open House/Event Overview.md
-      - Open House/Registration.md
-      - Open House/Programme Highlights.md
-      - Open House/FAQs.md

@@ -1,14 +1,86 @@
 ---
 title: Badminton
-permalink: /canossian-life/Sports-CCAs/badminton/
+permalink: /badminton/
+variant: tiptap
 description: ""
 third_nav_title: Sports CCAs
 ---
-
-The St. Anthony’s Canossian Secondary School Badminton Team was founded in 2004. Discipline, Commitment, and Teamwork are the core values of our Badminton Team. Here at St. Anthony’s Canossian Secondary School, the Badminton Team takes things seriously. We always try to excel in everything we do, from maintaining the cleanliness of the courts for safety, to putting in our 100% effort in every training session to better ourselves. Our members all share a common interest and passion in Badminton. With this passion, we train passionately to make the school proud.
-
-The CCA also hosts exciting events annually, like the Badminton Camp where the members spend two days together getting to know each other better and a Badminton Carnival where we have a fun and friendly competition against other schools in Singapore. The Badminton Tea also managed to get into Top 8 for the ‘B Division’ Zonals in 2018, 2019 and 2021 and Top 8 for the ‘C Division’ Zonals in 2019. Lastly, Badminton is always a place where the students look forward to go to for every training, whether to de-stress from school, or to hone their skills and reach for their potential in the sport.
-
-|   |   |
-|---|---|
-| ![](/images/Canossian%20Life/Sports%20CCAs/BADMINTON/Badminton1-e1631631425590.jpg)  | <img src="/images/Canossian%20Life/Sports%20CCAs/BADMINTON/Badminton2.jpg" style="width:50%">   |
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>ABOUT</strong>
+</p>
+<p>At SACSS Badminton, discipline and dedication form the foundation of everything
+they do. The team trains with perseverance, pushing past their limits while
+standing by one another as a united group. Every challenge becomes an opportunity—not
+only to refine their skills but also to strengthen their bonds.Through
+their journey, the players cultivate values such as commitment, respect,
+and responsibility—qualities that guide them in school and in life. Along
+the way, they forge lasting friendships and learn the true meaning of perseverance.Together,
+they strive to embody teamwork and determination, representing SACSS with
+pride in every match and beyond the court.</p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of CCA:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers- In- Charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Andrew Poh</p>
+</li>
+<li>
+<p>Mr Quek Joo Siah</p>
+</li>
+<li>
+<p>Mr Brandon Choy</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Schedule 2026:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Day/s: Wednesday and Friday</p>
+<p>Time: 3pm - 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH (Main Venue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>

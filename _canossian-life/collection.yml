@@ -2,34 +2,34 @@ collections:
   canossian-life:
     output: true
     order:
-      - Canossian Life.md
+      - Spirituality/Spiritual Life.md
+      - Spirituality/.keep
+      - Leadership/Student Leadership.md
       - Leadership/.keep
-      - Leadership/Leadership & Community Engagement Camps (Sec 1 to 3).md
-      - Leadership/Strength Based Leadership Consultation.md
-      - Leadership/Leadership In Training (LIT) Programme.md
+      - Service/VIA Programmes.md
       - Service/.keep
-      - Service/Opportunities to Serve.md
-      - Career Preparation/.keep
-      - Career Preparation/Talent Takeoff Programme.md
-      - Career Preparation/Career & Education Advising.md
-      - Niche in Performing Arts Ed/.keep
-      - Niche in Performing Arts Ed/Arts Alive.md
-      - Niche in Performing Arts Ed/Drama Elective Programme.md
-      - Performing Arts CCAs.md
-      - Sports CCAs/.keep
-      - Sports CCAs/Sports CCAs.md
+      - Signature Programmes/Performing Arts Niche.md
+      - Signature Programmes/.keep
       - Sports CCAs/Badminton.md
       - Sports CCAs/Floorball.md
       - Sports CCAs/Netball.md
+      - Sports CCAs/Track & Field.md
       - Sports CCAs/Taekwondo.md
-      - Sports CCAs/Tennis.md
-      - Sports CCAs/Track and Field.md
-      - Clubs & Uniform Group CCAs/.keep
-      - Clubs & Uniform Group CCAs/Clubs & Uniform Group CCAs.md
-      - Clubs & Uniform Group CCAs/Debate Oratorical Society.md
-      - Clubs & Uniform Group CCAs/Library.md
-      - Clubs & Uniform Group CCAs/Media and Production Society.md
-      - Clubs & Uniform Group CCAs/St Magdalene's Club.md
-      - Clubs & Uniform Group CCAs/Girl Guides.md
-      - Clubs & Uniform Group CCAs/National Civil Defence Cadet Corps.md
-      - Young Scholars' Academic, Research & Initiatives.md
+      - Sports CCAs/.keep
+      - Performing Arts CCAs/Choir.md
+      - Performing Arts CCAs/Concert Band.md
+      - Performing Arts CCAs/Percussion Band.md
+      - Performing Arts CCAs/Guitar Ensemble.md
+      - Performing Arts CCAs/Angklung Band.md
+      - Performing Arts CCAs/Drama Club.md
+      - Performing Arts CCAs/Modern Dance.md
+      - Performing Arts CCAs/Indian Dance.md
+      - Performing Arts CCAs/.keep
+      - Clubs & Societies/Debating & Oratorical Society.md
+      - Clubs & Societies/Media & Production Society.md
+      - Clubs & Societies/Library.md
+      - Clubs & Societies/St Magdalene’s Club.md
+      - Clubs & Societies/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Civil Defence Cadet Corps.md
+      - Uniformed Groups/.keep

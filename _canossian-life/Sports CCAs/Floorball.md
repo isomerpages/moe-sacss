@@ -1,12 +1,84 @@
 ---
 title: Floorball
-permalink: /canossian-life/Sports-CCAs/floorball/
+permalink: /floorball/
+variant: tiptap
 description: ""
 third_nav_title: Sports CCAs
 ---
-
-The SACSS Floorball team comprises a group of disciplined, fun-loving and committed members who are constantly growing, as individuals in character and skills, as well as in a team. Through rigorous training sessions and team-bonding activities, we forge friendships whilst developing our tactical skills. Through the CCA activities, we strive to utilize every learning moment to help every player better understand their roles in the team, through bringing about a sense of responsibility. At the same time, we aim to provide a safe and conducive environment for the players to learn, grow and have fun. We believe that every member can be an engaged contributor to the team. Hence, every member is an active participant of their respective sub-committee, be it in Publicity and Logistics committee, the VIA committee, Physical Training committee or the Welfare committee, where they work together to improve the operations and welfare of the entire team.
-
-|   |   |
-|---|---|
-| ![](/images/Canossian%20Life/Sports%20CCAs/FLOORBALL/835B2341-1024x683.jpg)  |![](/images/Canossian%20Life/Sports%20CCAs/FLOORBALL/Floorball_1-1024x768.jpg)   |
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>ABOUT</strong>
+</p>
+<p>The SACSS Floorball team is a spirited community of disciplined players
+united by their passion for the sport. Through intensive training, NSG
+matches, friendly matches and team-bonding activities, members develop
+not only tactical skills and physical endurance, but also resilience, character
+and lasting friendships. Beyond the game, the CCA emphasises responsibility,
+teamwork and sportsmanship, creating a safe and supportive environment
+for all. With dedication and unity, the team inspires one another to achieve
+excellence on the court while growing as individuals, embodying the true
+spirit of commitment, perseverance and sisterhood.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of CCA:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floorball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers- In- Charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Kelvin Tan</p>
+</li>
+<li>
+<p>Mdm Wendy Arleena Bte Sukma</p>
+</li>
+<li>
+<p>Ms Shona Chow</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Schedule 2026:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Day/s: Wednesday and Friday</p>
+<p>Time: 3pm - 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MPH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
