@@ -9,8 +9,7 @@ third_nav_title: Financial Matters
 <p><a href="https://form.gov.sg/66ecdb458f79422c6d574999" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66ecdb458f79422c6d574999</a>
 </p>
 <p>SACSS Care Fund provides short to medium term additional financial aid
-to students in</p>
-<p>SACSS who are under the school's financial assistance scheme.</p>
+to students in SACSS who are under the school's financial assistance scheme.</p>
 <p><strong><u>Eligibility Criteria:</u></strong>
 </p>
 <p>• Beneficiaries of the school financial assistance scheme, including Ministry
