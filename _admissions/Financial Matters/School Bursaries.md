@@ -14,8 +14,7 @@ to students in SACSS who are under the school's financial assistance scheme.</p>
 </p>
 <p>• Beneficiaries of the school financial assistance scheme, including Ministry
 of Education (MOE) Financial Assistance Scheme (FAS), non-MOE FAS or Saint
-Magdalene-MILK Bursary (MILK) and other similar financial assistance schemes
-that SACSS has in place with external organisations.</p>
+Magdalene-MILK Bursary (MILK).</p>
 <p>• Open to Singapore Citizen, Permanent Residents and International Students
 who meets the eligibility criteria</p>
 <h4>Grace Chew Compassion Fund -</h4>
