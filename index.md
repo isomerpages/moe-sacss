@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SchoolWebBanner1.gif
+      background: /images/SACSS 1_straightened.jpg
       variant: image
   - resources:
       title: Latest Updates
