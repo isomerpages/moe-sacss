@@ -46,7 +46,7 @@ third_nav_title: Our People
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yee May Kuen Peggy Sarah</p>
+<p>Elizabeth Tham Why Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairman</p>
@@ -60,7 +60,7 @@ third_nav_title: Our People
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cheong May Aung Mamie</p>
+<p>Fan Yue Soon Charlesmie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Treasurer</p>
@@ -74,7 +74,7 @@ third_nav_title: Our People
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elizabeth Tham Why Choo</p>
+<p>Geraldine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Supervisor</p>
@@ -88,7 +88,7 @@ third_nav_title: Our People
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fan Yue Soon Charles</p>
+<p>Humi Yoshikawa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -102,7 +102,7 @@ third_nav_title: Our People
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leong Hoe Chng Janelene</p>
+<p>Martina Wong Yoke Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -116,7 +116,7 @@ third_nav_title: Our People
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wilson Wong Wie Sarn</p>
+<p>Peter Man Fai Hung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -130,7 +130,7 @@ third_nav_title: Our People
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Yoke Lin Martina</p>
+<p>Wilson Wong Wie Sarn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -144,7 +144,7 @@ third_nav_title: Our People
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geraldine Lim</p>
+<p>Yee May Kue Peggy Sarahn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
