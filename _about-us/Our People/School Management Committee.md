@@ -38,7 +38,7 @@ third_nav_title: Our People
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/07/2023</p>
+<p>01/07/2026</p>
 </td>
 </tr>
 <tr>
@@ -49,10 +49,10 @@ third_nav_title: Our People
 <p>Elizabeth Tham Why Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
+<p>Supervisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/07/2023</p>
+<p>01/07/2026</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ third_nav_title: Our People
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/07/2023</p>
+<p>01/07/2026</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ third_nav_title: Our People
 <p>Supervisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/07/2023</p>
+<p>01/07/2026</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ third_nav_title: Our People
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/07/2023</p>
+<p>01/07/2026</p>
 </td>
 </tr>
 <tr>
@@ -105,10 +105,10 @@ third_nav_title: Our People
 <p>Martina Wong Yoke Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Hon. Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/07/2023</p>
+<p>01/07/2026</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ third_nav_title: Our People
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/07/2023</p>
+<p>01/07/2026</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ third_nav_title: Our People
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/07/2023</p>
+<p>01/07/2026</p>
 </td>
 </tr>
 <tr>
@@ -147,10 +147,10 @@ third_nav_title: Our People
 <p>Yee May Kue Peggy Sarah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27/02/2025</p>
+<p>01/07/2026</p>
 </td>
 </tr>
 </tbody>
