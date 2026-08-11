@@ -60,7 +60,7 @@ third_nav_title: Our People
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fan Yue Soon Charlesmie</p>
+<p>Fan Yue Soon Charles</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Treasurer</p>
