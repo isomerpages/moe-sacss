@@ -144,7 +144,7 @@ third_nav_title: Our People
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yee May Kue Peggy Sarahn</p>
+<p>Yee May Kue Peggy Sarah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
