@@ -63,7 +63,7 @@ third_nav_title: Our People
 <p>Fan Yue Soon Charles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Treasurer</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>01/07/2026</p>
@@ -77,7 +77,7 @@ third_nav_title: Our People
 <p>Geraldine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Supervisor</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>01/07/2026</p>
